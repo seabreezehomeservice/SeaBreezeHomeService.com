@@ -248,9 +248,16 @@ body::before {
 .hero-bg-img {
   position: absolute;
   inset: 0;
-  background-size: cover;
-  background-position: 40% 60%;
+  overflow: hidden;
   opacity: 0.85;
+}
+#hero-video {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
 }
 .hero-bg-img::after {
   content: '';

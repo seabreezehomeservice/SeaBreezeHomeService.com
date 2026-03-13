@@ -5,11 +5,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
   <!-- ===== PRIMARY SEO ===== -->
-  <title>SeaBreeze Home Service LLC | Window Cleaning, Pressure Washing & Solar Panel Cleaning San Diego</title>
+  <title>Window & Solar Cleaning San Diego | SeaBreeze Home Service</title>
   <meta name="description" content="SeaBreeze Home Service LLC — San Diego's trusted exterior home maintenance company. Professional window cleaning, solar panel cleaning, gutter cleaning, pressure washing, and holiday lighting. Fully insured. Family owned. Serving all of San Diego County." />
   <meta name="keywords" content="window cleaning san diego, pressure washing san diego, solar panel cleaning san diego, gutter cleaning san diego, exterior home maintenance san diego, holiday light installation san diego, professional window cleaners san diego, soft washing san diego, SeaBreeze Home Service" />
   <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
   <link rel="canonical" href="https://seabreezehomeservice.com/" />
+  <link rel="icon" type="image/png" href="/brand_assets/SEABREEZE.png" />
+  <link rel="apple-touch-icon" href="/brand_assets/SEABREEZE.png" />
 
   <!-- ===== OPEN GRAPH ===== -->
   <meta property="og:type" content="website" />
@@ -44,8 +46,13 @@
         "url": "https://seabreezehomeservice.com/",
         "logo": "https://seabreezehomeservice.com/brand_assets/SEABREEZE.png",
         "image": "https://seabreezehomeservice.com/brand_assets/SEABREEZE.png",
-        "telephone": "(Insert Business Phone)",
-        "email": "(Insert Business Email)",
+        "telephone": "+16197328052",
+        "email": "seabreezehomeservice@gmail.com",
+        "sameAs": [
+          "https://www.instagram.com/seabreezehomeservice/",
+          "https://www.facebook.com/profile.php?id=61581491953121",
+          "https://www.tiktok.com/@seabreezehomeserv"
+        ],
         "address": {
           "@type": "PostalAddress",
           "addressLocality": "San Diego",
@@ -143,8 +150,7 @@
   <link rel="stylesheet" href="styles.css" />
 
   <style>
-    /* homepage-only: hero background */
-    .hero-bg-img { background-image: url('images/IMG_4427.jpg'); }
+    /* homepage-only: hero video background */
     /* keep the rest of variables for Tailwind compat */
     :root {
       --navy:       #0D3D6B;
@@ -396,10 +402,8 @@
     .hero-bg-img {
       position: absolute;
       inset: 0;
-      background-image: url('images/solar-panel-cleaning-san-diego.jpg');
-      background-size: cover;
-      background-position: center;
-      opacity: 0.45;
+      overflow: hidden;
+      opacity: 0.85;
     }
     .hero-bg-img::after {
       content: '';
@@ -563,9 +567,12 @@
 
     .services-grid {
       display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      grid-template-columns: repeat(3, 1fr);
       gap: 1.5rem;
       margin-top: 3rem;
+    }
+    .services-grid .service-card:last-child:nth-child(3n+1) {
+      grid-column: 2 / 3;
     }
 
     .service-card {
@@ -1037,6 +1044,7 @@
       <li><a href="#reviews">Reviews</a></li>
       <li><a href="#areas">Service Areas</a></li>
       <li><a href="#faq">FAQ</a></li>
+      <li><a href="tel:+16197328052" style="display:inline-flex;align-items:center;gap:0.4rem;"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 9.81 19.79 19.79 0 010 1.18 2 2 0 012 0h3a2 2 0 012 1.72c.127.96.361 1.903.7 2.81a2 2 0 01-.45 2.11L6.91 7.91a16 16 0 006.18 6.18l1.27-1.27a2 2 0 012.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0122 14.92z"/></svg>(619) 732-8052</a></li>
       <li><a href="https://clienthub.getjobber.com/hubs/a12ee5bd-819c-4fd8-b2d2-ebcfefefaa55/public/requests/1907659/new" class="btn-cta">Get a Quote</a></li>
     </ul>
     <button class="hamburger" id="hamburger" aria-label="Open menu" aria-expanded="false" aria-controls="mobile-menu">
@@ -1059,7 +1067,11 @@
 
   <!-- ===== HERO ===== -->
   <header id="hero" role="banner">
-    <div class="hero-bg-img" role="presentation" aria-hidden="true"></div>
+    <div class="hero-bg-img" role="presentation" aria-hidden="true">
+      <video id="hero-video" autoplay muted loop playsinline>
+        <source src="images/0313.mp4" type="video/mp4">
+      </video>
+    </div>
     <div class="hero-content">
       <div class="hero-eyebrow">
         <span class="dot" aria-hidden="true"></span>
@@ -1633,10 +1645,31 @@
         <h4>Contact</h4>
         <ul>
           <li><a href="https://clienthub.getjobber.com/hubs/a12ee5bd-819c-4fd8-b2d2-ebcfefefaa55/public/requests/1907659/new">Get a Quote</a></li>
-          <li><a href="mailto:INSERTEMAIL">Email Us</a></li>
+          <li><a href="tel:+16197328052">(619) 732-8052</a></li>
+          <li><a href="mailto:seabreezehomeservice@gmail.com">seabreezehomeservice@gmail.com</a></li>
           <li><span style="color:var(--muted);font-size:0.85rem;">San Diego County, CA</span></li>
           <li><span style="color:var(--muted);font-size:0.85rem;">Mon–Sat 7am–6pm</span></li>
         </ul>
+        <div style="display:flex;gap:0.6rem;margin-top:1.2rem;">
+          <a href="https://www.instagram.com/seabreezehomeservice/" target="_blank" rel="noopener" aria-label="SeaBreeze on Instagram"
+             style="display:flex;align-items:center;justify-content:center;width:38px;height:38px;border-radius:8px;background:linear-gradient(135deg,#f09433,#e6683c,#dc2743,#cc2366,#bc1888);color:#fff;transition:transform 0.2s,box-shadow 0.2s;box-shadow:0 2px 8px rgba(220,39,67,0.35);"
+             onmouseover="this.style.transform='translateY(-2px)';this.style.boxShadow='0 6px 18px rgba(220,39,67,0.5)'"
+             onmouseout="this.style.transform='translateY(0)';this.style.boxShadow='0 2px 8px rgba(220,39,67,0.35)'">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1112.63 8 4 4 0 0116 11.37z"/><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/></svg>
+          </a>
+          <a href="https://www.facebook.com/profile.php?id=61581491953121" target="_blank" rel="noopener" aria-label="SeaBreeze on Facebook"
+             style="display:flex;align-items:center;justify-content:center;width:38px;height:38px;border-radius:8px;background:#1877F2;color:#fff;transition:transform 0.2s,box-shadow 0.2s;box-shadow:0 2px 8px rgba(24,119,242,0.35);"
+             onmouseover="this.style.transform='translateY(-2px)';this.style.boxShadow='0 6px 18px rgba(24,119,242,0.5)'"
+             onmouseout="this.style.transform='translateY(0)';this.style.boxShadow='0 2px 8px rgba(24,119,242,0.35)'">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"/></svg>
+          </a>
+          <a href="https://www.tiktok.com/@seabreezehomeserv" target="_blank" rel="noopener" aria-label="SeaBreeze on TikTok"
+             style="display:flex;align-items:center;justify-content:center;width:38px;height:38px;border-radius:8px;background:#010101;color:#fff;border:1px solid rgba(255,255,255,0.15);transition:transform 0.2s,box-shadow 0.2s;box-shadow:0 2px 8px rgba(0,0,0,0.4);"
+             onmouseover="this.style.transform='translateY(-2px)';this.style.boxShadow='0 6px 18px rgba(105,201,208,0.4)'"
+             onmouseout="this.style.transform='translateY(0)';this.style.boxShadow='0 2px 8px rgba(0,0,0,0.4)'">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 12a4 4 0 104 4V4a5 5 0 005 5"/></svg>
+          </a>
+        </div>
       </div>
     </div>
 
@@ -1719,6 +1752,22 @@
       window.addEventListener('mouseup', () => active = false);
       window.addEventListener('touchend', () => active = false);
     });
+  </script>
+
+  <script>
+    // Hero video: play at half speed, pause when hero leaves viewport
+    (function() {
+      var video = document.getElementById('hero-video');
+      if (!video) return;
+      video.playbackRate = 0.5;
+      var observer = new IntersectionObserver(function(entries) {
+        entries.forEach(function(entry) {
+          if (entry.isIntersecting) { video.play(); }
+          else { video.pause(); }
+        });
+      }, { threshold: 0.1 });
+      observer.observe(document.getElementById('hero'));
+    })();
   </script>
 
 </body>
