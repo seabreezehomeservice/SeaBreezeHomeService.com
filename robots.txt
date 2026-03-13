@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /node_modules/
 
-Sitemap: https://seabreezehomeservice.com/sitemap.xml
+Sitemap: https://www.seabreezehomeservice.com/sitemap.xml

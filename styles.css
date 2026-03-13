@@ -957,6 +957,26 @@ footer {
   .ba-after, .ba-before-wrap img { height: 240px; }
 }
 
+/* SOCIAL BUTTONS — used in footer across all pages */
+.soc-buttons { display: flex; gap: 0.6rem; margin-top: 1.2rem; }
+.soc-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 38px;
+  height: 38px;
+  border-radius: 8px;
+  color: #fff;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+.soc-ig { background: linear-gradient(135deg,#f09433,#e6683c,#dc2743,#cc2366,#bc1888); box-shadow: 0 2px 8px rgba(220,39,67,0.35); }
+.soc-fb { background: #1877F2; box-shadow: 0 2px 8px rgba(24,119,242,0.35); }
+.soc-tt { background: #010101; border: 1px solid rgba(255,255,255,0.15); box-shadow: 0 2px 8px rgba(0,0,0,0.4); }
+.soc-btn:hover { transform: translateY(-2px); }
+.soc-ig:hover { box-shadow: 0 6px 18px rgba(220,39,67,0.5); }
+.soc-fb:hover { box-shadow: 0 6px 18px rgba(24,119,242,0.5); }
+.soc-tt:hover { box-shadow: 0 6px 18px rgba(105,201,208,0.4); }
+
 /* SCROLL REVEAL */
 .js-loaded .reveal {
   opacity: 0;
