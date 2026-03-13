@@ -146,7 +146,9 @@
   <!-- ===== FONTS ===== -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <!-- Preload hero poster for fast LCP on mobile -->
+  <link rel="preload" as="image" href="images/hero-poster.webp" fetchpriority="high" />
 
   <link rel="stylesheet" href="styles.css" />
 
@@ -1089,9 +1091,7 @@
   <!-- ===== HERO ===== -->
   <header id="hero" role="banner">
     <div class="hero-bg-img" role="presentation" aria-hidden="true">
-      <video id="hero-video" autoplay muted loop playsinline>
-        <source src="images/0313.mp4" type="video/mp4">
-      </video>
+      <video id="hero-video" autoplay muted loop playsinline poster="images/hero-poster.webp"></video>
     </div>
     <div class="hero-content">
       <div class="hero-eyebrow">
@@ -1168,7 +1168,7 @@
     <div class="section-inner about-inner">
       <div class="about-photo-col reveal">
         <div class="about-photo-wrap">
-          <img src="images/seabreeze-team-san-diego.jpg"
+          <img src="images/seabreeze-team-san-diego.webp"
                alt="SeaBreeze Home Service founder cleaning windows with water-fed pole in San Diego"
                class="about-photo-img" loading="lazy" />
         </div>
@@ -1221,7 +1221,7 @@
       <div class="services-grid" role="list">
 
         <a href="/window-cleaning-san-diego.html" class="service-card service-card-link reveal" role="listitem" aria-label="Window Cleaning San Diego">
-          <img src="images/seabreeze-work-san-diego-3.jpg"
+          <img src="images/seabreeze-work-san-diego-3.webp"
                alt="SeaBreeze technician using a water-fed pole to clean residential windows in San Diego"
                title="Professional Window Cleaning San Diego — SeaBreeze Home Service"
                loading="lazy" width="400" height="180"
@@ -1231,7 +1231,7 @@
         </a>
 
         <a href="/solar-panel-cleaning-san-diego.html" class="service-card service-card-link reveal reveal-delay-1" role="listitem" aria-label="Solar Panel Cleaning San Diego">
-          <img src="images/solar-panel-cleaning-san-diego-2.jpg"
+          <img src="images/solar-panel-cleaning-san-diego-2.webp"
                alt="Solar panels on a tile roof being cleaned under a clear blue San Diego sky by SeaBreeze Home Service"
                title="Professional Solar Panel Cleaning San Diego — SeaBreeze Home Service"
                loading="lazy" width="400" height="180"
@@ -1241,7 +1241,7 @@
         </a>
 
         <a href="/pressure-washing-san-diego.html" class="service-card service-card-link reveal reveal-delay-2" role="listitem" aria-label="Pressure Washing San Diego">
-          <img src="images/pressure-washing-san-diego-sidewalk.jpg"
+          <img src="images/pressure-washing-san-diego-sidewalk.webp"
                alt="Professional pressure washing a concrete sidewalk in San Diego by SeaBreeze Home Service"
                title="Pressure Washing San Diego — SeaBreeze Home Service"
                loading="lazy" width="400" height="180"
@@ -1251,7 +1251,7 @@
         </a>
 
         <a href="/soft-washing-san-diego.html" class="service-card service-card-link reveal" role="listitem" aria-label="Soft Washing San Diego">
-          <img src="images/soft-washing-san-diego.jpg"
+          <img src="images/soft-washing-san-diego.webp"
                alt="Soft washing house siding in San Diego with low-pressure spray by SeaBreeze Home Service"
                title="Soft Washing San Diego — SeaBreeze Home Service"
                loading="lazy" width="400" height="180"
@@ -1261,7 +1261,7 @@
         </a>
 
         <a href="/holiday-light-installation-san-diego.html" class="service-card service-card-link reveal reveal-delay-1" role="listitem" aria-label="Holiday Light Installation San Diego">
-          <img src="images/holiday-light-installation-san-diego-home.jpg"
+          <img src="images/holiday-light-installation-san-diego-home.webp"
                alt="San Diego home with professional holiday light installation by SeaBreeze Home Service"
                title="Holiday Light Installation San Diego — SeaBreeze Home Service"
                loading="lazy" width="400" height="180"
@@ -1271,7 +1271,7 @@
         </a>
 
         <a href="/permanent-lighting-san-diego.html" class="service-card service-card-link reveal reveal-delay-2" role="listitem" aria-label="Permanent LED Lighting Installation San Diego">
-          <img src="images/permanent-lighting-san-diego-2.jpg"
+          <img src="images/permanent-lighting-san-diego-2.webp"
                alt="San Diego home with colorful permanent LED roofline lighting installed by SeaBreeze Home Service"
                title="Permanent LED Lighting Installation San Diego — SeaBreeze Home Service"
                loading="lazy" width="400" height="180"
@@ -1281,7 +1281,7 @@
         </a>
 
         <a href="/gutter-cleaning-san-diego.html" class="service-card service-card-link reveal reveal-delay-3" role="listitem" aria-label="Gutter Cleaning San Diego">
-          <img src="images/gutter-cleaning-after-san-diego.jpg"
+          <img src="images/gutter-cleaning-after-san-diego.webp"
                alt="Clean gutter after professional gutter cleaning service in San Diego by SeaBreeze Home Service"
                title="Gutter Cleaning San Diego — SeaBreeze Home Service"
                loading="lazy" width="400" height="180"
@@ -1308,12 +1308,12 @@
         <div>
           <span class="ba-caption">Window Cleaning Results – Before &amp; After</span>
           <div class="ba-slider" data-slider aria-label="Window cleaning before and after comparison">
-            <img class="ba-after" src="images/window-cleaning-after-san-diego.jpg"
+            <img class="ba-after" src="images/window-cleaning-after-san-diego.webp"
                  alt="Clean commercial windows after professional window cleaning by SeaBreeze Home Service in San Diego"
                  title="Clean Windows After Professional Cleaning — SeaBreeze Home Service San Diego"
                  width="680" height="480" />
             <div class="ba-before-wrap">
-              <img src="images/window-cleaning-before-san-diego.jpg"
+              <img src="images/window-cleaning-before-san-diego.webp"
                    alt="Dirty commercial windows before professional cleaning by SeaBreeze Home Service in San Diego"
                    title="Dirty Windows Before Cleaning — SeaBreeze Home Service San Diego"
                    width="680" height="480" />
@@ -1331,12 +1331,12 @@
         <div>
           <span class="ba-caption">Gutter Cleaning Results – Before &amp; After</span>
           <div class="ba-slider" data-slider aria-label="Gutter cleaning before and after comparison">
-            <img class="ba-after" src="images/gutter-cleaning-after-san-diego.jpg"
+            <img class="ba-after" src="images/gutter-cleaning-after-san-diego.webp"
                  alt="Clean and clear gutter after professional gutter cleaning by SeaBreeze Home Service in San Diego"
                  title="Clean Gutter After Professional Gutter Cleaning — SeaBreeze Home Service San Diego"
                  width="680" height="480" />
             <div class="ba-before-wrap">
-              <img src="images/gutter-cleaning-before-san-diego.jpg"
+              <img src="images/gutter-cleaning-before-san-diego.webp"
                    alt="Clogged gutter full of debris before SeaBreeze gutter cleaning in San Diego"
                    title="Clogged Gutter Before Cleaning — SeaBreeze Home Service San Diego"
                    width="680" height="480" />
@@ -1359,7 +1359,7 @@
     <div class="section-inner">
       <div class="why-grid">
         <div class="why-visual reveal">
-          <img src="images/seabreeze-technician-san-diego.jpg" alt="SeaBreeze Home Service van seen through a freshly cleaned window in San Diego" title="Professional Window Cleaning Results — SeaBreeze Home Service San Diego" loading="lazy" />
+          <img src="images/seabreeze-technician-san-diego.webp" alt="SeaBreeze Home Service van seen through a freshly cleaned window in San Diego" title="Professional Window Cleaning Results — SeaBreeze Home Service San Diego" loading="lazy" />
           <div class="why-badge">
             <span class="why-badge-icon" aria-hidden="true">🏆</span>
             <div class="why-badge-text">
@@ -1767,10 +1767,18 @@
   </script>
 
   <script>
-    // Hero video: play at half speed, pause when hero leaves viewport
+    // Hero video: desktop only — never download on mobile
     (function() {
       var video = document.getElementById('hero-video');
       if (!video) return;
+      // Mobile: keep poster image, skip video entirely (saves ~17MB download)
+      if (window.innerWidth < 769 || window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+      // Desktop: inject source and play
+      var src = document.createElement('source');
+      src.src = 'images/0313.mp4';
+      src.type = 'video/mp4';
+      video.appendChild(src);
+      video.load();
       video.playbackRate = 0.5;
       var observer = new IntersectionObserver(function(entries) {
         entries.forEach(function(entry) {
