@@ -248,8 +248,8 @@ body::before {
 .hero-bg-img {
   position: absolute;
   inset: 0;
-  background-size: 150%;
-  background-position: 50% 34%;
+  background-size: cover;
+  background-position: 40% 60%;
   opacity: 0.85;
 }
 .hero-bg-img::after {
