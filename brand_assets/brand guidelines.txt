@@ -1,0 +1,327 @@
+# SeaBreeze Home Service LLC
+Brand Guidelines
+
+Version 1.0  
+Location San Diego County, California  
+Industry Exterior Home Maintenance Services
+
+---
+
+# 1. Brand Identity
+
+SeaBreeze Home Service LLC is a premium but approachable exterior home service company serving San Diego homeowners.
+
+Our brand represents
+
+• Trust  
+• Professionalism  
+• Safety  
+• Attention to detail  
+• Family-run service  
+• Coastal California lifestyle
+
+We position ourselves as a higher-quality alternative to cheap contractors.
+
+---
+
+# 2. Brand Voice
+
+Tone should always be
+
+Friendly  
+Professional  
+Confident  
+Clear  
+Trustworthy  
+
+Avoid sounding
+
+• Cheap
+• Salesy
+• Aggressive
+• Corporate
+• Robotic
+
+Good examples
+
+Professional window cleaning trusted by San Diego homeowners.
+
+Protect your home's appearance and value.
+
+Safe, professional exterior maintenance.
+
+---
+
+# 3. Target Customer
+
+Primary Audience
+
+• Homeowners
+• Age 35 – 70
+• Higher-income neighborhoods
+• Property managers
+• Real estate professionals
+
+Common motivations
+
+• Protect property value
+• Maintain curb appeal
+• Avoid liability from DIY ladder work
+• Keep homes looking beautiful
+
+---
+
+# 4. Brand Colors
+
+Primary Colors
+
+Navy Blue  
+HEX #0A2540  
+Usage Headers, navigation bars, buttons
+
+Sea Blue  
+HEX #1CA9C9  
+Usage accents, highlights, icons
+
+White  
+HEX #FFFFFF  
+Usage backgrounds, spacing
+
+Light Gray  
+HEX #F4F6F8  
+Usage section backgrounds
+
+Dark Gray  
+HEX #333333  
+Usage body text
+
+---
+
+# 5. Typography
+
+Primary Font
+
+Sans-serif modern font
+
+Recommended
+
+Inter  
+Poppins  
+Montserrat
+
+Usage
+
+Headings Bold  
+Body text Regular  
+
+Avoid decorative fonts.
+
+---
+
+# 6. Logo Usage
+
+Logo should appear
+
+• Top left of website header
+• Website footer
+• Marketing materials
+• Service vehicles
+• Social media graphics
+
+Maintain clear space around logo.
+
+Never distort or stretch logo.
+
+---
+
+# 7. Imagery Style
+
+Use images that show
+
+• Real homes
+• Technicians working safely
+• Before and after transformations
+• Clean windows
+• Pressure washing results
+• Happy homeowners
+• San Diego coastal homes
+
+Preferred image style
+
+Bright  
+Natural lighting  
+High resolution  
+Professional appearance  
+
+Avoid
+
+• Stock photos that look fake
+• Low resolution photos
+• Dark or cluttered images
+
+---
+
+# 8. Services
+
+Core Services
+
+• Window Cleaning
+• Solar Panel Cleaning
+• Gutter Cleaning
+• Pressure Washing
+• Soft Washing
+• Holiday Light Installation
+• Permanent Lighting (Govee)
+
+Additional Services
+
+• Garage Rack Installation
+• Furniture Assembly
+• Trash Can Cleaning
+
+---
+
+# 9. Trust Signals
+
+Website should emphasize
+
+• Fully insured
+• Professional equipment
+• Trained technicians
+• Safety procedures
+• Local San Diego company
+• Family owned
+
+Trust elements to include
+
+• Customer reviews
+• Beforeafter photos
+• Safety messaging
+• Years of experience
+• Local service areas
+
+---
+
+# 10. Website Style
+
+The website should feel
+
+Clean  
+Modern  
+Trustworthy  
+Easy to navigate  
+Mobile friendly
+
+Good UI characteristics
+
+• Lots of white space
+• Rounded corners
+• Large images
+• Clear sections
+• Simple navigation
+• Visible phone number
+• Quote buttons
+
+---
+
+# 11. Messaging Themes
+
+Focus messaging on
+
+Protecting the home  
+Improving curb appeal  
+Professional service  
+Safety  
+Reliability  
+
+Examples
+
+Protect your home's curb appeal.
+
+Professional exterior maintenance.
+
+Trusted by San Diego homeowners.
+
+---
+
+# 12. Calls To Action
+
+Primary CTAs
+
+Get a Quote  
+Request Service  
+Call Now  
+
+Secondary CTAs
+
+View Services  
+See Our Work  
+Get an Estimate
+
+---
+
+# 13. SEO Keywords
+
+Primary Keywords
+
+window cleaning san diego  
+pressure washing san diego  
+solar panel cleaning san diego  
+gutter cleaning san diego  
+
+Secondary Keywords
+
+professional window cleaners san diego  
+exterior home maintenance san diego  
+holiday light installation san diego  
+
+---
+
+# 14. Contact Information
+
+Business Name  
+SeaBreeze Home Service LLC
+
+Service Area  
+San Diego County
+
+Phone  
+(Insert Business Phone)
+
+Email  
+(Insert Business Email)
+
+Website  
+(Insert Website URL)
+
+---
+
+# 15. Design Principles
+
+Every page should include
+
+Hero Section  
+Service Explanation  
+Benefits  
+Photos  
+Reviews  
+Call To Action
+
+Avoid clutter.
+
+The site should feel premium but friendly.
+
+---
+
+# 16. AI Instructions
+
+When generating website components or content
+
+Follow SeaBreeze brand voice.  
+Use provided color palette.  
+Keep layouts clean and modern.  
+Prioritize trust and professionalism.
+
+Do not create overly flashy designs.
+
+Focus on clarity and homeowner trust.

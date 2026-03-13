@@ -1,0 +1,11 @@
+node_modules/
+temporary screenshots/
+memory/
+CLAUDE.md
+*.jsonl
+.env
+.claude/
+*.heic
+*.HEIC
+clekt.co.uk_.png
+images/clekt.co.uk_.png
