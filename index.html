@@ -942,25 +942,20 @@
       .footer-inner { grid-template-columns: 1fr; }
       .services-grid { grid-template-columns: 1fr; gap: 0.75rem; }
       .process-steps { grid-template-columns: 1fr 1fr; }
-      /* Compact horizontal card layout on mobile */
+      /* Vertical card layout on mobile: image on top, title + description below */
       .service-card {
-        display: flex;
-        flex-direction: row;
-        align-items: center;
-        gap: 0.9rem;
+        display: block;
         padding: 0.75rem;
       }
       .service-card img {
-        width: 76px !important;
-        height: 76px !important;
-        min-width: 76px;
+        width: 100% !important;
+        height: 160px !important;
         border-radius: 8px !important;
-        margin-bottom: 0 !important;
+        margin-bottom: 0.6rem !important;
         object-fit: cover;
-        flex-shrink: 0;
       }
-      .svc-title { font-size: 0.95rem; margin-bottom: 0.25rem; }
-      .svc-desc { font-size: 0.8rem; line-height: 1.4; margin: 0; }
+      .svc-title { font-size: 0.95rem; margin-bottom: 0.2rem; }
+      .svc-desc { font-size: 0.82rem; line-height: 1.45; margin: 0; }
       /* Cancel the centering override — not needed for single-column */
       .services-grid .service-card:last-child:nth-child(3n+1) { grid-column: auto; }
     }
