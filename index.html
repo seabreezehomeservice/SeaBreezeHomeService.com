@@ -642,8 +642,7 @@
     }
     .why-visual img {
       width: 100%;
-      height: 440px;
-      object-fit: cover;
+      height: auto;
       display: block;
       filter: brightness(0.85) saturate(1.1);
     }
@@ -931,8 +930,7 @@
     /* ---- RESPONSIVE ---- */
     @media (max-width: 1024px) {
       .why-grid { grid-template-columns: 1fr; }
-      .why-visual { max-height: 300px; }
-      .why-visual img { height: 300px; }
+      .why-visual img { width: 100%; height: auto; }
       .footer-inner { grid-template-columns: 1fr 1fr; }
       .process-steps { grid-template-columns: repeat(2,1fr); }
       .process-steps::before { display: none; }
@@ -1065,7 +1063,7 @@
       <li><a href="#areas">Service Areas</a></li>
       <li><a href="#faq">FAQ</a></li>
       <li><a href="tel:+16197328052" style="display:inline-flex;align-items:center;gap:0.4rem;"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 9.81 19.79 19.79 0 010 1.18 2 2 0 012 0h3a2 2 0 012 1.72c.127.96.361 1.903.7 2.81a2 2 0 01-.45 2.11L6.91 7.91a16 16 0 006.18 6.18l1.27-1.27a2 2 0 012.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0122 14.92z"/></svg>(619) 732-8052</a></li>
-      <li><a href="https://clienthub.getjobber.com/hubs/a12ee5bd-819c-4fd8-b2d2-ebcfefefaa55/public/requests/1907659/new" class="btn-cta">Get a Quote</a></li>
+      <li><a href="https://clienthub.getjobber.com/hubs/a12ee5bd-819c-4fd8-b2d2-ebcfefefaa55/public/requests/1907659/new" target="_blank" rel="noopener noreferrer" class="btn-cta">Get a Quote</a></li>
     </ul>
     <button class="hamburger" id="hamburger" aria-label="Open menu" aria-expanded="false" aria-controls="mobile-menu">
       <span></span><span></span><span></span>
@@ -1081,7 +1079,7 @@
       <li><a href="#reviews" onclick="closeMobile()">Reviews</a></li>
       <li><a href="#areas" onclick="closeMobile()">Service Areas</a></li>
       <li><a href="#faq" onclick="closeMobile()">FAQ</a></li>
-      <li><a href="https://clienthub.getjobber.com/hubs/a12ee5bd-819c-4fd8-b2d2-ebcfefefaa55/public/requests/1907659/new" onclick="closeMobile()" class="btn-cta" style="display:inline-block;margin-top:0.5rem;">Get a Quote</a></li>
+      <li><a href="https://clienthub.getjobber.com/hubs/a12ee5bd-819c-4fd8-b2d2-ebcfefefaa55/public/requests/1907659/new" target="_blank" rel="noopener noreferrer" onclick="closeMobile()" class="btn-cta" style="display:inline-block;margin-top:0.5rem;">Get a Quote</a></li>
     </ul>
   </div>
 
@@ -1107,11 +1105,15 @@
       </p>
 
       <div class="hero-ctas">
-        <a href="https://clienthub.getjobber.com/hubs/a12ee5bd-819c-4fd8-b2d2-ebcfefefaa55/public/requests/1907659/new" class="btn-primary-lg" aria-label="Call SeaBreeze Home Service to get a free quote">
+        <a href="https://clienthub.getjobber.com/hubs/a12ee5bd-819c-4fd8-b2d2-ebcfefefaa55/public/requests/1907659/new" target="_blank" rel="noopener noreferrer" class="btn-primary-lg" aria-label="Call SeaBreeze Home Service to get a free quote">
           <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 9.81 19.79 19.79 0 01.0 1.18 2 2 0 012 0h3a2 2 0 012 1.72c.127.96.361 1.903.7 2.81a2 2 0 01-.45 2.11L6.91 7.91a16 16 0 006.18 6.18l1.27-1.27a2 2 0 012.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0122 14.92z"/></svg>
           Get a Free Quote
         </a>
-        <a href="#services" class="btn-outline" aria-label="View all exterior home services">
+        <a href="tel:+16197328052" class="btn-outline" aria-label="Call SeaBreeze Home Service" style="display:none;" id="hero-call-btn">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 9.81 19.79 19.79 0 01.0 1.18 2 2 0 012 0h3a2 2 0 012 1.72c.127.96.361 1.903.7 2.81a2 2 0 01-.45 2.11L6.91 7.91a16 16 0 006.18 6.18l1.27-1.27a2 2 0 012.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0122 14.92z"/></svg>
+          (619) 732-8052
+        </a>
+        <a href="#services" class="btn-outline" aria-label="View all exterior home services" id="hero-services-btn">
           View Services
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
         </a>
@@ -1248,11 +1250,11 @@
         </a>
 
         <a href="/soft-washing-san-diego.html" class="service-card service-card-link reveal" role="listitem" aria-label="Soft Washing San Diego">
-          <img src="images/soft-washing-san-diego.webp"
+          <img src="images/the-right-way-to-pressure-wash.png"
                alt="Soft washing house siding in San Diego with low-pressure spray by SeaBreeze Home Service"
                title="Soft Washing San Diego — SeaBreeze Home Service"
                loading="lazy" width="400" height="180"
-               style="width:100%;height:140px;object-fit:cover;object-position:center 35%;border-radius:8px;margin-bottom:1rem;display:block;" />
+               style="width:100%;height:140px;object-fit:contain;object-position:center;border-radius:8px;margin-bottom:1rem;display:block;" />
           <h3 class="svc-title">Soft Washing</h3>
           <p class="svc-desc">Gentle low-pressure soft washing for roofs, stucco, and delicate surfaces. Our eco-friendly solutions remove algae and staining without damage.</p>
         </a>
@@ -1361,7 +1363,7 @@
             <span class="why-badge-icon" aria-hidden="true">🏆</span>
             <div class="why-badge-text">
               <strong>Top Rated in San Diego</strong>
-              <span>5.0 ★ — 47+ Five-Star Reviews</span>
+              <a href="https://www.google.com/search?q=SeaBreeze+Home+Service+San+Diego+reviews" target="_blank" rel="noopener noreferrer" style="color:var(--sea);font-size:0.78rem;text-decoration:none;">5.0 ★ — See our Google reviews ↗</a>
             </div>
           </div>
         </div>
@@ -1451,32 +1453,36 @@
         Trusted by San Diego<br />Homeowners
       </h2>
 
+      <div style="display:flex;align-items:center;justify-content:center;gap:0.6rem;margin-bottom:0.5rem;" class="reveal">
+        <svg width="20" height="20" viewBox="0 0 24 24" aria-hidden="true"><path fill="#4285F4" d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z"/><path fill="#34A853" d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84C3.99 20.53 7.7 23 12 23z"/><path fill="#FBBC05" d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.07H2.18C1.43 8.55 1 10.22 1 12s.43 3.45 1.18 4.93l3.66-2.84z"/><path fill="#EA4335" d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.07l3.66 2.84c.87-2.6 3.3-4.53 6.16-4.53z"/></svg>
+        <a href="https://www.google.com/search?q=SeaBreeze+Home+Service+San+Diego+reviews" target="_blank" rel="noopener noreferrer" style="color:var(--sea);font-size:0.85rem;font-weight:600;text-decoration:none;">See all our reviews on Google ↗</a>
+      </div>
       <div class="reviews-grid" itemscope itemtype="https://schema.org/ItemList">
 
         <article class="review-card reveal" itemscope itemtype="https://schema.org/Review">
           <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
-          <p class="review-text" itemprop="reviewBody">"SeaBreeze did an amazing job on our windows and solar panels. You can see the difference immediately — the solar output went up and the windows are spotless. Professional, punctual, and reasonably priced."</p>
+          <p class="review-text" itemprop="reviewBody">"They did a Govee lights installation on my property and was very happy with the work that was completed. We called multiple installers and quoted us between $1,400–$1,800 — their price was way less. Austin and Sean were very knowledgeable, they will explain every detail of the install and give recommendations, super friendly. Will definitely recommend them. A++++++"</p>
           <div class="review-author" itemprop="author" itemscope itemtype="https://schema.org/Person">
-            <strong itemprop="name">Jennifer M.</strong>
-            <span>La Jolla, San Diego</span>
+            <strong itemprop="name">Jayt619 SD</strong>
+            <span>Google Review · 14 weeks ago</span>
           </div>
         </article>
 
         <article class="review-card reveal reveal-delay-1" itemscope itemtype="https://schema.org/Review">
           <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
-          <p class="review-text" itemprop="reviewBody">"Hired them for pressure washing the driveway and gutter cleaning. The crew was incredibly professional and took their time to do it right. My driveway looks brand new. Highly recommend to any San Diego homeowner."</p>
+          <p class="review-text" itemprop="reviewBody">"We used Austin and his team for Christmas lights this year on our modern home. Austin took the time to create an amazing light scene. Him and his team were very professional, thorough and careful. He was also a great communicator — I had lots of questions and he would always get back to me quickly. I couldn't be more happy with them. Once these lights come down, they will be my go-to for window washing."</p>
           <div class="review-author" itemprop="author" itemscope itemtype="https://schema.org/Person">
-            <strong itemprop="name">Robert K.</strong>
-            <span>Del Mar, San Diego</span>
+            <strong itemprop="name">Sarah Kimball</strong>
+            <span>Local Guide · Google Review · 14 weeks ago</span>
           </div>
         </article>
 
         <article class="review-card reveal reveal-delay-2" itemscope itemtype="https://schema.org/Review">
           <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
-          <p class="review-text" itemprop="reviewBody">"They installed our holiday lights and permanent roofline lighting — absolutely stunning results. The permanent lights are controlled from an app and look incredible year-round. SeaBreeze is our go-to for all exterior maintenance."</p>
+          <p class="review-text" itemprop="reviewBody">"I definitely recommend Seabreeze Window Cleaning! They did an awesome job on our solar panels and windows — super thorough and detail-oriented. They showed up on time, were really friendly, and now our windows are crystal clear. We're so happy with how everything turned out!"</p>
           <div class="review-author" itemprop="author" itemscope itemtype="https://schema.org/Person">
-            <strong itemprop="name">Sarah T.</strong>
-            <span>Encinitas, San Diego</span>
+            <strong itemprop="name">Laura Serrano-Duran</strong>
+            <span>Google Review · 29 weeks ago</span>
           </div>
         </article>
 
@@ -1618,7 +1624,7 @@
         <h2>Ready for a Cleaner Home?</h2>
         <p>Get your free quote today — no obligation, fast response, San Diego County wide.</p>
       </div>
-      <a href="https://clienthub.getjobber.com/hubs/a12ee5bd-819c-4fd8-b2d2-ebcfefefaa55/public/requests/1907659/new" class="btn-cta-white" aria-label="Request a free quote from SeaBreeze Home Service">
+      <a href="https://clienthub.getjobber.com/hubs/a12ee5bd-819c-4fd8-b2d2-ebcfefefaa55/public/requests/1907659/new" target="_blank" rel="noopener noreferrer" class="btn-cta-white" aria-label="Request a free quote from SeaBreeze Home Service">
         Get a Free Quote
       </a>
     </div>
@@ -1662,7 +1668,7 @@
       <div class="footer-col">
         <h4>Contact</h4>
         <ul>
-          <li><a href="https://clienthub.getjobber.com/hubs/a12ee5bd-819c-4fd8-b2d2-ebcfefefaa55/public/requests/1907659/new">Get a Quote</a></li>
+          <li><a href="https://clienthub.getjobber.com/hubs/a12ee5bd-819c-4fd8-b2d2-ebcfefefaa55/public/requests/1907659/new" target="_blank" rel="noopener noreferrer">Get a Quote</a></li>
           <li><a href="tel:+16197328052">(619) 732-8052</a></li>
           <li><a href="mailto:seabreezehomeservice@gmail.com">Email Us</a></li>
           <li><span style="color:var(--muted);font-size:0.85rem;">San Diego County, CA</span></li>
@@ -1781,6 +1787,33 @@
         });
       }, { threshold: 0.1 });
       observer.observe(document.getElementById('hero'));
+    })();
+  </script>
+
+  <!-- Sticky mobile CTA bar -->
+  <div id="sticky-cta" aria-label="Quick contact bar">
+    <a href="tel:+16197328052" class="sticky-cta-phone" aria-label="Call SeaBreeze">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 9.81 19.79 19.79 0 01.0 1.18 2 2 0 012 0h3a2 2 0 012 1.72c.127.96.361 1.903.7 2.81a2 2 0 01-.45 2.11L6.91 7.91a16 16 0 006.18 6.18l1.27-1.27a2 2 0 012.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0122 14.92z"/></svg>
+      (619) 732-8052
+    </a>
+    <a href="https://clienthub.getjobber.com/hubs/a12ee5bd-819c-4fd8-b2d2-ebcfefefaa55/public/requests/1907659/new" target="_blank" rel="noopener noreferrer" class="sticky-cta-btn">Get a Free Quote</a>
+  </div>
+  <script>
+    (function(){
+      var bar = document.getElementById('sticky-cta');
+      var hero = document.getElementById('hero');
+      if(!bar || !hero) return;
+      // Show call button in hero on mobile
+      var callBtn = document.getElementById('hero-call-btn');
+      var svcBtn = document.getElementById('hero-services-btn');
+      if(window.innerWidth < 769 && callBtn) {
+        callBtn.style.display = 'inline-flex';
+        if(svcBtn) svcBtn.style.display = 'none';
+      }
+      window.addEventListener('scroll', function(){
+        var heroBottom = hero.offsetTop + hero.offsetHeight;
+        bar.classList.toggle('active', window.scrollY > heroBottom - 100);
+      }, {passive:true});
     })();
   </script>
 
