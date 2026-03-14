@@ -3,166 +3,198 @@
 
   <!-- Homepage -->
   <url>
-    <loc>https://www.seabreezehomeservice.com/</loc>
+    <loc>https://seabreezehomeservice.com/</loc>
+    <lastmod>2026-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
 
   <!-- Service Pages -->
   <url>
-    <loc>https://www.seabreezehomeservice.com/window-cleaning-san-diego.html</loc>
+    <loc>https://seabreezehomeservice.com/window-cleaning-san-diego.html</loc>
+    <lastmod>2026-03-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.seabreezehomeservice.com/solar-panel-cleaning-san-diego.html</loc>
+    <loc>https://seabreezehomeservice.com/solar-panel-cleaning-san-diego.html</loc>
+    <lastmod>2026-03-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.seabreezehomeservice.com/pressure-washing-san-diego.html</loc>
+    <loc>https://seabreezehomeservice.com/pressure-washing-san-diego.html</loc>
+    <lastmod>2026-03-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.seabreezehomeservice.com/soft-washing-san-diego.html</loc>
+    <loc>https://seabreezehomeservice.com/soft-washing-san-diego.html</loc>
+    <lastmod>2026-03-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.seabreezehomeservice.com/gutter-cleaning-san-diego.html</loc>
+    <loc>https://seabreezehomeservice.com/gutter-cleaning-san-diego.html</loc>
+    <lastmod>2026-03-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.seabreezehomeservice.com/holiday-light-installation-san-diego.html</loc>
+    <loc>https://seabreezehomeservice.com/holiday-light-installation-san-diego.html</loc>
+    <lastmod>2026-03-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.seabreezehomeservice.com/permanent-lighting-san-diego.html</loc>
+    <loc>https://seabreezehomeservice.com/permanent-lighting-san-diego.html</loc>
+    <lastmod>2026-03-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.seabreezehomeservice.com/commercial-cleaning-san-diego.html</loc>
+    <loc>https://seabreezehomeservice.com/commercial-cleaning-san-diego.html</loc>
+    <lastmod>2026-03-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <!-- Location Pages -->
   <url>
-    <loc>https://www.seabreezehomeservice.com/la-jolla.html</loc>
+    <loc>https://seabreezehomeservice.com/la-jolla.html</loc>
+    <lastmod>2026-03-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.seabreezehomeservice.com/coronado.html</loc>
+    <loc>https://seabreezehomeservice.com/coronado.html</loc>
+    <lastmod>2026-03-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.seabreezehomeservice.com/del-mar.html</loc>
+    <loc>https://seabreezehomeservice.com/del-mar.html</loc>
+    <lastmod>2026-03-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.seabreezehomeservice.com/carlsbad.html</loc>
+    <loc>https://seabreezehomeservice.com/carlsbad.html</loc>
+    <lastmod>2026-03-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.seabreezehomeservice.com/encinitas.html</loc>
+    <loc>https://seabreezehomeservice.com/encinitas.html</loc>
+    <lastmod>2026-03-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.seabreezehomeservice.com/rancho-santa-fe.html</loc>
+    <loc>https://seabreezehomeservice.com/rancho-santa-fe.html</loc>
+    <lastmod>2026-03-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.seabreezehomeservice.com/chula-vista.html</loc>
+    <loc>https://seabreezehomeservice.com/chula-vista.html</loc>
+    <lastmod>2026-03-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.seabreezehomeservice.com/escondido.html</loc>
+    <loc>https://seabreezehomeservice.com/escondido.html</loc>
+    <lastmod>2026-03-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.seabreezehomeservice.com/san-marcos.html</loc>
+    <loc>https://seabreezehomeservice.com/san-marcos.html</loc>
+    <lastmod>2026-03-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.seabreezehomeservice.com/el-cajon.html</loc>
+    <loc>https://seabreezehomeservice.com/el-cajon.html</loc>
+    <lastmod>2026-03-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.seabreezehomeservice.com/poway.html</loc>
+    <loc>https://seabreezehomeservice.com/poway.html</loc>
+    <lastmod>2026-03-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.seabreezehomeservice.com/solana-beach.html</loc>
+    <loc>https://seabreezehomeservice.com/solana-beach.html</loc>
+    <lastmod>2026-03-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.seabreezehomeservice.com/oceanside.html</loc>
+    <loc>https://seabreezehomeservice.com/oceanside.html</loc>
+    <lastmod>2026-03-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.seabreezehomeservice.com/santee.html</loc>
+    <loc>https://seabreezehomeservice.com/santee.html</loc>
+    <lastmod>2026-03-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.seabreezehomeservice.com/national-city.html</loc>
+    <loc>https://seabreezehomeservice.com/national-city.html</loc>
+    <lastmod>2026-03-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.seabreezehomeservice.com/point-loma.html</loc>
+    <loc>https://seabreezehomeservice.com/point-loma.html</loc>
+    <lastmod>2026-03-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.seabreezehomeservice.com/vista.html</loc>
+    <loc>https://seabreezehomeservice.com/vista.html</loc>
+    <lastmod>2026-03-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.seabreezehomeservice.com/mission-hills.html</loc>
+    <loc>https://seabreezehomeservice.com/mission-hills.html</loc>
+    <lastmod>2026-03-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.seabreezehomeservice.com/pacific-beach.html</loc>
+    <loc>https://seabreezehomeservice.com/pacific-beach.html</loc>
+    <lastmod>2026-03-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.seabreezehomeservice.com/4s-ranch.html</loc>
+    <loc>https://seabreezehomeservice.com/4s-ranch.html</loc>
+    <lastmod>2026-03-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.seabreezehomeservice.com/clairemont.html</loc>
+    <loc>https://seabreezehomeservice.com/clairemont.html</loc>
+    <lastmod>2026-03-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.seabreezehomeservice.com/mission-valley.html</loc>
+    <loc>https://seabreezehomeservice.com/mission-valley.html</loc>
+    <lastmod>2026-03-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.seabreezehomeservice.com/carmel-valley.html</loc>
+    <loc>https://seabreezehomeservice.com/carmel-valley.html</loc>
+    <lastmod>2026-03-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
