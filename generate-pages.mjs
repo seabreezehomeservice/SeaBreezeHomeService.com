@@ -5,7 +5,7 @@
 import fs from 'fs';
 
 const PHONE = 'https://clienthub.getjobber.com/hubs/a12ee5bd-819c-4fd8-b2d2-ebcfefefaa55/public/requests/1907659/new';
-const SITE  = 'https://seabreezehomeservice.com';
+const SITE  = 'https://www.seabreezehomeservice.com';
 const LOGO  = 'brand_assets/SEABREEZE.png';   // relative to page root
 const YEAR  = 2026;
 
@@ -80,7 +80,7 @@ const footer = () => `
         <p>Premium exterior home maintenance serving San Diego County. Fully insured, family owned.</p>
       </div>
       <nav class="footer-col" aria-label="Services">
-        <h4>Services</h4>
+        <h3>Services</h3>
         <ul>
           <li><a href="/window-cleaning-san-diego.html">Window Cleaning</a></li>
           <li><a href="/solar-panel-cleaning-san-diego.html">Solar Panel Cleaning</a></li>
@@ -92,7 +92,7 @@ const footer = () => `
         </ul>
       </nav>
       <nav class="footer-col" aria-label="Service Areas">
-        <h4>Service Areas</h4>
+        <h3>Service Areas</h3>
         <ul>
           <li><a href="/la-jolla.html">La Jolla</a></li>
           <li><a href="/del-mar.html">Del Mar</a></li>
@@ -104,7 +104,7 @@ const footer = () => `
         </ul>
       </nav>
       <div class="footer-col">
-        <h4>Contact</h4>
+        <h3>Contact</h3>
         <ul>
           <li><a href="${PHONE}">Get a Quote</a></li>
           <li><a href="mailto:INSERTEMAIL">Email Us</a></li>
