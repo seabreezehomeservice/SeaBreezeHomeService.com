@@ -12,13 +12,13 @@
   "perceptualHash": "ccbcfc1c7cfefcce",
   "paths": {
     "original": "media/processed/originals/9476aa363f.png",
-    "optimized": "media/optimized/window-cleaning--9476aa363f.webp",
-    "optimizedAvif": "media/optimized/window-cleaning--9476aa363f.avif",
+    "optimized": "media/optimized/window-cleaning-residential--9476aa363f.webp",
+    "optimizedAvif": "media/optimized/window-cleaning-residential--9476aa363f.avif",
     "responsive": {
-      "400": "media/optimized/window-cleaning--9476aa363f-400.webp",
-      "800": "media/optimized/window-cleaning--9476aa363f-800.webp"
+      "400": "media/optimized/window-cleaning-residential--9476aa363f-400.webp",
+      "800": "media/optimized/window-cleaning-residential--9476aa363f-800.webp"
     },
-    "thumbnail": "media/thumbnails/window-cleaning--9476aa363f.webp"
+    "thumbnail": "media/thumbnails/window-cleaning-residential--9476aa363f.webp"
   },
   "blurPlaceholder": "data:image/webp;base64,UklGRgQBAABXRUJQVlA4IPgAAADQBgCdASoYADQAPu1kqlAppSOirBVcyTAdiWUAvhG1gaaxZoPl/zYLTYTrnV0JyJPHkANYfTKf/cfEPLCGYAAA/vd2Id0SKQkHeb7fGA1r48xI7pxIxTsNSEMwSJYP/sFVjvzBhSRLKMtF+98g7HpOsvAh5FDCd6Oqoh+ghBca0F0fAXg0IOSErIAZgyfoYtvFk3KL4pLfilSUf9teXE6je5gTVGrmh528Rt+EIu41BDKYyOlG+D8jMXvYoJY8z2N7NzSQM9f0Ak5eNnVzNkrGZqdISKs7YngeI76VVyzMGjzYJqt8CJPsqMQuW4FcoHvy+YCjD+8AAA==",
   "status": "classified",
@@ -26,7 +26,7 @@
     "service": "window-cleaning",
     "surfaceType": null,
     "buildingType": null,
-    "propertyType": null,
+    "propertyType": "residential",
     "beforeAfter": "after",
     "cleaningMethod": null,
     "equipmentVisible": [],
@@ -36,7 +36,7 @@
     "confidence": 95
   },
   "seo": {
-    "filename": "window-cleaning--9476aa363f.webp",
+    "filename": "window-cleaning-residential--9476aa363f.webp",
     "title": "Clean exterior window with tree view",
     "alt": "Clean exterior window with tree view",
     "caption": "Clean exterior window with tree view",
@@ -52,6 +52,6 @@
   },
   "tags": [],
   "needsReview": false,
-  "finalizedAt": "2026-07-30T05:00:55.035Z",
+  "finalizedAt": "2026-07-30T06:12:37.925Z",
   "sortOrder": 5
 }

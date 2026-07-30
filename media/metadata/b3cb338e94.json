@@ -12,13 +12,13 @@
   "perceptualHash": "8383c1df331a6e46",
   "paths": {
     "original": "media/processed/originals/b3cb338e94.png",
-    "optimized": "media/optimized/pressure-washing--b3cb338e94.webp",
-    "optimizedAvif": "media/optimized/pressure-washing--b3cb338e94.avif",
+    "optimized": "media/optimized/pressure-washing-residential--b3cb338e94.webp",
+    "optimizedAvif": "media/optimized/pressure-washing-residential--b3cb338e94.avif",
     "responsive": {
-      "400": "media/optimized/pressure-washing--b3cb338e94-400.webp",
-      "800": "media/optimized/pressure-washing--b3cb338e94-800.webp"
+      "400": "media/optimized/pressure-washing-residential--b3cb338e94-400.webp",
+      "800": "media/optimized/pressure-washing-residential--b3cb338e94-800.webp"
     },
-    "thumbnail": "media/thumbnails/pressure-washing--b3cb338e94.webp"
+    "thumbnail": "media/thumbnails/pressure-washing-residential--b3cb338e94.webp"
   },
   "blurPlaceholder": "data:image/webp;base64,UklGRioBAABXRUJQVlA4IB4BAADwBgCdASoYADQAPu1kqE6ppaOiLBqsyTAdiWMAyW1XKli4CqtVWCF3KtzXA+I7+Sk5ovUmeIgwdWfYjNBCuGagAP73dfo2Ava8lsxwrDf/cGrIQuBTJKAnOndqtHcy9i7jJ/NzQq6vtKVAixTZMVnQfkpbo21kI3L6TqYj0vmD2TfqUBFxqaSXz0FnSx8YqD7cBtjy5gQFSDw8X5VBHupgijUx1IUXTso3aDgH0R1dIRSGghWrKzbDC/+SmqBwvqf0fUkpDhKGfihba4lexm/sjgRwWQq9YyWNaGQMX07PRaZ1+MQMyR8sQkh840psr9wO0YLSZHy47fpvgeJAtX/rOi8wStFmSM2CuBeMQf/A1+JvD+ZDlQX6w+BicAAA",
   "status": "classified",
@@ -26,7 +26,7 @@
     "service": "pressure-washing",
     "surfaceType": null,
     "buildingType": null,
-    "propertyType": null,
+    "propertyType": "residential",
     "beforeAfter": "before",
     "cleaningMethod": null,
     "equipmentVisible": [],
@@ -36,7 +36,7 @@
     "confidence": 90
   },
   "seo": {
-    "filename": "pressure-washing--b3cb338e94.webp",
+    "filename": "pressure-washing-residential--b3cb338e94.webp",
     "title": "Moss-covered roof section next to a clean area",
     "alt": "Moss-covered roof section next to a clean area",
     "caption": "Moss-covered roof section next to a clean area",
@@ -52,6 +52,6 @@
   },
   "tags": [],
   "needsReview": false,
-  "finalizedAt": "2026-07-30T04:45:23.635Z",
+  "finalizedAt": "2026-07-30T06:12:37.930Z",
   "sortOrder": 6
 }

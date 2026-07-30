@@ -12,13 +12,13 @@
   "perceptualHash": "3df34b6ce66b6586",
   "paths": {
     "original": "media/processed/originals/c271448f00.png",
-    "optimized": "media/optimized/pressure-washing--c271448f00.webp",
-    "optimizedAvif": "media/optimized/pressure-washing--c271448f00.avif",
+    "optimized": "media/optimized/pressure-washing-residential--c271448f00.webp",
+    "optimizedAvif": "media/optimized/pressure-washing-residential--c271448f00.avif",
     "responsive": {
-      "400": "media/optimized/pressure-washing--c271448f00-400.webp",
-      "800": "media/optimized/pressure-washing--c271448f00-800.webp"
+      "400": "media/optimized/pressure-washing-residential--c271448f00-400.webp",
+      "800": "media/optimized/pressure-washing-residential--c271448f00-800.webp"
     },
-    "thumbnail": "media/thumbnails/pressure-washing--c271448f00.webp"
+    "thumbnail": "media/thumbnails/pressure-washing-residential--c271448f00.webp"
   },
   "blurPlaceholder": "data:image/webp;base64,UklGRg4BAABXRUJQVlA4IAIBAADwBwCdASoYADQAPulaqE2pJKQiMBv8ASAdCWMAx28wjGm4C3nKQ5WCglR2lcoCEUcw3KhmKJL/LhthPU9/OEVNnbXEvX/pJDAA/vrpBoKuOIKhcgrY108GmnVb1Q4VEthO9kiBEulRez8PL/rZXYe2ZChMBIR21JqkpSgADgz80GuMFQutjcudgTo/MtmdFb9tLl/P3HO1AFvqDF7s0+v46afbpfoPUA5xPc2WzNk7jNAUtdOA721h9aqtXSfG+HMSwSbIcTQye/S9BGoLT+S8pYZvnwDZj0r0Xses0AbFkPbKBzjCtxozC1R829cIsDB/C5xrgGYDxjWsC4+vM6iYAAA=",
   "status": "classified",
@@ -26,7 +26,7 @@
     "service": "pressure-washing",
     "surfaceType": null,
     "buildingType": null,
-    "propertyType": null,
+    "propertyType": "residential",
     "beforeAfter": "after",
     "cleaningMethod": null,
     "equipmentVisible": [],
@@ -36,7 +36,7 @@
     "confidence": 88
   },
   "seo": {
-    "filename": "pressure-washing--c271448f00.webp",
+    "filename": "pressure-washing-residential--c271448f00.webp",
     "title": "Clean tile roof close-up",
     "alt": "Clean tile roof close-up",
     "caption": "Clean tile roof close-up",
@@ -52,6 +52,6 @@
   },
   "tags": [],
   "needsReview": false,
-  "finalizedAt": "2026-07-30T04:45:23.640Z",
+  "finalizedAt": "2026-07-30T06:12:37.936Z",
   "sortOrder": 7
 }

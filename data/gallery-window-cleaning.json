@@ -1,12 +1,12 @@
 [
   {
     "id": "8404bf0279",
-    "thumbnail": "/media/thumbnails/window-cleaning--8404bf0279.webp",
-    "full": "/media/optimized/window-cleaning--8404bf0279.webp",
-    "avif": "/media/optimized/window-cleaning--8404bf0279.avif",
+    "thumbnail": "/media/thumbnails/window-cleaning-residential--8404bf0279.webp",
+    "full": "/media/optimized/window-cleaning-residential--8404bf0279.webp",
+    "avif": "/media/optimized/window-cleaning-residential--8404bf0279.avif",
     "responsive": {
-      "400": "/media/optimized/window-cleaning--8404bf0279-400.webp",
-      "800": "/media/optimized/window-cleaning--8404bf0279-800.webp"
+      "400": "/media/optimized/window-cleaning-residential--8404bf0279-400.webp",
+      "800": "/media/optimized/window-cleaning-residential--8404bf0279-800.webp"
     },
     "blur": "data:image/webp;base64,UklGRiQBAABXRUJQVlA4IBgBAACwBwCdASoYADQAPu1kqlCppSOirBVcyTAdiUAYoXiwQBkAB23rF1zOjaHQ9LAR0S1B/YsS8RTVVPUNpFZM5DpNE9tbFaxgAP73deaY+EiIS3wOyieCKQp1L5O1rdDjxqd8EMFw32z+Tnkv6aHpjFrmpV2nHzBIuVD4iiyW8255MbbDRVpwirvl/7NuqHjRpHbipVIIHzvGeUxh+613UrRuiaBRcT+IyDPDdOspQsDsVpN8KJSV8mH+08hTksYXlRM7pPr/eLbIfzVUZ3iSxcZEbTl8JLLxLXnhaYSNtDmGxpj3arwyVGhRHar4jhNlxfSZw4SYgZYm+fdTL17HntWAWZ7z/0TzFGPmCoDmBLMaVKPRBMmp+IAA",
     "width": 1170,
@@ -15,7 +15,7 @@
     "serviceLabel": "Window Cleaning",
     "city": null,
     "cityLabel": null,
-    "propertyType": null,
+    "propertyType": "residential",
     "beforeAfter": null,
     "perceptualHash": "677d7b7da7a3b8de",
     "sortOrder": 1,
@@ -27,12 +27,12 @@
   },
   {
     "id": "198917e488",
-    "thumbnail": "/media/thumbnails/window-cleaning--198917e488.webp",
-    "full": "/media/optimized/window-cleaning--198917e488.webp",
-    "avif": "/media/optimized/window-cleaning--198917e488.avif",
+    "thumbnail": "/media/thumbnails/window-cleaning-residential--198917e488.webp",
+    "full": "/media/optimized/window-cleaning-residential--198917e488.webp",
+    "avif": "/media/optimized/window-cleaning-residential--198917e488.avif",
     "responsive": {
-      "400": "/media/optimized/window-cleaning--198917e488-400.webp",
-      "800": "/media/optimized/window-cleaning--198917e488-800.webp"
+      "400": "/media/optimized/window-cleaning-residential--198917e488-400.webp",
+      "800": "/media/optimized/window-cleaning-residential--198917e488-800.webp"
     },
     "blur": "data:image/webp;base64,UklGRiIBAABXRUJQVlA4IBYBAAAwBwCdASoYADQAPu1iq1AppSOirBVcyTAdiUAYoXOgbDJDR/HtUSwJUxCAKVMVRZi+4FOqWpKpTofvddNd+X/YSYAA/vhLtCqqgbeWBXReDICOZmqOGp1ax78otTOth2jjvkOcemBAMB9d7V8rYvgpnjp1xPlw10OGCM0UqWlmDpqKoqn/Fd2N9NKyou36SmfR/T2GFOhppKqiY+oqZrwfNV1mzliojU73NtR1i5WdpvevF1+24T4ekqGCRh8AhqVZNXDwzf5EM4kbB+TFDdcV+G5j436WY1SqKFrI6ubbwTYTpI3nn95uI+m5hOSHHYqR/Z7X7yxJm1efFFtcYKfzKRBXM5Bpo2BU1Exg//qOAKXIx0AAAA==",
     "width": 1170,
@@ -41,7 +41,7 @@
     "serviceLabel": "Window Cleaning",
     "city": null,
     "cityLabel": null,
-    "propertyType": null,
+    "propertyType": "residential",
     "beforeAfter": "after",
     "perceptualHash": "336ff4c7b79edecc",
     "sortOrder": 2,
@@ -105,12 +105,12 @@
   },
   {
     "id": "9476aa363f",
-    "thumbnail": "/media/thumbnails/window-cleaning--9476aa363f.webp",
-    "full": "/media/optimized/window-cleaning--9476aa363f.webp",
-    "avif": "/media/optimized/window-cleaning--9476aa363f.avif",
+    "thumbnail": "/media/thumbnails/window-cleaning-residential--9476aa363f.webp",
+    "full": "/media/optimized/window-cleaning-residential--9476aa363f.webp",
+    "avif": "/media/optimized/window-cleaning-residential--9476aa363f.avif",
     "responsive": {
-      "400": "/media/optimized/window-cleaning--9476aa363f-400.webp",
-      "800": "/media/optimized/window-cleaning--9476aa363f-800.webp"
+      "400": "/media/optimized/window-cleaning-residential--9476aa363f-400.webp",
+      "800": "/media/optimized/window-cleaning-residential--9476aa363f-800.webp"
     },
     "blur": "data:image/webp;base64,UklGRgQBAABXRUJQVlA4IPgAAADQBgCdASoYADQAPu1kqlAppSOirBVcyTAdiWUAvhG1gaaxZoPl/zYLTYTrnV0JyJPHkANYfTKf/cfEPLCGYAAA/vd2Id0SKQkHeb7fGA1r48xI7pxIxTsNSEMwSJYP/sFVjvzBhSRLKMtF+98g7HpOsvAh5FDCd6Oqoh+ghBca0F0fAXg0IOSErIAZgyfoYtvFk3KL4pLfilSUf9teXE6je5gTVGrmh528Rt+EIu41BDKYyOlG+D8jMXvYoJY8z2N7NzSQM9f0Ak5eNnVzNkrGZqdISKs7YngeI76VVyzMGjzYJqt8CJPsqMQuW4FcoHvy+YCjD+8AAA==",
     "width": 1170,
@@ -119,7 +119,7 @@
     "serviceLabel": "Window Cleaning",
     "city": null,
     "cityLabel": null,
-    "propertyType": null,
+    "propertyType": "residential",
     "beforeAfter": "after",
     "perceptualHash": "ccbcfc1c7cfefcce",
     "sortOrder": 5,
@@ -131,12 +131,12 @@
   },
   {
     "id": "d90b2ef483",
-    "thumbnail": "/media/thumbnails/window-cleaning--d90b2ef483.webp",
-    "full": "/media/optimized/window-cleaning--d90b2ef483.webp",
-    "avif": "/media/optimized/window-cleaning--d90b2ef483.avif",
+    "thumbnail": "/media/thumbnails/window-cleaning-residential--d90b2ef483.webp",
+    "full": "/media/optimized/window-cleaning-residential--d90b2ef483.webp",
+    "avif": "/media/optimized/window-cleaning-residential--d90b2ef483.avif",
     "responsive": {
-      "400": "/media/optimized/window-cleaning--d90b2ef483-400.webp",
-      "800": "/media/optimized/window-cleaning--d90b2ef483-800.webp"
+      "400": "/media/optimized/window-cleaning-residential--d90b2ef483-400.webp",
+      "800": "/media/optimized/window-cleaning-residential--d90b2ef483-800.webp"
     },
     "blur": "data:image/webp;base64,UklGRhQBAABXRUJQVlA4IAgBAAAwBwCdASoYADQAPu1urVIppiQipAyRMB2JZQDEJDPgzxA2JYcCtBc21hYZe9QR+O8AfvPV5Z1iC8RAQzZLqeMsPAAA/vm/kFug/AsTDzzM3uiTtlb+tycd9Ge0dYOPIivx5pLGco4x45rmDK/2IAIn6jM/RgzuFPeTs+BJWiHXRlxqlQs7TKqAjGNQ0OWIkqCgaqD0qOsMrpWOKMvwylITVfvGmtzoOkB+m3pL5vClLfMqV1GCwOoHnh/8yDNHCByHZe4adhzM8xKOrpAFiLAgh/je7rSJlLj4v0GwrtiRdBT66fYHztG7mZ1wUXz1fXgDzcoa3SLUvei89aWAB8SGfYr3hAsgAAA=",
     "width": 1170,
@@ -145,7 +145,7 @@
     "serviceLabel": "Window Cleaning",
     "city": null,
     "cityLabel": null,
-    "propertyType": null,
+    "propertyType": "residential",
     "beforeAfter": "after",
     "perceptualHash": "9cbbdf7cfcff7f63",
     "sortOrder": 6,

@@ -12,13 +12,13 @@
   "perceptualHash": "677d7b7da7a3b8de",
   "paths": {
     "original": "media/processed/originals/8404bf0279.png",
-    "optimized": "media/optimized/window-cleaning--8404bf0279.webp",
-    "optimizedAvif": "media/optimized/window-cleaning--8404bf0279.avif",
+    "optimized": "media/optimized/window-cleaning-residential--8404bf0279.webp",
+    "optimizedAvif": "media/optimized/window-cleaning-residential--8404bf0279.avif",
     "responsive": {
-      "400": "media/optimized/window-cleaning--8404bf0279-400.webp",
-      "800": "media/optimized/window-cleaning--8404bf0279-800.webp"
+      "400": "media/optimized/window-cleaning-residential--8404bf0279-400.webp",
+      "800": "media/optimized/window-cleaning-residential--8404bf0279-800.webp"
     },
-    "thumbnail": "media/thumbnails/window-cleaning--8404bf0279.webp"
+    "thumbnail": "media/thumbnails/window-cleaning-residential--8404bf0279.webp"
   },
   "blurPlaceholder": "data:image/webp;base64,UklGRiQBAABXRUJQVlA4IBgBAACwBwCdASoYADQAPu1kqlCppSOirBVcyTAdiUAYoXiwQBkAB23rF1zOjaHQ9LAR0S1B/YsS8RTVVPUNpFZM5DpNE9tbFaxgAP73deaY+EiIS3wOyieCKQp1L5O1rdDjxqd8EMFw32z+Tnkv6aHpjFrmpV2nHzBIuVD4iiyW8255MbbDRVpwirvl/7NuqHjRpHbipVIIHzvGeUxh+613UrRuiaBRcT+IyDPDdOspQsDsVpN8KJSV8mH+08hTksYXlRM7pPr/eLbIfzVUZ3iSxcZEbTl8JLLxLXnhaYSNtDmGxpj3arwyVGhRHar4jhNlxfSZw4SYgZYm+fdTL17HntWAWZ7z/0TzFGPmCoDmBLMaVKPRBMmp+IAA",
   "status": "classified",
@@ -26,7 +26,7 @@
     "service": "window-cleaning",
     "surfaceType": null,
     "buildingType": null,
-    "propertyType": null,
+    "propertyType": "residential",
     "beforeAfter": null,
     "cleaningMethod": null,
     "equipmentVisible": [],
@@ -36,7 +36,7 @@
     "confidence": 85
   },
   "seo": {
-    "filename": "window-cleaning--8404bf0279.webp",
+    "filename": "window-cleaning-residential--8404bf0279.webp",
     "title": "Glass door being rinsed during window cleaning",
     "alt": "Glass door being rinsed during window cleaning",
     "caption": "Glass door being rinsed during window cleaning",
@@ -52,6 +52,6 @@
   },
   "tags": [],
   "needsReview": false,
-  "finalizedAt": "2026-07-30T04:45:23.621Z",
+  "finalizedAt": "2026-07-30T06:12:37.920Z",
   "sortOrder": 1
 }

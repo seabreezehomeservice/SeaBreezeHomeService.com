@@ -22,7 +22,7 @@
     "title": "Tile roof showing cleaned vs. untreated sections",
     "alt": "Tile roof showing cleaned vs. untreated sections",
     "caption": "Tile roof showing cleaned vs. untreated sections",
-    "description": "Tile roof showing a visibly cleaner section next to an untreated, algae-streaked section during a soft-washing job.",
+    "description": "Tile roof showing a visibly cleaner section next to an untreated, algae-streaked section during a pressure washing job.",
     "ingestedAt": "2026-07-30T03:09:41.917Z"
   },
   {
@@ -101,10 +101,10 @@
     "beforeAfter": "after",
     "perceptualHash": "030dac5c12cb7343",
     "sortOrder": 4,
-    "title": "Clean tile roof after soft washing",
-    "alt": "Clean tile roof after soft washing",
-    "caption": "Clean tile roof after soft washing",
-    "description": "Tile roof shown clean and uniform in color after a soft-washing service.",
+    "title": "Clean tile roof close-up with chimney",
+    "alt": "Clean tile roof close-up with chimney",
+    "caption": "Clean tile roof close-up with chimney",
+    "description": "Tile roof shown clean and uniform in color after a pressure washing service, viewed from a closer angle.",
     "ingestedAt": "2026-07-30T03:09:45.287Z"
   },
   {
@@ -127,20 +127,20 @@
     "beforeAfter": "after",
     "perceptualHash": "0688f8f9471de9aa",
     "sortOrder": 5,
-    "title": "Clean tile roof after soft washing",
-    "alt": "Clean tile roof after soft washing",
-    "caption": "Clean tile roof after soft washing",
-    "description": "Tile roof shown clean and uniform in color after a soft-washing service.",
+    "title": "Clean tile roof with chimney and tree line",
+    "alt": "Clean tile roof with chimney and tree line",
+    "caption": "Clean tile roof with chimney and tree line",
+    "description": "Tile roof shown clean and uniform in color after a pressure washing service, with a chimney and mature tree visible.",
     "ingestedAt": "2026-07-30T03:09:44.299Z"
   },
   {
     "id": "b3cb338e94",
-    "thumbnail": "/media/thumbnails/pressure-washing--b3cb338e94.webp",
-    "full": "/media/optimized/pressure-washing--b3cb338e94.webp",
-    "avif": "/media/optimized/pressure-washing--b3cb338e94.avif",
+    "thumbnail": "/media/thumbnails/pressure-washing-residential--b3cb338e94.webp",
+    "full": "/media/optimized/pressure-washing-residential--b3cb338e94.webp",
+    "avif": "/media/optimized/pressure-washing-residential--b3cb338e94.avif",
     "responsive": {
-      "400": "/media/optimized/pressure-washing--b3cb338e94-400.webp",
-      "800": "/media/optimized/pressure-washing--b3cb338e94-800.webp"
+      "400": "/media/optimized/pressure-washing-residential--b3cb338e94-400.webp",
+      "800": "/media/optimized/pressure-washing-residential--b3cb338e94-800.webp"
     },
     "blur": "data:image/webp;base64,UklGRioBAABXRUJQVlA4IB4BAADwBgCdASoYADQAPu1kqE6ppaOiLBqsyTAdiWMAyW1XKli4CqtVWCF3KtzXA+I7+Sk5ovUmeIgwdWfYjNBCuGagAP73dfo2Ava8lsxwrDf/cGrIQuBTJKAnOndqtHcy9i7jJ/NzQq6vtKVAixTZMVnQfkpbo21kI3L6TqYj0vmD2TfqUBFxqaSXz0FnSx8YqD7cBtjy5gQFSDw8X5VBHupgijUx1IUXTso3aDgH0R1dIRSGghWrKzbDC/+SmqBwvqf0fUkpDhKGfihba4lexm/sjgRwWQq9YyWNaGQMX07PRaZ1+MQMyR8sQkh840psr9wO0YLSZHy47fpvgeJAtX/rOi8wStFmSM2CuBeMQf/A1+JvD+ZDlQX6w+BicAAA",
     "width": 1170,
@@ -149,7 +149,7 @@
     "serviceLabel": "Pressure Washing",
     "city": null,
     "cityLabel": null,
-    "propertyType": null,
+    "propertyType": "residential",
     "beforeAfter": "before",
     "perceptualHash": "8383c1df331a6e46",
     "sortOrder": 6,
@@ -161,12 +161,12 @@
   },
   {
     "id": "c271448f00",
-    "thumbnail": "/media/thumbnails/pressure-washing--c271448f00.webp",
-    "full": "/media/optimized/pressure-washing--c271448f00.webp",
-    "avif": "/media/optimized/pressure-washing--c271448f00.avif",
+    "thumbnail": "/media/thumbnails/pressure-washing-residential--c271448f00.webp",
+    "full": "/media/optimized/pressure-washing-residential--c271448f00.webp",
+    "avif": "/media/optimized/pressure-washing-residential--c271448f00.avif",
     "responsive": {
-      "400": "/media/optimized/pressure-washing--c271448f00-400.webp",
-      "800": "/media/optimized/pressure-washing--c271448f00-800.webp"
+      "400": "/media/optimized/pressure-washing-residential--c271448f00-400.webp",
+      "800": "/media/optimized/pressure-washing-residential--c271448f00-800.webp"
     },
     "blur": "data:image/webp;base64,UklGRg4BAABXRUJQVlA4IAIBAADwBwCdASoYADQAPulaqE2pJKQiMBv8ASAdCWMAx28wjGm4C3nKQ5WCglR2lcoCEUcw3KhmKJL/LhthPU9/OEVNnbXEvX/pJDAA/vrpBoKuOIKhcgrY108GmnVb1Q4VEthO9kiBEulRez8PL/rZXYe2ZChMBIR21JqkpSgADgz80GuMFQutjcudgTo/MtmdFb9tLl/P3HO1AFvqDF7s0+v46afbpfoPUA5xPc2WzNk7jNAUtdOA721h9aqtXSfG+HMSwSbIcTQye/S9BGoLT+S8pYZvnwDZj0r0Xses0AbFkPbKBzjCtxozC1R829cIsDB/C5xrgGYDxjWsC4+vM6iYAAA=",
     "width": 1170,
@@ -175,7 +175,7 @@
     "serviceLabel": "Pressure Washing",
     "city": null,
     "cityLabel": null,
-    "propertyType": null,
+    "propertyType": "residential",
     "beforeAfter": "after",
     "perceptualHash": "3df34b6ce66b6586",
     "sortOrder": 7,
@@ -208,7 +208,7 @@
     "title": "Moss-covered tile roof before cleaning",
     "alt": "Moss-covered tile roof before cleaning",
     "caption": "Moss-covered tile roof before cleaning",
-    "description": "Tile roof shown covered in moss, algae, and debris prior to soft washing.",
+    "description": "Tile roof shown covered in moss, algae, and debris prior to pressure washing.",
     "ingestedAt": "2026-07-30T03:09:43.317Z"
   },
   {
@@ -234,7 +234,7 @@
     "title": "Roofline and stucco wall detail",
     "alt": "Roofline and stucco wall detail",
     "caption": "Roofline and stucco wall detail",
-    "description": "Roof tile and stucco wall detail photographed near a window, as part of a roof soft-washing job.",
+    "description": "Roof tile and stucco wall detail photographed near a window, as part of a pressure washing job.",
     "ingestedAt": "2026-07-30T03:09:42.505Z"
   },
   {

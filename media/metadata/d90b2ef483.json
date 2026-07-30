@@ -12,13 +12,13 @@
   "perceptualHash": "9cbbdf7cfcff7f63",
   "paths": {
     "original": "media/processed/originals/d90b2ef483.png",
-    "optimized": "media/optimized/window-cleaning--d90b2ef483.webp",
-    "optimizedAvif": "media/optimized/window-cleaning--d90b2ef483.avif",
+    "optimized": "media/optimized/window-cleaning-residential--d90b2ef483.webp",
+    "optimizedAvif": "media/optimized/window-cleaning-residential--d90b2ef483.avif",
     "responsive": {
-      "400": "media/optimized/window-cleaning--d90b2ef483-400.webp",
-      "800": "media/optimized/window-cleaning--d90b2ef483-800.webp"
+      "400": "media/optimized/window-cleaning-residential--d90b2ef483-400.webp",
+      "800": "media/optimized/window-cleaning-residential--d90b2ef483-800.webp"
     },
-    "thumbnail": "media/thumbnails/window-cleaning--d90b2ef483.webp"
+    "thumbnail": "media/thumbnails/window-cleaning-residential--d90b2ef483.webp"
   },
   "blurPlaceholder": "data:image/webp;base64,UklGRhQBAABXRUJQVlA4IAgBAAAwBwCdASoYADQAPu1urVIppiQipAyRMB2JZQDEJDPgzxA2JYcCtBc21hYZe9QR+O8AfvPV5Z1iC8RAQzZLqeMsPAAA/vm/kFug/AsTDzzM3uiTtlb+tycd9Ge0dYOPIivx5pLGco4x45rmDK/2IAIn6jM/RgzuFPeTs+BJWiHXRlxqlQs7TKqAjGNQ0OWIkqCgaqD0qOsMrpWOKMvwylITVfvGmtzoOkB+m3pL5vClLfMqV1GCwOoHnh/8yDNHCByHZe4adhzM8xKOrpAFiLAgh/je7rSJlLj4v0GwrtiRdBT66fYHztG7mZ1wUXz1fXgDzcoa3SLUvei89aWAB8SGfYr3hAsgAAA=",
   "status": "classified",
@@ -26,7 +26,7 @@
     "service": "window-cleaning",
     "surfaceType": null,
     "buildingType": null,
-    "propertyType": null,
+    "propertyType": "residential",
     "beforeAfter": "after",
     "cleaningMethod": null,
     "equipmentVisible": [],
@@ -36,7 +36,7 @@
     "confidence": 95
   },
   "seo": {
-    "filename": "window-cleaning--d90b2ef483.webp",
+    "filename": "window-cleaning-residential--d90b2ef483.webp",
     "title": "Clean exterior window with fence and trees visible",
     "alt": "Clean exterior window with fence and trees visible",
     "caption": "Clean exterior window with fence and trees visible",
@@ -52,6 +52,6 @@
   },
   "tags": [],
   "needsReview": false,
-  "finalizedAt": "2026-07-30T05:00:55.039Z",
+  "finalizedAt": "2026-07-30T06:12:37.943Z",
   "sortOrder": 6
 }

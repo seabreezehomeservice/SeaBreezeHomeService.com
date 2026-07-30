@@ -6,12 +6,12 @@
       "items": [
         {
           "id": "8404bf0279",
-          "thumbnail": "/media/thumbnails/window-cleaning--8404bf0279.webp",
-          "full": "/media/optimized/window-cleaning--8404bf0279.webp",
-          "avif": "/media/optimized/window-cleaning--8404bf0279.avif",
+          "thumbnail": "/media/thumbnails/window-cleaning-residential--8404bf0279.webp",
+          "full": "/media/optimized/window-cleaning-residential--8404bf0279.webp",
+          "avif": "/media/optimized/window-cleaning-residential--8404bf0279.avif",
           "responsive": {
-            "400": "/media/optimized/window-cleaning--8404bf0279-400.webp",
-            "800": "/media/optimized/window-cleaning--8404bf0279-800.webp"
+            "400": "/media/optimized/window-cleaning-residential--8404bf0279-400.webp",
+            "800": "/media/optimized/window-cleaning-residential--8404bf0279-800.webp"
           },
           "blur": "data:image/webp;base64,UklGRiQBAABXRUJQVlA4IBgBAACwBwCdASoYADQAPu1kqlCppSOirBVcyTAdiUAYoXiwQBkAB23rF1zOjaHQ9LAR0S1B/YsS8RTVVPUNpFZM5DpNE9tbFaxgAP73deaY+EiIS3wOyieCKQp1L5O1rdDjxqd8EMFw32z+Tnkv6aHpjFrmpV2nHzBIuVD4iiyW8255MbbDRVpwirvl/7NuqHjRpHbipVIIHzvGeUxh+613UrRuiaBRcT+IyDPDdOspQsDsVpN8KJSV8mH+08hTksYXlRM7pPr/eLbIfzVUZ3iSxcZEbTl8JLLxLXnhaYSNtDmGxpj3arwyVGhRHar4jhNlxfSZw4SYgZYm+fdTL17HntWAWZ7z/0TzFGPmCoDmBLMaVKPRBMmp+IAA",
           "width": 1170,
@@ -20,7 +20,7 @@
           "serviceLabel": "Window Cleaning",
           "city": null,
           "cityLabel": null,
-          "propertyType": null,
+          "propertyType": "residential",
           "beforeAfter": null,
           "perceptualHash": "677d7b7da7a3b8de",
           "sortOrder": 1,
@@ -32,12 +32,12 @@
         },
         {
           "id": "198917e488",
-          "thumbnail": "/media/thumbnails/window-cleaning--198917e488.webp",
-          "full": "/media/optimized/window-cleaning--198917e488.webp",
-          "avif": "/media/optimized/window-cleaning--198917e488.avif",
+          "thumbnail": "/media/thumbnails/window-cleaning-residential--198917e488.webp",
+          "full": "/media/optimized/window-cleaning-residential--198917e488.webp",
+          "avif": "/media/optimized/window-cleaning-residential--198917e488.avif",
           "responsive": {
-            "400": "/media/optimized/window-cleaning--198917e488-400.webp",
-            "800": "/media/optimized/window-cleaning--198917e488-800.webp"
+            "400": "/media/optimized/window-cleaning-residential--198917e488-400.webp",
+            "800": "/media/optimized/window-cleaning-residential--198917e488-800.webp"
           },
           "blur": "data:image/webp;base64,UklGRiIBAABXRUJQVlA4IBYBAAAwBwCdASoYADQAPu1iq1AppSOirBVcyTAdiUAYoXOgbDJDR/HtUSwJUxCAKVMVRZi+4FOqWpKpTofvddNd+X/YSYAA/vhLtCqqgbeWBXReDICOZmqOGp1ax78otTOth2jjvkOcemBAMB9d7V8rYvgpnjp1xPlw10OGCM0UqWlmDpqKoqn/Fd2N9NKyou36SmfR/T2GFOhppKqiY+oqZrwfNV1mzliojU73NtR1i5WdpvevF1+24T4ekqGCRh8AhqVZNXDwzf5EM4kbB+TFDdcV+G5j436WY1SqKFrI6ubbwTYTpI3nn95uI+m5hOSHHYqR/Z7X7yxJm1efFFtcYKfzKRBXM5Bpo2BU1Exg//qOAKXIx0AAAA==",
           "width": 1170,
@@ -46,7 +46,7 @@
           "serviceLabel": "Window Cleaning",
           "city": null,
           "cityLabel": null,
-          "propertyType": null,
+          "propertyType": "residential",
           "beforeAfter": "after",
           "perceptualHash": "336ff4c7b79edecc",
           "sortOrder": 2,
@@ -110,12 +110,12 @@
         },
         {
           "id": "9476aa363f",
-          "thumbnail": "/media/thumbnails/window-cleaning--9476aa363f.webp",
-          "full": "/media/optimized/window-cleaning--9476aa363f.webp",
-          "avif": "/media/optimized/window-cleaning--9476aa363f.avif",
+          "thumbnail": "/media/thumbnails/window-cleaning-residential--9476aa363f.webp",
+          "full": "/media/optimized/window-cleaning-residential--9476aa363f.webp",
+          "avif": "/media/optimized/window-cleaning-residential--9476aa363f.avif",
           "responsive": {
-            "400": "/media/optimized/window-cleaning--9476aa363f-400.webp",
-            "800": "/media/optimized/window-cleaning--9476aa363f-800.webp"
+            "400": "/media/optimized/window-cleaning-residential--9476aa363f-400.webp",
+            "800": "/media/optimized/window-cleaning-residential--9476aa363f-800.webp"
           },
           "blur": "data:image/webp;base64,UklGRgQBAABXRUJQVlA4IPgAAADQBgCdASoYADQAPu1kqlAppSOirBVcyTAdiWUAvhG1gaaxZoPl/zYLTYTrnV0JyJPHkANYfTKf/cfEPLCGYAAA/vd2Id0SKQkHeb7fGA1r48xI7pxIxTsNSEMwSJYP/sFVjvzBhSRLKMtF+98g7HpOsvAh5FDCd6Oqoh+ghBca0F0fAXg0IOSErIAZgyfoYtvFk3KL4pLfilSUf9teXE6je5gTVGrmh528Rt+EIu41BDKYyOlG+D8jMXvYoJY8z2N7NzSQM9f0Ak5eNnVzNkrGZqdISKs7YngeI76VVyzMGjzYJqt8CJPsqMQuW4FcoHvy+YCjD+8AAA==",
           "width": 1170,
@@ -124,7 +124,7 @@
           "serviceLabel": "Window Cleaning",
           "city": null,
           "cityLabel": null,
-          "propertyType": null,
+          "propertyType": "residential",
           "beforeAfter": "after",
           "perceptualHash": "ccbcfc1c7cfefcce",
           "sortOrder": 5,
@@ -136,12 +136,12 @@
         },
         {
           "id": "d90b2ef483",
-          "thumbnail": "/media/thumbnails/window-cleaning--d90b2ef483.webp",
-          "full": "/media/optimized/window-cleaning--d90b2ef483.webp",
-          "avif": "/media/optimized/window-cleaning--d90b2ef483.avif",
+          "thumbnail": "/media/thumbnails/window-cleaning-residential--d90b2ef483.webp",
+          "full": "/media/optimized/window-cleaning-residential--d90b2ef483.webp",
+          "avif": "/media/optimized/window-cleaning-residential--d90b2ef483.avif",
           "responsive": {
-            "400": "/media/optimized/window-cleaning--d90b2ef483-400.webp",
-            "800": "/media/optimized/window-cleaning--d90b2ef483-800.webp"
+            "400": "/media/optimized/window-cleaning-residential--d90b2ef483-400.webp",
+            "800": "/media/optimized/window-cleaning-residential--d90b2ef483-800.webp"
           },
           "blur": "data:image/webp;base64,UklGRhQBAABXRUJQVlA4IAgBAAAwBwCdASoYADQAPu1urVIppiQipAyRMB2JZQDEJDPgzxA2JYcCtBc21hYZe9QR+O8AfvPV5Z1iC8RAQzZLqeMsPAAA/vm/kFug/AsTDzzM3uiTtlb+tycd9Ge0dYOPIivx5pLGco4x45rmDK/2IAIn6jM/RgzuFPeTs+BJWiHXRlxqlQs7TKqAjGNQ0OWIkqCgaqD0qOsMrpWOKMvwylITVfvGmtzoOkB+m3pL5vClLfMqV1GCwOoHnh/8yDNHCByHZe4adhzM8xKOrpAFiLAgh/je7rSJlLj4v0GwrtiRdBT66fYHztG7mZ1wUXz1fXgDzcoa3SLUvei89aWAB8SGfYr3hAsgAAA=",
           "width": 1170,
@@ -150,7 +150,7 @@
           "serviceLabel": "Window Cleaning",
           "city": null,
           "cityLabel": null,
-          "propertyType": null,
+          "propertyType": "residential",
           "beforeAfter": "after",
           "perceptualHash": "9cbbdf7cfcff7f63",
           "sortOrder": 6,
@@ -272,10 +272,10 @@
           "beforeAfter": "after",
           "perceptualHash": "98383ab9e95140a2",
           "sortOrder": 2,
-          "title": "Clean solar panels overlooking the street",
-          "alt": "Clean solar panels overlooking the street",
-          "caption": "Clean solar panels overlooking the street",
-          "description": "Rooftop solar panels shown clean and reflective, overlooking the street below.",
+          "title": "Clean solar panel array from a wider angle",
+          "alt": "Clean solar panel array from a wider angle",
+          "caption": "Clean solar panel array from a wider angle",
+          "description": "Rooftop solar panels shown clean and reflective, photographed from a wider angle overlooking the same street.",
           "ingestedAt": "2026-07-30T03:10:11.841Z"
         },
         {
@@ -356,10 +356,10 @@
           "beforeAfter": "after",
           "perceptualHash": "92396072a9c8611f",
           "sortOrder": 5,
-          "title": "Clean solar panels overlooking the street",
-          "alt": "Clean solar panels overlooking the street",
-          "caption": "Clean solar panels overlooking the street",
-          "description": "Rooftop solar panels shown clean and reflective, overlooking the street below.",
+          "title": "Clean solar panels viewed along the panel edge",
+          "alt": "Clean solar panels viewed along the panel edge",
+          "caption": "Clean solar panels viewed along the panel edge",
+          "description": "Rooftop solar panels shown clean and reflective, viewed from a lower angle along the edge of the array with a van visible on the street below.",
           "ingestedAt": "2026-07-30T03:09:48.140Z"
         },
         {
@@ -468,10 +468,10 @@
           "beforeAfter": null,
           "perceptualHash": "e080400043635a54",
           "sortOrder": 9,
-          "title": "Roofline detail",
-          "alt": "Roofline detail",
-          "caption": "Roofline detail",
-          "description": "Roof tile and eave detail photographed as part of a roof soft-washing job.",
+          "title": "Roofline and eave detail",
+          "alt": "Roofline and eave detail",
+          "caption": "Roofline and eave detail",
+          "description": "Roof tile and eave detail near a window, photographed during a solar panel cleaning visit.",
           "ingestedAt": "2026-07-30T03:08:51.872Z"
         },
         {
@@ -559,7 +559,7 @@
           "title": "Tile roof showing cleaned vs. untreated sections",
           "alt": "Tile roof showing cleaned vs. untreated sections",
           "caption": "Tile roof showing cleaned vs. untreated sections",
-          "description": "Tile roof showing a visibly cleaner section next to an untreated, algae-streaked section during a soft-washing job.",
+          "description": "Tile roof showing a visibly cleaner section next to an untreated, algae-streaked section during a pressure washing job.",
           "ingestedAt": "2026-07-30T03:09:41.917Z"
         },
         {
@@ -638,10 +638,10 @@
           "beforeAfter": "after",
           "perceptualHash": "030dac5c12cb7343",
           "sortOrder": 4,
-          "title": "Clean tile roof after soft washing",
-          "alt": "Clean tile roof after soft washing",
-          "caption": "Clean tile roof after soft washing",
-          "description": "Tile roof shown clean and uniform in color after a soft-washing service.",
+          "title": "Clean tile roof close-up with chimney",
+          "alt": "Clean tile roof close-up with chimney",
+          "caption": "Clean tile roof close-up with chimney",
+          "description": "Tile roof shown clean and uniform in color after a pressure washing service, viewed from a closer angle.",
           "ingestedAt": "2026-07-30T03:09:45.287Z"
         },
         {
@@ -664,20 +664,20 @@
           "beforeAfter": "after",
           "perceptualHash": "0688f8f9471de9aa",
           "sortOrder": 5,
-          "title": "Clean tile roof after soft washing",
-          "alt": "Clean tile roof after soft washing",
-          "caption": "Clean tile roof after soft washing",
-          "description": "Tile roof shown clean and uniform in color after a soft-washing service.",
+          "title": "Clean tile roof with chimney and tree line",
+          "alt": "Clean tile roof with chimney and tree line",
+          "caption": "Clean tile roof with chimney and tree line",
+          "description": "Tile roof shown clean and uniform in color after a pressure washing service, with a chimney and mature tree visible.",
           "ingestedAt": "2026-07-30T03:09:44.299Z"
         },
         {
           "id": "b3cb338e94",
-          "thumbnail": "/media/thumbnails/pressure-washing--b3cb338e94.webp",
-          "full": "/media/optimized/pressure-washing--b3cb338e94.webp",
-          "avif": "/media/optimized/pressure-washing--b3cb338e94.avif",
+          "thumbnail": "/media/thumbnails/pressure-washing-residential--b3cb338e94.webp",
+          "full": "/media/optimized/pressure-washing-residential--b3cb338e94.webp",
+          "avif": "/media/optimized/pressure-washing-residential--b3cb338e94.avif",
           "responsive": {
-            "400": "/media/optimized/pressure-washing--b3cb338e94-400.webp",
-            "800": "/media/optimized/pressure-washing--b3cb338e94-800.webp"
+            "400": "/media/optimized/pressure-washing-residential--b3cb338e94-400.webp",
+            "800": "/media/optimized/pressure-washing-residential--b3cb338e94-800.webp"
           },
           "blur": "data:image/webp;base64,UklGRioBAABXRUJQVlA4IB4BAADwBgCdASoYADQAPu1kqE6ppaOiLBqsyTAdiWMAyW1XKli4CqtVWCF3KtzXA+I7+Sk5ovUmeIgwdWfYjNBCuGagAP73dfo2Ava8lsxwrDf/cGrIQuBTJKAnOndqtHcy9i7jJ/NzQq6vtKVAixTZMVnQfkpbo21kI3L6TqYj0vmD2TfqUBFxqaSXz0FnSx8YqD7cBtjy5gQFSDw8X5VBHupgijUx1IUXTso3aDgH0R1dIRSGghWrKzbDC/+SmqBwvqf0fUkpDhKGfihba4lexm/sjgRwWQq9YyWNaGQMX07PRaZ1+MQMyR8sQkh840psr9wO0YLSZHy47fpvgeJAtX/rOi8wStFmSM2CuBeMQf/A1+JvD+ZDlQX6w+BicAAA",
           "width": 1170,
@@ -686,7 +686,7 @@
           "serviceLabel": "Pressure Washing",
           "city": null,
           "cityLabel": null,
-          "propertyType": null,
+          "propertyType": "residential",
           "beforeAfter": "before",
           "perceptualHash": "8383c1df331a6e46",
           "sortOrder": 6,
@@ -698,12 +698,12 @@
         },
         {
           "id": "c271448f00",
-          "thumbnail": "/media/thumbnails/pressure-washing--c271448f00.webp",
-          "full": "/media/optimized/pressure-washing--c271448f00.webp",
-          "avif": "/media/optimized/pressure-washing--c271448f00.avif",
+          "thumbnail": "/media/thumbnails/pressure-washing-residential--c271448f00.webp",
+          "full": "/media/optimized/pressure-washing-residential--c271448f00.webp",
+          "avif": "/media/optimized/pressure-washing-residential--c271448f00.avif",
           "responsive": {
-            "400": "/media/optimized/pressure-washing--c271448f00-400.webp",
-            "800": "/media/optimized/pressure-washing--c271448f00-800.webp"
+            "400": "/media/optimized/pressure-washing-residential--c271448f00-400.webp",
+            "800": "/media/optimized/pressure-washing-residential--c271448f00-800.webp"
           },
           "blur": "data:image/webp;base64,UklGRg4BAABXRUJQVlA4IAIBAADwBwCdASoYADQAPulaqE2pJKQiMBv8ASAdCWMAx28wjGm4C3nKQ5WCglR2lcoCEUcw3KhmKJL/LhthPU9/OEVNnbXEvX/pJDAA/vrpBoKuOIKhcgrY108GmnVb1Q4VEthO9kiBEulRez8PL/rZXYe2ZChMBIR21JqkpSgADgz80GuMFQutjcudgTo/MtmdFb9tLl/P3HO1AFvqDF7s0+v46afbpfoPUA5xPc2WzNk7jNAUtdOA721h9aqtXSfG+HMSwSbIcTQye/S9BGoLT+S8pYZvnwDZj0r0Xses0AbFkPbKBzjCtxozC1R829cIsDB/C5xrgGYDxjWsC4+vM6iYAAA=",
           "width": 1170,
@@ -712,7 +712,7 @@
           "serviceLabel": "Pressure Washing",
           "city": null,
           "cityLabel": null,
-          "propertyType": null,
+          "propertyType": "residential",
           "beforeAfter": "after",
           "perceptualHash": "3df34b6ce66b6586",
           "sortOrder": 7,
@@ -745,7 +745,7 @@
           "title": "Moss-covered tile roof before cleaning",
           "alt": "Moss-covered tile roof before cleaning",
           "caption": "Moss-covered tile roof before cleaning",
-          "description": "Tile roof shown covered in moss, algae, and debris prior to soft washing.",
+          "description": "Tile roof shown covered in moss, algae, and debris prior to pressure washing.",
           "ingestedAt": "2026-07-30T03:09:43.317Z"
         },
         {
@@ -771,7 +771,7 @@
           "title": "Roofline and stucco wall detail",
           "alt": "Roofline and stucco wall detail",
           "caption": "Roofline and stucco wall detail",
-          "description": "Roof tile and stucco wall detail photographed near a window, as part of a roof soft-washing job.",
+          "description": "Roof tile and stucco wall detail photographed near a window, as part of a pressure washing job.",
           "ingestedAt": "2026-07-30T03:09:42.505Z"
         },
         {
@@ -1082,10 +1082,10 @@
           "beforeAfter": "before",
           "perceptualHash": "01050174d4d4dc0d",
           "sortOrder": 7,
-          "title": "Home exterior daytime reference photo",
-          "alt": "Home exterior daytime reference photo",
-          "caption": "Home exterior daytime reference photo",
-          "description": "Daytime photo of a home exterior, likely taken as a reference prior to a lighting installation.",
+          "title": "Home exterior daytime photo",
+          "alt": "Home exterior daytime photo",
+          "caption": "Home exterior daytime photo",
+          "description": "Daytime photo of a home exterior, taken during a holiday lighting installation visit.",
           "ingestedAt": "2026-07-30T03:09:21.715Z"
         },
         {
@@ -1281,10 +1281,10 @@
           "beforeAfter": "after",
           "perceptualHash": "7e92263d6d850908",
           "sortOrder": 2,
-          "title": "Warm white holiday roofline lighting",
-          "alt": "Warm white holiday roofline lighting",
-          "caption": "Warm white holiday roofline lighting",
-          "description": "Warm white holiday string lights installed along the roofline and entry of a two-story home.",
+          "title": "Permanent lighting in warm white mode on a two-story home",
+          "alt": "Permanent lighting in warm white mode on a two-story home",
+          "caption": "Permanent lighting in warm white mode on a two-story home",
+          "description": "Permanent color-changing lighting system displaying a warm white mode along the roofline and entry of a two-story home.",
           "ingestedAt": "2026-07-30T03:08:44.345Z"
         },
         {

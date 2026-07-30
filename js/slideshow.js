@@ -76,12 +76,20 @@ window.SeaBreezeSlideshow = (function () {
       startTimer();
     }
 
+    function renderSpeed() {
+      const multiplier = SPEEDS.length - speedIdx;
+      speedBtn.textContent = `⏩ ${multiplier}×`;
+      // A static aria-label would hide the current speed from screen reader
+      // users entirely (aria-label always wins over visible text content).
+      speedBtn.setAttribute('aria-label', `Slideshow speed ${multiplier}×. Activate to speed up.`);
+    }
+
     prevBtn.addEventListener('click', () => { go(-1); setPlaying(false); });
     nextBtn.addEventListener('click', () => { go(1); setPlaying(false); });
     playBtn.addEventListener('click', () => setPlaying(!playing));
     speedBtn.addEventListener('click', () => {
       speedIdx = (speedIdx + 1) % SPEEDS.length;
-      speedBtn.textContent = `⏩ ${SPEEDS.length - speedIdx}×`;
+      renderSpeed();
       startTimer();
     });
     container.addEventListener('mouseenter', stopTimer);
@@ -101,7 +109,7 @@ window.SeaBreezeSlideshow = (function () {
 
     if (items.length < 2) { prevBtn.hidden = true; nextBtn.hidden = true; playBtn.hidden = true; speedBtn.hidden = true; }
 
-    speedBtn.textContent = `⏩ ${SPEEDS.length - speedIdx}×`;
+    renderSpeed();
     playBtn.textContent = playing ? '⏸' : '▶';
     renderSlide();
 

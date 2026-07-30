@@ -1,0 +1,44 @@
+{
+  "startedAt": "2026-07-30T06:12:37.907Z",
+  "finalized": [
+    {
+      "id": "198917e488",
+      "slug": "window-cleaning-residential--198917e488",
+      "status": "classified",
+      "confidence": 95
+    },
+    {
+      "id": "8404bf0279",
+      "slug": "window-cleaning-residential--8404bf0279",
+      "status": "classified",
+      "confidence": 85
+    },
+    {
+      "id": "9476aa363f",
+      "slug": "window-cleaning-residential--9476aa363f",
+      "status": "classified",
+      "confidence": 95
+    },
+    {
+      "id": "b3cb338e94",
+      "slug": "pressure-washing-residential--b3cb338e94",
+      "status": "classified",
+      "confidence": 90
+    },
+    {
+      "id": "c271448f00",
+      "slug": "pressure-washing-residential--c271448f00",
+      "status": "classified",
+      "confidence": 88
+    },
+    {
+      "id": "d90b2ef483",
+      "slug": "window-cleaning-residential--d90b2ef483",
+      "status": "classified",
+      "confidence": 95
+    }
+  ],
+  "stillPending": [],
+  "needsReview": [],
+  "finishedAt": "2026-07-30T06:12:37.958Z"
+}

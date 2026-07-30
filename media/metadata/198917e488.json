@@ -12,13 +12,13 @@
   "perceptualHash": "336ff4c7b79edecc",
   "paths": {
     "original": "media/processed/originals/198917e488.png",
-    "optimized": "media/optimized/window-cleaning--198917e488.webp",
-    "optimizedAvif": "media/optimized/window-cleaning--198917e488.avif",
+    "optimized": "media/optimized/window-cleaning-residential--198917e488.webp",
+    "optimizedAvif": "media/optimized/window-cleaning-residential--198917e488.avif",
     "responsive": {
-      "400": "media/optimized/window-cleaning--198917e488-400.webp",
-      "800": "media/optimized/window-cleaning--198917e488-800.webp"
+      "400": "media/optimized/window-cleaning-residential--198917e488-400.webp",
+      "800": "media/optimized/window-cleaning-residential--198917e488-800.webp"
     },
-    "thumbnail": "media/thumbnails/window-cleaning--198917e488.webp"
+    "thumbnail": "media/thumbnails/window-cleaning-residential--198917e488.webp"
   },
   "blurPlaceholder": "data:image/webp;base64,UklGRiIBAABXRUJQVlA4IBYBAAAwBwCdASoYADQAPu1iq1AppSOirBVcyTAdiUAYoXOgbDJDR/HtUSwJUxCAKVMVRZi+4FOqWpKpTofvddNd+X/YSYAA/vhLtCqqgbeWBXReDICOZmqOGp1ax78otTOth2jjvkOcemBAMB9d7V8rYvgpnjp1xPlw10OGCM0UqWlmDpqKoqn/Fd2N9NKyou36SmfR/T2GFOhppKqiY+oqZrwfNV1mzliojU73NtR1i5WdpvevF1+24T4ekqGCRh8AhqVZNXDwzf5EM4kbB+TFDdcV+G5j436WY1SqKFrI6ubbwTYTpI3nn95uI+m5hOSHHYqR/Z7X7yxJm1efFFtcYKfzKRBXM5Bpo2BU1Exg//qOAKXIx0AAAA==",
   "status": "classified",
@@ -26,7 +26,7 @@
     "service": "window-cleaning",
     "surfaceType": null,
     "buildingType": null,
-    "propertyType": null,
+    "propertyType": "residential",
     "beforeAfter": "after",
     "cleaningMethod": null,
     "equipmentVisible": [],
@@ -36,7 +36,7 @@
     "confidence": 95
   },
   "seo": {
-    "filename": "window-cleaning--198917e488.webp",
+    "filename": "window-cleaning-residential--198917e488.webp",
     "title": "Clean glass door after window cleaning",
     "alt": "Clean glass door after window cleaning",
     "caption": "Clean glass door after window cleaning",
@@ -52,6 +52,6 @@
   },
   "tags": [],
   "needsReview": false,
-  "finalizedAt": "2026-07-30T05:00:55.029Z",
+  "finalizedAt": "2026-07-30T06:12:37.913Z",
   "sortOrder": 2
 }
