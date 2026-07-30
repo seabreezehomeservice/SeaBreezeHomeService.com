@@ -42,9 +42,9 @@ const navbar = (activeHref = '/') => `
     </a>
     <ul class="nav-links" role="list">
       <li><a href="/#services">Services</a></li>
-      <li><a href="/portfolio.html">Portfolio</a></li>
       <li><a href="/#why">Why Us</a></li>
       <li><a href="/#reviews">Reviews</a></li>
+      <li><a href="/portfolio.html">Portfolio</a></li>
       <li><a href="/#areas">Service Areas</a></li>
       <li><a href="/#faq">FAQ</a></li>
       <li><a href="${PHONE}" class="btn-cta">Get a Quote</a></li>
@@ -56,9 +56,9 @@ const navbar = (activeHref = '/') => `
   <div id="mobile-menu" role="dialog" aria-label="Mobile navigation">
     <ul>
       <li><a href="/#services" onclick="closeMobile()">Services</a></li>
-      <li><a href="/portfolio.html" onclick="closeMobile()">Portfolio</a></li>
       <li><a href="/#why" onclick="closeMobile()">Why Us</a></li>
       <li><a href="/#reviews" onclick="closeMobile()">Reviews</a></li>
+      <li><a href="/portfolio.html" onclick="closeMobile()">Portfolio</a></li>
       <li><a href="/#areas" onclick="closeMobile()">Service Areas</a></li>
       <li><a href="/#faq" onclick="closeMobile()">FAQ</a></li>
       <li><a href="${PHONE}" onclick="closeMobile()" class="btn-cta" style="display:inline-block;margin-top:.5rem;">Get a Quote</a></li>
