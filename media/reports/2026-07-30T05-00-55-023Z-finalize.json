@@ -1,0 +1,28 @@
+{
+  "startedAt": "2026-07-30T05:00:55.023Z",
+  "finalized": [
+    {
+      "id": "198917e488",
+      "slug": "window-cleaning--198917e488",
+      "status": "classified",
+      "confidence": 95
+    },
+    {
+      "id": "9476aa363f",
+      "slug": "window-cleaning--9476aa363f",
+      "status": "classified",
+      "confidence": 95
+    },
+    {
+      "id": "d90b2ef483",
+      "slug": "window-cleaning--d90b2ef483",
+      "status": "classified",
+      "confidence": 95
+    }
+  ],
+  "stillPending": [
+    "26a7b941a6"
+  ],
+  "needsReview": [],
+  "finishedAt": "2026-07-30T05:00:55.066Z"
+}

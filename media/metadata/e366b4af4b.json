@@ -1,0 +1,58 @@
+{
+  "id": "e366b4af4b",
+  "originalFilename": "IMG_4571.jpeg",
+  "sha256": "e366b4af4b07c1baf834eb30a9000c43455eae81a8a861d6c397176b93313943",
+  "ingestedAt": "2026-07-30T03:09:01.709Z",
+  "captureDate": "2025-12-11T01:46:52.000Z",
+  "dimensions": {
+    "width": 4032,
+    "height": 3024
+  },
+  "paths": {
+    "original": "media/processed/originals/e366b4af4b.jpeg",
+    "optimized": "media/optimized/permanent-lighting-residential--e366b4af4b.webp",
+    "optimizedAvif": "media/optimized/permanent-lighting-residential--e366b4af4b.avif",
+    "responsive": {
+      "400": "media/optimized/permanent-lighting-residential--e366b4af4b-400.webp",
+      "800": "media/optimized/permanent-lighting-residential--e366b4af4b-800.webp",
+      "1200": "media/optimized/permanent-lighting-residential--e366b4af4b-1200.webp",
+      "1600": "media/optimized/permanent-lighting-residential--e366b4af4b-1600.webp"
+    },
+    "thumbnail": "media/thumbnails/permanent-lighting-residential--e366b4af4b.webp"
+  },
+  "blurPlaceholder": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAADwBACdASoYACAAPu1wr1IppiQiqAgBMB2JQBnHCtoN833wnWbavwMgMejhv4/ZskAA/vxDsfLyPbIM9dic1ws3L5sz5y1B1CK75zr1hAmGUrovDCE5MZVR35pVChFbhesZ7BB/G1yiLXnb7lFVbIHgX9oy5LchJJ2hZiodKfSLlZJLWr5LfzXGHfDn5Lzs7NKoKoEX4QCAAA==",
+  "status": "classified",
+  "classification": {
+    "service": "permanent-lighting",
+    "surfaceType": null,
+    "buildingType": null,
+    "propertyType": "residential",
+    "beforeAfter": "after",
+    "cleaningMethod": null,
+    "equipmentVisible": [],
+    "qualityScore": 0.85,
+    "sharpness": null,
+    "suitableForMarketing": true,
+    "confidence": 100
+  },
+  "seo": {
+    "filename": "permanent-lighting-residential--e366b4af4b.webp",
+    "title": "Red and green permanent lighting display at night",
+    "alt": "Red and green permanent lighting display at night",
+    "caption": "Red and green permanent lighting display at night",
+    "description": "Permanent color-changing lighting system displaying a red-and-green holiday color mode along the roofline."
+  },
+  "location": {
+    "city": null,
+    "neighborhood": null
+  },
+  "pairing": {
+    "pairId": null,
+    "role": null
+  },
+  "tags": [],
+  "needsReview": false,
+  "finalizedAt": "2026-07-30T03:58:13.854Z",
+  "perceptualHash": "0208a3574c4c5624",
+  "sortOrder": 4
+}

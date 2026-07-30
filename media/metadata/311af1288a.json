@@ -1,0 +1,58 @@
+{
+  "id": "311af1288a",
+  "originalFilename": "IMG_4716.HEIC",
+  "sha256": "311af1288a4cfba87f8677f7468cf610007158b134a33e9d7f9bb54a8a716e92",
+  "ingestedAt": "2026-07-30T03:09:10.256Z",
+  "captureDate": "2025-11-01T01:25:44.000Z",
+  "dimensions": {
+    "width": 3024,
+    "height": 4032
+  },
+  "paths": {
+    "original": "media/processed/originals/311af1288a.heic",
+    "optimized": "media/optimized/holiday-light-installation-residential--311af1288a.webp",
+    "optimizedAvif": "media/optimized/holiday-light-installation-residential--311af1288a.avif",
+    "responsive": {
+      "400": "media/optimized/holiday-light-installation-residential--311af1288a-400.webp",
+      "800": "media/optimized/holiday-light-installation-residential--311af1288a-800.webp",
+      "1200": "media/optimized/holiday-light-installation-residential--311af1288a-1200.webp",
+      "1600": "media/optimized/holiday-light-installation-residential--311af1288a-1600.webp"
+    },
+    "thumbnail": "media/thumbnails/holiday-light-installation-residential--311af1288a.webp"
+  },
+  "blurPlaceholder": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAABQBACdASoYACAAPu1iqU4ppaOiMAgBMB2JZQDO7CHftVZgVodyNzc7fsQAAP70GbGRnIrmidmQRqPbEue664c+p3WAtF6C0iNzFVCBWlDz+QgkhSyF4PLgqLf/ApUc/r3AdKucpguo5YgRmSjgAA==",
+  "status": "classified",
+  "classification": {
+    "service": "holiday-light-installation",
+    "surfaceType": null,
+    "buildingType": null,
+    "propertyType": "residential",
+    "beforeAfter": "after",
+    "cleaningMethod": null,
+    "equipmentVisible": [],
+    "qualityScore": 0.85,
+    "sharpness": null,
+    "suitableForMarketing": true,
+    "confidence": 100
+  },
+  "seo": {
+    "filename": "holiday-light-installation-residential--311af1288a.webp",
+    "title": "Warm white holiday lighting with starburst fixture",
+    "alt": "Warm white holiday lighting with starburst fixture",
+    "caption": "Warm white holiday lighting with starburst fixture",
+    "description": "Warm white roofline holiday lights with a decorative starburst light fixture on the home’s facade."
+  },
+  "location": {
+    "city": null,
+    "neighborhood": null
+  },
+  "pairing": {
+    "pairId": null,
+    "role": null
+  },
+  "tags": [],
+  "needsReview": false,
+  "finalizedAt": "2026-07-30T03:58:13.611Z",
+  "perceptualHash": "4882ec657308a400",
+  "sortOrder": 4
+}

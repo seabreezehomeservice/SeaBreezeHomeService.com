@@ -1,0 +1,56 @@
+{
+  "id": "9ac120f055",
+  "originalFilename": "IMG_5857.PNG",
+  "sha256": "9ac120f05583db9bdb4c65f0fe62fe88ba0c71b20ff3dcec0fd6e213f04c09bd",
+  "ingestedAt": "2026-07-30T03:09:45.287Z",
+  "captureDate": "2026-06-10T23:46:01.000Z",
+  "dimensions": {
+    "width": 1170,
+    "height": 2532
+  },
+  "paths": {
+    "original": "media/processed/originals/9ac120f055.png",
+    "optimized": "media/optimized/pressure-washing-residential--9ac120f055.webp",
+    "optimizedAvif": "media/optimized/pressure-washing-residential--9ac120f055.avif",
+    "responsive": {
+      "400": "media/optimized/pressure-washing-residential--9ac120f055-400.webp",
+      "800": "media/optimized/pressure-washing-residential--9ac120f055-800.webp"
+    },
+    "thumbnail": "media/thumbnails/pressure-washing-residential--9ac120f055.webp"
+  },
+  "blurPlaceholder": "data:image/webp;base64,UklGRkoBAABXRUJQVlA4ID4BAACQBwCdASoYADQAPu1sq1CppiOiqBgNUTAdiWQAv9/Uq8z32w9U3SdjeEiRRw/wY8D7XQDdztk7pEEHo6aNiTo5nJGJ7AAA/vpdg9vPBt0gPRaxqIkJzye/BtSKcfinolGMFb93saZdtscvVWzfyY2sT4pXO+6VKehx9MzbZG9fZ1gJw4gifC5C4Qze9t5y/yGqCVS0zERWPR8KmLPb+uWoyXWVLScq7zZWEqUL5ZxZHPIbW/+VIvkdzDSapKwInTzRrc7gVcWdrDs9EAYRFiAOgBB6/ZMYshppLo6vDvf0QJhbsEyhFwlDs7VWBROVcC5FzUABTRN2EQBrqVzUG681Y9B36w1RpVCF5X1qZ6Hro5sUhCfD6/ZqsMfHSot9caA3Wko9urf7FLsjBRkaWvX+YVYfwDZNeRhbQOPgAAA=",
+  "status": "classified",
+  "classification": {
+    "service": "pressure-washing",
+    "surfaceType": null,
+    "buildingType": null,
+    "propertyType": "residential",
+    "beforeAfter": "after",
+    "cleaningMethod": null,
+    "equipmentVisible": [],
+    "qualityScore": 0.85,
+    "sharpness": null,
+    "suitableForMarketing": true,
+    "confidence": 100
+  },
+  "seo": {
+    "filename": "pressure-washing-residential--9ac120f055.webp",
+    "title": "Clean tile roof after soft washing",
+    "alt": "Clean tile roof after soft washing",
+    "caption": "Clean tile roof after soft washing",
+    "description": "Tile roof shown clean and uniform in color after a soft-washing service."
+  },
+  "location": {
+    "city": null,
+    "neighborhood": null
+  },
+  "pairing": {
+    "pairId": null,
+    "role": null
+  },
+  "tags": [],
+  "needsReview": false,
+  "finalizedAt": "2026-07-30T03:58:13.737Z",
+  "perceptualHash": "030dac5c12cb7343",
+  "sortOrder": 4
+}

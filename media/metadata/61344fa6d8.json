@@ -1,0 +1,58 @@
+{
+  "id": "61344fa6d8",
+  "originalFilename": "IMG_6123.JPG",
+  "sha256": "61344fa6d8c1164f3734fecdd05222bf791ab9f54899bf26f17f4faf7da5c0bc",
+  "ingestedAt": "2026-07-30T03:10:18.032Z",
+  "captureDate": "2026-07-28T19:59:17.000Z",
+  "dimensions": {
+    "width": 4032,
+    "height": 3024
+  },
+  "paths": {
+    "original": "media/processed/originals/61344fa6d8.jpg",
+    "optimized": "media/optimized/solar-panel-cleaning-residential--61344fa6d8.webp",
+    "optimizedAvif": "media/optimized/solar-panel-cleaning-residential--61344fa6d8.avif",
+    "responsive": {
+      "400": "media/optimized/solar-panel-cleaning-residential--61344fa6d8-400.webp",
+      "800": "media/optimized/solar-panel-cleaning-residential--61344fa6d8-800.webp",
+      "1200": "media/optimized/solar-panel-cleaning-residential--61344fa6d8-1200.webp",
+      "1600": "media/optimized/solar-panel-cleaning-residential--61344fa6d8-1600.webp"
+    },
+    "thumbnail": "media/thumbnails/solar-panel-cleaning-residential--61344fa6d8.webp"
+  },
+  "blurPlaceholder": "data:image/webp;base64,UklGRgQBAABXRUJQVlA4IPgAAACQBQCdASoYACAAPu1ur1IppiQiqAgBMB2JaAC/OYxOW5JT/e8A7L608lKlE7rynRgLn37MAADF2u315tyy9FogxPn6PaVBko/tiT7w20q+pcWffA15UDrC0xTDlVUXRG87BtRhjrd7v4l/2C+iTLTq6dxeyC2VBCiuk5rvCRyaE6OuFfb8rBmfTwNkHq/tk53cUF0pyBhs/Nq5lHWyJWmCfRy3zpL/PnrMbzuvK6RKbERUcAX1UQ4i4fUvDti/HV2M6sK+67Dkf8IjD39f2Ibe5o0Qtx+NtwKl9Zbz0ab6F0XYO9Hti9WXzvRIBXYMDjGamGgDNcYAAA==",
+  "status": "classified",
+  "classification": {
+    "service": "solar-panel-cleaning",
+    "surfaceType": null,
+    "buildingType": null,
+    "propertyType": "residential",
+    "beforeAfter": "after",
+    "cleaningMethod": null,
+    "equipmentVisible": [],
+    "qualityScore": 0.85,
+    "sharpness": null,
+    "suitableForMarketing": true,
+    "confidence": 100
+  },
+  "seo": {
+    "filename": "solar-panel-cleaning-residential--61344fa6d8.webp",
+    "title": "Clean solar panels among palm trees (alternate angle)",
+    "alt": "Clean solar panels among palm trees (alternate angle)",
+    "caption": "Clean solar panels among palm trees (alternate angle)",
+    "description": "Rooftop solar panels shown clean and reflective, surrounded by palm trees, from a different angle."
+  },
+  "location": {
+    "city": null,
+    "neighborhood": null
+  },
+  "pairing": {
+    "pairId": null,
+    "role": null
+  },
+  "tags": [],
+  "needsReview": false,
+  "finalizedAt": "2026-07-30T03:58:13.675Z",
+  "perceptualHash": "60602386e4799d4f",
+  "sortOrder": 8
+}

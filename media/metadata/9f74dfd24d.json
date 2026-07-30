@@ -1,0 +1,58 @@
+{
+  "id": "9f74dfd24d",
+  "originalFilename": "IMG_4455~photo.JPG",
+  "sha256": "9f74dfd24d46c8d226e47adee0307c160cfb1a98e2707f2d040cfb7b3c504e13",
+  "ingestedAt": "2026-07-30T03:08:56.696Z",
+  "captureDate": "2025-11-20T01:36:44.000Z",
+  "dimensions": {
+    "width": 4032,
+    "height": 3024
+  },
+  "paths": {
+    "original": "media/processed/originals/9f74dfd24d.jpg",
+    "optimized": "media/optimized/permanent-lighting-residential--9f74dfd24d.webp",
+    "optimizedAvif": "media/optimized/permanent-lighting-residential--9f74dfd24d.avif",
+    "responsive": {
+      "400": "media/optimized/permanent-lighting-residential--9f74dfd24d-400.webp",
+      "800": "media/optimized/permanent-lighting-residential--9f74dfd24d-800.webp",
+      "1200": "media/optimized/permanent-lighting-residential--9f74dfd24d-1200.webp",
+      "1600": "media/optimized/permanent-lighting-residential--9f74dfd24d-1600.webp"
+    },
+    "thumbnail": "media/thumbnails/permanent-lighting-residential--9f74dfd24d.webp"
+  },
+  "blurPlaceholder": "data:image/webp;base64,UklGRtIAAABXRUJQVlA4IMYAAAAQBgCdASoYACAAPu1mqk8ppaOiKA1RMB2JbAC/auHUACfIlBiWjCEFwymymGNBXYGK4lyzPP4UfIAA/vpaq0Y7WgV8RUHCV4ArP5J9WOr3MdSmpm6KtW79UhkjbmAia7/odzhylqsUbFxTTUVMZDQ5H0SbzyKkPfQs3DdxPiSlZCSQ6qMMV3YyFbDClitJsyL3vVAj/b8iVMuGlhEkVFhfSDHH2fbrbK7DARUigMrNa+y1pxhA8efx7UEuH16oqFcxTnAyAAA=",
+  "status": "classified",
+  "classification": {
+    "service": "permanent-lighting",
+    "surfaceType": null,
+    "buildingType": null,
+    "propertyType": "residential",
+    "beforeAfter": "after",
+    "cleaningMethod": null,
+    "equipmentVisible": [],
+    "qualityScore": 0.85,
+    "sharpness": null,
+    "suitableForMarketing": true,
+    "confidence": 100
+  },
+  "seo": {
+    "filename": "permanent-lighting-residential--9f74dfd24d.webp",
+    "title": "Teal permanent lighting on a two-story home at night",
+    "alt": "Teal permanent lighting on a two-story home at night",
+    "caption": "Teal permanent lighting on a two-story home at night",
+    "description": "Permanent architectural lighting system displaying a teal color mode along the roofline at night."
+  },
+  "location": {
+    "city": null,
+    "neighborhood": null
+  },
+  "pairing": {
+    "pairId": null,
+    "role": null
+  },
+  "tags": [],
+  "needsReview": false,
+  "finalizedAt": "2026-07-30T03:58:13.752Z",
+  "perceptualHash": "00841c0f599044c0",
+  "sortOrder": 3
+}

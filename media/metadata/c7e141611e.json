@@ -1,0 +1,58 @@
+{
+  "id": "c7e141611e",
+  "originalFilename": "IMG_4898.JPG",
+  "sha256": "c7e141611e3bb94c146f620c4457c45d55ffc0816c40a12c83df270c308e01ea",
+  "ingestedAt": "2026-07-30T03:09:16.425Z",
+  "captureDate": "2025-11-26T01:09:05.000Z",
+  "dimensions": {
+    "width": 4032,
+    "height": 3024
+  },
+  "paths": {
+    "original": "media/processed/originals/c7e141611e.jpg",
+    "optimized": "media/optimized/holiday-light-installation-residential--c7e141611e.webp",
+    "optimizedAvif": "media/optimized/holiday-light-installation-residential--c7e141611e.avif",
+    "responsive": {
+      "400": "media/optimized/holiday-light-installation-residential--c7e141611e-400.webp",
+      "800": "media/optimized/holiday-light-installation-residential--c7e141611e-800.webp",
+      "1200": "media/optimized/holiday-light-installation-residential--c7e141611e-1200.webp",
+      "1600": "media/optimized/holiday-light-installation-residential--c7e141611e-1600.webp"
+    },
+    "thumbnail": "media/thumbnails/holiday-light-installation-residential--c7e141611e.webp"
+  },
+  "blurPlaceholder": "data:image/webp;base64,UklGRr4AAABXRUJQVlA4ILIAAAAQBQCdASoYACAAPtlepE2oJaOiN/qoAQAbCWgAuwAh35KmsI+5GWpGr1zyR/fdkeogAP7wyfNZ+fPNNV87unUuRJYcOT0m4lYjkz/Hx6je24rpakw/3YXGa1lDB5lg5zJ+1fvnMY6+q10eTn+tVzm++P98AYiNRr3Rl5wX2gDH/FZ+ABHo95M48ZDQq+yxOxOYJg/H3oKhExXRkry2CtnZI7auAtQy1ifuWWi0Z2FRVqAA",
+  "status": "classified",
+  "classification": {
+    "service": "holiday-light-installation",
+    "surfaceType": null,
+    "buildingType": null,
+    "propertyType": "residential",
+    "beforeAfter": "after",
+    "cleaningMethod": null,
+    "equipmentVisible": [],
+    "qualityScore": 0.85,
+    "sharpness": null,
+    "suitableForMarketing": true,
+    "confidence": 100
+  },
+  "seo": {
+    "filename": "holiday-light-installation-residential--c7e141611e.webp",
+    "title": "Modern home with warm white lighting and holiday garland",
+    "alt": "Modern home with warm white lighting and holiday garland",
+    "caption": "Modern home with warm white lighting and holiday garland",
+    "description": "Modern home exterior with warm white linear lighting along the roofline and holiday garland along the entry and planters."
+  },
+  "location": {
+    "city": null,
+    "neighborhood": null
+  },
+  "pairing": {
+    "pairId": null,
+    "role": null
+  },
+  "tags": [],
+  "needsReview": false,
+  "finalizedAt": "2026-07-30T03:58:13.819Z",
+  "perceptualHash": "ffbf8f1b35251f0f",
+  "sortOrder": 2
+}

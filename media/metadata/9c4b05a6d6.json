@@ -1,0 +1,58 @@
+{
+  "id": "9c4b05a6d6",
+  "originalFilename": "IMG_4899.JPG",
+  "sha256": "9c4b05a6d6d6d300dc330a38eb6fb7c0e6168eafa69622aa3333dd2963eaa832",
+  "ingestedAt": "2026-07-30T03:09:18.695Z",
+  "captureDate": "2025-11-26T01:09:36.000Z",
+  "dimensions": {
+    "width": 4032,
+    "height": 3024
+  },
+  "paths": {
+    "original": "media/processed/originals/9c4b05a6d6.jpg",
+    "optimized": "media/optimized/holiday-light-installation-residential--9c4b05a6d6.webp",
+    "optimizedAvif": "media/optimized/holiday-light-installation-residential--9c4b05a6d6.avif",
+    "responsive": {
+      "400": "media/optimized/holiday-light-installation-residential--9c4b05a6d6-400.webp",
+      "800": "media/optimized/holiday-light-installation-residential--9c4b05a6d6-800.webp",
+      "1200": "media/optimized/holiday-light-installation-residential--9c4b05a6d6-1200.webp",
+      "1600": "media/optimized/holiday-light-installation-residential--9c4b05a6d6-1600.webp"
+    },
+    "thumbnail": "media/thumbnails/holiday-light-installation-residential--9c4b05a6d6.webp"
+  },
+  "blurPlaceholder": "data:image/webp;base64,UklGRs4AAABXRUJQVlA4IMIAAACQBQCdASoYACAAPtlepE2oJaOiN/qoAQAbCWgAuyC/wvdQbZz8on4Xaxgj7oHx8sfDLzrqgAD+2SuYriW7i2F+FmMz3qS2lP/WUWiVK/ihzTKvyBWdE8kSA64sWt8tqGJL89kyCTiW/Yf/HE1GOO8IqFsmGPhGuFztZJaCXJixXCu0NFvFj+96l+RvYGJVn9dhINQAC5QVyUSbFAaqw+kjLsO7CbQ0rP6QZJU6yKqdTuhN4lMdEp1TSVomV+nSZCgAAA==",
+  "status": "classified",
+  "classification": {
+    "service": "holiday-light-installation",
+    "surfaceType": null,
+    "buildingType": null,
+    "propertyType": "residential",
+    "beforeAfter": "after",
+    "cleaningMethod": null,
+    "equipmentVisible": [],
+    "qualityScore": 0.85,
+    "sharpness": null,
+    "suitableForMarketing": true,
+    "confidence": 100
+  },
+  "seo": {
+    "filename": "holiday-light-installation-residential--9c4b05a6d6.webp",
+    "title": "Modern home with warm white lighting and holiday garland (alternate angle)",
+    "alt": "Modern home with warm white lighting and holiday garland (alternate angle)",
+    "caption": "Modern home with warm white lighting and holiday garland (alternate angle)",
+    "description": "Modern home exterior with warm white linear lighting and holiday garland, shown from a different angle."
+  },
+  "location": {
+    "city": null,
+    "neighborhood": null
+  },
+  "pairing": {
+    "pairId": null,
+    "role": null
+  },
+  "tags": [],
+  "needsReview": false,
+  "finalizedAt": "2026-07-30T03:58:13.745Z",
+  "perceptualHash": "ffff96c9eda903fc",
+  "sortOrder": 1
+}

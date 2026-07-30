@@ -1,0 +1,56 @@
+{
+  "id": "f7f1d7eb94",
+  "originalFilename": "IMG_5855.PNG",
+  "sha256": "f7f1d7eb942208353b1ae05927d1d2b0b09ccbfc0a995e9fb7684cab53b78807",
+  "ingestedAt": "2026-07-30T03:09:43.317Z",
+  "captureDate": null,
+  "dimensions": {
+    "width": 1170,
+    "height": 2061
+  },
+  "paths": {
+    "original": "media/processed/originals/f7f1d7eb94.png",
+    "optimized": "media/optimized/pressure-washing-residential--f7f1d7eb94.webp",
+    "optimizedAvif": "media/optimized/pressure-washing-residential--f7f1d7eb94.avif",
+    "responsive": {
+      "400": "media/optimized/pressure-washing-residential--f7f1d7eb94-400.webp",
+      "800": "media/optimized/pressure-washing-residential--f7f1d7eb94-800.webp"
+    },
+    "thumbnail": "media/thumbnails/pressure-washing-residential--f7f1d7eb94.webp"
+  },
+  "blurPlaceholder": "data:image/webp;base64,UklGRgYBAABXRUJQVlA4IPoAAABQBgCdASoYACoAPtVYo02oJSMiOrmYAQAaiUAYwIuP8sdCDMrjGFEAY37ceahgwFjPwR5v1sw95E0FoAD+6EwIQDOQpjI9YDqMeEV5Wztfny9Z7tyfraAoTbSn4jkqfpO7xZGz2z1nM2yoviv5orlTB336q1JqrmYjcQNB6SDZ02d32qH4h5MF3y3ghBF7YoVKDZbLMNxPJk4CLHixu6yUd7anE4K0v+OQtCkmByNAfgvM/bs3fm8ULesaGum8hswmkze9pxddwUpOzSSp/MGXJUklgz8l+0y6VVHQSx2+kCZkWXKoW/vocI6aqeJ421Vej4pLbmDL4AAA",
+  "status": "classified",
+  "classification": {
+    "service": "pressure-washing",
+    "surfaceType": null,
+    "buildingType": null,
+    "propertyType": "residential",
+    "beforeAfter": "before",
+    "cleaningMethod": null,
+    "equipmentVisible": [],
+    "qualityScore": 0.85,
+    "sharpness": null,
+    "suitableForMarketing": true,
+    "confidence": 100
+  },
+  "seo": {
+    "filename": "pressure-washing-residential--f7f1d7eb94.webp",
+    "title": "Moss-covered tile roof before cleaning",
+    "alt": "Moss-covered tile roof before cleaning",
+    "caption": "Moss-covered tile roof before cleaning",
+    "description": "Tile roof shown covered in moss, algae, and debris prior to soft washing."
+  },
+  "location": {
+    "city": null,
+    "neighborhood": null
+  },
+  "pairing": {
+    "pairId": null,
+    "role": null
+  },
+  "tags": [],
+  "needsReview": false,
+  "finalizedAt": "2026-07-30T03:58:13.866Z",
+  "perceptualHash": "5804218249874eec",
+  "sortOrder": 8
+}

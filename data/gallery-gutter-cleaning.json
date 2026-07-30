@@ -1,0 +1,54 @@
+[
+  {
+    "id": "1e3c01b28b",
+    "thumbnail": "/media/thumbnails/gutter-cleaning-residential--1e3c01b28b.webp",
+    "full": "/media/optimized/gutter-cleaning-residential--1e3c01b28b.webp",
+    "avif": "/media/optimized/gutter-cleaning-residential--1e3c01b28b.avif",
+    "responsive": {
+      "400": "/media/optimized/gutter-cleaning-residential--1e3c01b28b-400.webp",
+      "800": "/media/optimized/gutter-cleaning-residential--1e3c01b28b-800.webp"
+    },
+    "blur": "data:image/webp;base64,UklGRgYBAABXRUJQVlA4IPoAAAAQBwCdASoYADQAPu1usVMppiSiqBgIATAdiWcAAOzicMlCCXvcA+zptuKcLOToGslOeqES09BXwcCb5TC/+Qu8UAD++2wgnazLSX+7x9JNxLg4xYa9Hil7OUg01gQ50+wKw3LIiyGUOxOpRIMBHKa2cjTOSoVvlJpPhdnovpXzOjf+q+qP99TtSVCqctAh3okSCrfemFoDyOCz1YJWGZnxEhuOYk4paJ/NJsdzTeMS+06AVRwQMDI2N2sm/OyJJibhGTZC3oOP6L7hLnTzKoZX8RQe/qtZpiWhpj0Hab2pxWctsaAT6mKxy70F0tfnOuac7gKiCjq4hAAA",
+    "width": 1170,
+    "height": 2532,
+    "service": "gutter-cleaning",
+    "serviceLabel": "Gutter Cleaning",
+    "city": null,
+    "cityLabel": null,
+    "propertyType": "residential",
+    "beforeAfter": "before",
+    "perceptualHash": "00063c584d62621c",
+    "sortOrder": 1,
+    "title": "Gutter full of debris before cleaning",
+    "alt": "Gutter full of debris before cleaning",
+    "caption": "Gutter full of debris before cleaning",
+    "description": "Roof gutter shown full of dirt and debris prior to gutter cleaning service.",
+    "ingestedAt": "2026-07-30T03:09:38.887Z"
+  },
+  {
+    "id": "fda69b1945",
+    "thumbnail": "/media/thumbnails/gutter-cleaning-residential--fda69b1945.webp",
+    "full": "/media/optimized/gutter-cleaning-residential--fda69b1945.webp",
+    "avif": "/media/optimized/gutter-cleaning-residential--fda69b1945.avif",
+    "responsive": {
+      "400": "/media/optimized/gutter-cleaning-residential--fda69b1945-400.webp",
+      "800": "/media/optimized/gutter-cleaning-residential--fda69b1945-800.webp"
+    },
+    "blur": "data:image/webp;base64,UklGRiwBAABXRUJQVlA4ICABAADQBwCdASoYADQAPu1ys1OppqSipAkhMB2JZwDR/AgOU/UkE9+ehI88Q/UqikUHeKQsb+F8q2gk268eCqp3AT2FWuWNRyr8AAD++2WzFkWJfQlwd0YbEkBTkLprL7HFKUKHcDJ1htxvszW6dud21uZuHEg1Rzsq95yQ30mFBQK0V6uM10rl+A/6t/NwGFb2zFfe/gP6LjEWGwlysWo/VcjoucUgNLnn75oh2/MBRrZ5T7PM7s+Xv3gxvA5akuqm3BEsYJ9FfzjgqgDqgxpk14JLkuQ1dlDSeB+YsmFd1aCcY3EEAjQ1X+gAUhJznprK1AMmSElg4MmG8n1CcBNVG0cTXlWi6SEFlrrlsffdAqNqDMNdzFKtv7RxvbZ0FpwAAAA=",
+    "width": 1170,
+    "height": 2532,
+    "service": "gutter-cleaning",
+    "serviceLabel": "Gutter Cleaning",
+    "city": null,
+    "cityLabel": null,
+    "propertyType": "residential",
+    "beforeAfter": "after",
+    "perceptualHash": "00273927510c2610",
+    "sortOrder": 2,
+    "title": "Clean gutter after cleaning",
+    "alt": "Clean gutter after cleaning",
+    "caption": "Clean gutter after cleaning",
+    "description": "Roof gutter shown clear of debris after professional gutter cleaning.",
+    "ingestedAt": "2026-07-30T03:09:40.299Z"
+  }
+]

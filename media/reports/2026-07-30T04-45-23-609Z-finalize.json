@@ -1,0 +1,73 @@
+{
+  "startedAt": "2026-07-30T04:45:23.609Z",
+  "finalized": [
+    {
+      "id": "198917e488",
+      "slug": "window-cleaning--198917e488",
+      "status": "needs_review",
+      "confidence": 80
+    },
+    {
+      "id": "8404bf0279",
+      "slug": "window-cleaning--8404bf0279",
+      "status": "classified",
+      "confidence": 85
+    },
+    {
+      "id": "9476aa363f",
+      "slug": "window-cleaning--9476aa363f",
+      "status": "needs_review",
+      "confidence": 78
+    },
+    {
+      "id": "ac9a12b3ab",
+      "slug": "pressure-washing--ac9a12b3ab",
+      "status": "needs_review",
+      "confidence": 75
+    },
+    {
+      "id": "b3cb338e94",
+      "slug": "pressure-washing--b3cb338e94",
+      "status": "classified",
+      "confidence": 90
+    },
+    {
+      "id": "c271448f00",
+      "slug": "pressure-washing--c271448f00",
+      "status": "classified",
+      "confidence": 88
+    },
+    {
+      "id": "d90b2ef483",
+      "slug": "window-cleaning--d90b2ef483",
+      "status": "needs_review",
+      "confidence": 78
+    }
+  ],
+  "stillPending": [
+    "26a7b941a6"
+  ],
+  "needsReview": [
+    {
+      "id": "198917e488",
+      "slug": "window-cleaning--198917e488",
+      "confidence": 80
+    },
+    {
+      "id": "9476aa363f",
+      "slug": "window-cleaning--9476aa363f",
+      "confidence": 78
+    },
+    {
+      "id": "ac9a12b3ab",
+      "slug": "pressure-washing--ac9a12b3ab",
+      "confidence": 75
+    },
+    {
+      "id": "d90b2ef483",
+      "slug": "window-cleaning--d90b2ef483",
+      "confidence": 78
+    }
+  ],
+  "finishedAt": "2026-07-30T04:45:23.662Z"
+}

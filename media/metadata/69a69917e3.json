@@ -1,0 +1,58 @@
+{
+  "id": "69a69917e3",
+  "originalFilename": "IMG_6039.JPG",
+  "sha256": "69a69917e3c8f0118601443b17da42a634094a495de814caa2983e58360facb8",
+  "ingestedAt": "2026-07-30T03:09:59.775Z",
+  "captureDate": "2026-07-15T19:28:48.000Z",
+  "dimensions": {
+    "width": 4032,
+    "height": 3024
+  },
+  "paths": {
+    "original": "media/processed/originals/69a69917e3.jpg",
+    "optimized": "media/optimized/solar-panel-cleaning-residential--69a69917e3.webp",
+    "optimizedAvif": "media/optimized/solar-panel-cleaning-residential--69a69917e3.avif",
+    "responsive": {
+      "400": "media/optimized/solar-panel-cleaning-residential--69a69917e3-400.webp",
+      "800": "media/optimized/solar-panel-cleaning-residential--69a69917e3-800.webp",
+      "1200": "media/optimized/solar-panel-cleaning-residential--69a69917e3-1200.webp",
+      "1600": "media/optimized/solar-panel-cleaning-residential--69a69917e3-1600.webp"
+    },
+    "thumbnail": "media/thumbnails/solar-panel-cleaning-residential--69a69917e3.webp"
+  },
+  "blurPlaceholder": "data:image/webp;base64,UklGRuoAAABXRUJQVlA4IN4AAADwBACdASoYACAAPu1cqE2ppKOiN/VYATAdiUAXZlAAF3Wz/Al+rvqXWW8i7tNB/QAA/XV5Wud/KfEMVfv0JM9V4SyKeSvuJUD7fKDTHJfnow6oOTDRXgrBLvuEmcN1sVSEoeJbiNOlk3ot2G2ieGfNGIZjOlXN1aekmi+POjDeQ2tmG+pxiafT/NBrjRsZVRibN/0z4/j/KAwL9Ye/A1JBlGB+830GywNZRzxqpGUUeeNoHmMgsqC/QXSXukOmaNQK/jZlIpTzUTQY9ngu3iMMZQtO1AvSnjhZOk/FUAA=",
+  "status": "classified",
+  "classification": {
+    "service": "solar-panel-cleaning",
+    "surfaceType": null,
+    "buildingType": null,
+    "propertyType": "residential",
+    "beforeAfter": null,
+    "cleaningMethod": null,
+    "equipmentVisible": [],
+    "qualityScore": 0.85,
+    "sharpness": null,
+    "suitableForMarketing": true,
+    "confidence": 100
+  },
+  "seo": {
+    "filename": "solar-panel-cleaning-residential--69a69917e3.webp",
+    "title": "Solar panel mid-cleaning",
+    "alt": "Solar panel mid-cleaning",
+    "caption": "Solar panel mid-cleaning",
+    "description": "Solar panel shown partially wet and being rinsed during a cleaning service."
+  },
+  "location": {
+    "city": null,
+    "neighborhood": null
+  },
+  "pairing": {
+    "pairId": null,
+    "role": null
+  },
+  "tags": [],
+  "needsReview": false,
+  "finalizedAt": "2026-07-30T03:58:13.681Z",
+  "perceptualHash": "890c0f8d1cdf879f",
+  "sortOrder": 4
+}

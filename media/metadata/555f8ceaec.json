@@ -1,0 +1,58 @@
+{
+  "id": "555f8ceaec",
+  "originalFilename": "IMG_4704.JPG",
+  "sha256": "555f8ceaecc86794f8e40bbbe8d916cdb6b1e1ab849fd43af093d962eaf4e407",
+  "ingestedAt": "2026-07-30T03:09:03.965Z",
+  "captureDate": "2025-10-31T02:34:25.000Z",
+  "dimensions": {
+    "width": 2066,
+    "height": 3672
+  },
+  "paths": {
+    "original": "media/processed/originals/555f8ceaec.jpg",
+    "optimized": "media/optimized/permanent-lighting-residential--555f8ceaec.webp",
+    "optimizedAvif": "media/optimized/permanent-lighting-residential--555f8ceaec.avif",
+    "responsive": {
+      "400": "media/optimized/permanent-lighting-residential--555f8ceaec-400.webp",
+      "800": "media/optimized/permanent-lighting-residential--555f8ceaec-800.webp",
+      "1200": "media/optimized/permanent-lighting-residential--555f8ceaec-1200.webp",
+      "1600": "media/optimized/permanent-lighting-residential--555f8ceaec-1600.webp"
+    },
+    "thumbnail": "media/thumbnails/permanent-lighting-residential--555f8ceaec.webp"
+  },
+  "blurPlaceholder": "data:image/webp;base64,UklGRuQAAABXRUJQVlA4INgAAABQBgCdASoYACsAPu1wsFKppiSipWmZMB2JagCB7UUmoAk/MjxezY4weROV6u2JFOnQ40L1AJ72uGRIAAD++9lU0IznOMRrS1sv8pYRbSHjWfOxkZd9kVS7YKnH7F06Vb3Cn5ppnjaZNTGMqkoYKWPle5cEXp/HjfRwxBzsyW/9jR/6ByC3f/dioKOA0GFr8jvpeM01vkeEaadZKfmLDK5Uikb+H1LNDhzRjoF+IS9ECaKrqEqJgDMlAcifMIVwBDHeXS4vb7guZMwDrw1aTxJwBWvpqqWIAAA=",
+  "status": "classified",
+  "classification": {
+    "service": "permanent-lighting",
+    "surfaceType": null,
+    "buildingType": null,
+    "propertyType": "residential",
+    "beforeAfter": "after",
+    "cleaningMethod": null,
+    "equipmentVisible": [],
+    "qualityScore": 0.85,
+    "sharpness": null,
+    "suitableForMarketing": true,
+    "confidence": 100
+  },
+  "seo": {
+    "filename": "permanent-lighting-residential--555f8ceaec.webp",
+    "title": "Pink and purple permanent lighting display at night",
+    "alt": "Pink and purple permanent lighting display at night",
+    "caption": "Pink and purple permanent lighting display at night",
+    "description": "Permanent color-changing lighting system displaying a pink-and-purple mode for Halloween, with yard decorations visible."
+  },
+  "location": {
+    "city": null,
+    "neighborhood": null
+  },
+  "pairing": {
+    "pairId": null,
+    "role": null
+  },
+  "tags": [],
+  "needsReview": false,
+  "finalizedAt": "2026-07-30T03:58:13.661Z",
+  "perceptualHash": "2298322e88db1e0e",
+  "sortOrder": 5
+}

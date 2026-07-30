@@ -1,0 +1,56 @@
+{
+  "id": "fe70d9c5b9",
+  "originalFilename": "IMG_5081.JPG",
+  "sha256": "fe70d9c5b96c519e8047d25fb362f552fe3d9f1bb4ee12194246e5da6f5f4b19",
+  "ingestedAt": "2026-07-30T03:09:19.450Z",
+  "captureDate": null,
+  "dimensions": {
+    "width": 1024,
+    "height": 598
+  },
+  "paths": {
+    "original": "media/processed/originals/fe70d9c5b9.jpg",
+    "optimized": "media/optimized/holiday-light-installation-residential--fe70d9c5b9.webp",
+    "optimizedAvif": "media/optimized/holiday-light-installation-residential--fe70d9c5b9.avif",
+    "responsive": {
+      "400": "media/optimized/holiday-light-installation-residential--fe70d9c5b9-400.webp",
+      "800": "media/optimized/holiday-light-installation-residential--fe70d9c5b9-800.webp"
+    },
+    "thumbnail": "media/thumbnails/holiday-light-installation-residential--fe70d9c5b9.webp"
+  },
+  "blurPlaceholder": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAACwAwCdASoYAA4APu1iqU2ppaQiMAgBMB2JYwC7ACHVat0XLLVBCAD+8p3wqDwlU9qAnLiLvCBGOUxzFNFy7S3c5IUKvauZl38tCKs4NNFyAdGFVKkW0OGF8/mwWFastzrnVgOVzvzOtwemn4oUcqbl5ilqWqcSz/LCqZ4AAAA=",
+  "status": "classified",
+  "classification": {
+    "service": "holiday-light-installation",
+    "surfaceType": null,
+    "buildingType": null,
+    "propertyType": "residential",
+    "beforeAfter": "after",
+    "cleaningMethod": null,
+    "equipmentVisible": [],
+    "qualityScore": 0.85,
+    "sharpness": null,
+    "suitableForMarketing": true,
+    "confidence": 100
+  },
+  "seo": {
+    "filename": "holiday-light-installation-residential--fe70d9c5b9.webp",
+    "title": "Warm white roofline lighting at night",
+    "alt": "Warm white roofline lighting at night",
+    "caption": "Warm white roofline lighting at night",
+    "description": "Warm white lighting installed along a home’s roofline, photographed at night."
+  },
+  "location": {
+    "city": null,
+    "neighborhood": null
+  },
+  "pairing": {
+    "pairId": null,
+    "role": null
+  },
+  "tags": [],
+  "needsReview": false,
+  "finalizedAt": "2026-07-30T03:58:13.890Z",
+  "perceptualHash": "0b130d1f17361407",
+  "sortOrder": 10
+}

@@ -1,0 +1,56 @@
+{
+  "id": "1e3c01b28b",
+  "originalFilename": "IMG_5813.PNG",
+  "sha256": "1e3c01b28bdcb69ccbf68184cb94c70601813e180eb12a678dac0f6319800c05",
+  "ingestedAt": "2026-07-30T03:09:38.887Z",
+  "captureDate": "2026-05-28T05:09:21.000Z",
+  "dimensions": {
+    "width": 1170,
+    "height": 2532
+  },
+  "paths": {
+    "original": "media/processed/originals/1e3c01b28b.png",
+    "optimized": "media/optimized/gutter-cleaning-residential--1e3c01b28b.webp",
+    "optimizedAvif": "media/optimized/gutter-cleaning-residential--1e3c01b28b.avif",
+    "responsive": {
+      "400": "media/optimized/gutter-cleaning-residential--1e3c01b28b-400.webp",
+      "800": "media/optimized/gutter-cleaning-residential--1e3c01b28b-800.webp"
+    },
+    "thumbnail": "media/thumbnails/gutter-cleaning-residential--1e3c01b28b.webp"
+  },
+  "blurPlaceholder": "data:image/webp;base64,UklGRgYBAABXRUJQVlA4IPoAAAAQBwCdASoYADQAPu1usVMppiSiqBgIATAdiWcAAOzicMlCCXvcA+zptuKcLOToGslOeqES09BXwcCb5TC/+Qu8UAD++2wgnazLSX+7x9JNxLg4xYa9Hil7OUg01gQ50+wKw3LIiyGUOxOpRIMBHKa2cjTOSoVvlJpPhdnovpXzOjf+q+qP99TtSVCqctAh3okSCrfemFoDyOCz1YJWGZnxEhuOYk4paJ/NJsdzTeMS+06AVRwQMDI2N2sm/OyJJibhGTZC3oOP6L7hLnTzKoZX8RQe/qtZpiWhpj0Hab2pxWctsaAT6mKxy70F0tfnOuac7gKiCjq4hAAA",
+  "status": "classified",
+  "classification": {
+    "service": "gutter-cleaning",
+    "surfaceType": null,
+    "buildingType": null,
+    "propertyType": "residential",
+    "beforeAfter": "before",
+    "cleaningMethod": null,
+    "equipmentVisible": [],
+    "qualityScore": 0.85,
+    "sharpness": null,
+    "suitableForMarketing": true,
+    "confidence": 100
+  },
+  "seo": {
+    "filename": "gutter-cleaning-residential--1e3c01b28b.webp",
+    "title": "Gutter full of debris before cleaning",
+    "alt": "Gutter full of debris before cleaning",
+    "caption": "Gutter full of debris before cleaning",
+    "description": "Roof gutter shown full of dirt and debris prior to gutter cleaning service."
+  },
+  "location": {
+    "city": null,
+    "neighborhood": null
+  },
+  "pairing": {
+    "pairId": null,
+    "role": null
+  },
+  "tags": [],
+  "needsReview": false,
+  "finalizedAt": "2026-07-30T03:58:13.583Z",
+  "perceptualHash": "00063c584d62621c",
+  "sortOrder": 1
+}

@@ -1,0 +1,56 @@
+{
+  "id": "35f3baa829",
+  "originalFilename": "IMG_5846.PNG",
+  "sha256": "35f3baa829f0967c172a747bd4f5bce2cd62fb4ec62651d76eaa28569f5535a5",
+  "ingestedAt": "2026-07-30T03:09:41.917Z",
+  "captureDate": "2026-06-10T23:23:44.000Z",
+  "dimensions": {
+    "width": 1170,
+    "height": 2532
+  },
+  "paths": {
+    "original": "media/processed/originals/35f3baa829.png",
+    "optimized": "media/optimized/pressure-washing-residential--35f3baa829.webp",
+    "optimizedAvif": "media/optimized/pressure-washing-residential--35f3baa829.avif",
+    "responsive": {
+      "400": "media/optimized/pressure-washing-residential--35f3baa829-400.webp",
+      "800": "media/optimized/pressure-washing-residential--35f3baa829-800.webp"
+    },
+    "thumbnail": "media/thumbnails/pressure-washing-residential--35f3baa829.webp"
+  },
+  "blurPlaceholder": "data:image/webp;base64,UklGRkYBAABXRUJQVlA4IDoBAADQBwCdASoYADQAPu1wr1MppiQipApJMB2JQBkqDvXJRu65ZHEid8SI5zemf+fNajBmGnQDG3eSOKJZLVCW4qvudogv3T0zQAD++2wgnp8UlvxsS2oaWtgByMP5IxKGTeUlJNDXX8qq7jNWsMdKW8GKrB+btlVntS8Ka2HYa5fbAVYfPGsghb5ufFIE1RnCq7oOWiUlQixKDow3eJ/zyHvH7/3glURZdujY6G1SAJYUeh1Ed0GkC3Ca2QDG9d6DaKjSI2YvhMlcC2ccKYjGLRfVaxjXgjcHSS/onfvgi3JPtL6e6P1EeCOJtaQhhT4ohOQEyMHus9gx+0FOcOEx+tjNTdOjmnniNfBqUWl+Wv6WaHVHEmZisEd8c6M0eMfyrZ+DoJqr2QlpOBosjVLedG6+Cf3KaE27kZmAAA==",
+  "status": "classified",
+  "classification": {
+    "service": "pressure-washing",
+    "surfaceType": null,
+    "buildingType": null,
+    "propertyType": "residential",
+    "beforeAfter": null,
+    "cleaningMethod": null,
+    "equipmentVisible": [],
+    "qualityScore": 0.85,
+    "sharpness": null,
+    "suitableForMarketing": true,
+    "confidence": 100
+  },
+  "seo": {
+    "filename": "pressure-washing-residential--35f3baa829.webp",
+    "title": "Tile roof showing cleaned vs. untreated sections",
+    "alt": "Tile roof showing cleaned vs. untreated sections",
+    "caption": "Tile roof showing cleaned vs. untreated sections",
+    "description": "Tile roof showing a visibly cleaner section next to an untreated, algae-streaked section during a soft-washing job."
+  },
+  "location": {
+    "city": null,
+    "neighborhood": null
+  },
+  "pairing": {
+    "pairId": null,
+    "role": null
+  },
+  "tags": [],
+  "needsReview": false,
+  "finalizedAt": "2026-07-30T03:58:13.617Z",
+  "perceptualHash": "0013e3ed078e0304",
+  "sortOrder": 1
+}

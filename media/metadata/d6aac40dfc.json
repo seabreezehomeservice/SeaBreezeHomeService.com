@@ -1,0 +1,58 @@
+{
+  "id": "d6aac40dfc",
+  "originalFilename": "IMG_6016.JPG",
+  "sha256": "d6aac40dfc19e7637cbb13f556fc1bd4e57eb5ba89d218822b0e58b4b6088904",
+  "ingestedAt": "2026-07-30T03:09:51.123Z",
+  "captureDate": "2026-07-14T21:30:51.000Z",
+  "dimensions": {
+    "width": 4032,
+    "height": 3024
+  },
+  "paths": {
+    "original": "media/processed/originals/d6aac40dfc.jpg",
+    "optimized": "media/optimized/solar-panel-cleaning-residential--d6aac40dfc.webp",
+    "optimizedAvif": "media/optimized/solar-panel-cleaning-residential--d6aac40dfc.avif",
+    "responsive": {
+      "400": "media/optimized/solar-panel-cleaning-residential--d6aac40dfc-400.webp",
+      "800": "media/optimized/solar-panel-cleaning-residential--d6aac40dfc-800.webp",
+      "1200": "media/optimized/solar-panel-cleaning-residential--d6aac40dfc-1200.webp",
+      "1600": "media/optimized/solar-panel-cleaning-residential--d6aac40dfc-1600.webp"
+    },
+    "thumbnail": "media/thumbnails/solar-panel-cleaning-residential--d6aac40dfc.webp"
+  },
+  "blurPlaceholder": "data:image/webp;base64,UklGRiABAABXRUJQVlA4IBQBAACwBQCdASoYACAAPu1sq1EppiOiqAqpMB2JZgCdMxswt0f+ajRLCHwXZluxTn5feue7ZF+lZAAA/Q0x6iEKrxLgZvFFVlz7vB6S+B/c1mGoZxz3nYkkunoTIMDNPNDDL+mf8zfOhwHXQX+N/BmyXzxI+3k3wapiqBfCFJgen3r3n6vr8mHQMJe2SfzvUcNTGdVZr87nQ8Z6kf4T2HjzEzvBcqWRfCEbdBBOuxjKT9oM5p7M1WDu5JSuLVXVV+XuGfr5ZGQNxDVWi1Yu/kWS/I01IblUKfIpBgdT6k43LQHyiMoacSMIngPke7i+BIDmu9dcPayCZ/w1kEL9x5LBmm9CsP2/g8FXiL3PX8O1AqU3tnszUAA=",
+  "status": "classified",
+  "classification": {
+    "service": "solar-panel-cleaning",
+    "surfaceType": null,
+    "buildingType": null,
+    "propertyType": "residential",
+    "beforeAfter": "after",
+    "cleaningMethod": null,
+    "equipmentVisible": [],
+    "qualityScore": 0.85,
+    "sharpness": null,
+    "suitableForMarketing": true,
+    "confidence": 100
+  },
+  "seo": {
+    "filename": "solar-panel-cleaning-residential--d6aac40dfc.webp",
+    "title": "Clean solar panels overlooking the neighborhood",
+    "alt": "Clean solar panels overlooking the neighborhood",
+    "caption": "Clean solar panels overlooking the neighborhood",
+    "description": "Rooftop solar panels shown clean and reflective, overlooking the surrounding neighborhood."
+  },
+  "location": {
+    "city": null,
+    "neighborhood": null
+  },
+  "pairing": {
+    "pairId": null,
+    "role": null
+  },
+  "tags": [],
+  "needsReview": false,
+  "finalizedAt": "2026-07-30T03:58:13.833Z",
+  "perceptualHash": "01065ed3dd457871",
+  "sortOrder": 6
+}

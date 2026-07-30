@@ -1,0 +1,60 @@
+{
+  "startedAt": "2026-07-30T04:44:18.537Z",
+  "processed": [
+    {
+      "id": "b3cb338e94",
+      "file": "IMG_6138.PNG",
+      "folder": "Pressure Washing",
+      "service": "pressure-washing"
+    },
+    {
+      "id": "c271448f00",
+      "file": "IMG_6139.PNG",
+      "folder": "Pressure Washing",
+      "service": "pressure-washing"
+    },
+    {
+      "id": "ac9a12b3ab",
+      "file": "Screenshot 2026-07-29 213504.jpg",
+      "folder": "Pressure Washing",
+      "service": "pressure-washing"
+    },
+    {
+      "id": "d90b2ef483",
+      "file": "IMG_6136.PNG",
+      "folder": "Windows",
+      "service": "window-cleaning"
+    },
+    {
+      "id": "9476aa363f",
+      "file": "IMG_6137.PNG",
+      "folder": "Windows",
+      "service": "window-cleaning"
+    },
+    {
+      "id": "8404bf0279",
+      "file": "IMG_6140.PNG",
+      "folder": "Windows",
+      "service": "window-cleaning"
+    },
+    {
+      "id": "198917e488",
+      "file": "IMG_6141.PNG",
+      "folder": "Windows",
+      "service": "window-cleaning"
+    }
+  ],
+  "duplicates": [],
+  "failed": [],
+  "finishedAt": "2026-07-30T04:44:31.374Z",
+  "pendingClassification": [
+    "198917e488",
+    "26a7b941a6",
+    "8404bf0279",
+    "9476aa363f",
+    "ac9a12b3ab",
+    "b3cb338e94",
+    "c271448f00",
+    "d90b2ef483"
+  ]
+}

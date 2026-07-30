@@ -1,0 +1,58 @@
+{
+  "id": "997fff217a",
+  "originalFilename": "IMG_2691.HEIC",
+  "sha256": "997fff217ab0f737c339d5fcb1d5e6bed75187e30d1b38529a3535fb1ea08120",
+  "ingestedAt": "2026-07-30T03:08:42.000Z",
+  "captureDate": "2025-11-02T01:58:23.000Z",
+  "dimensions": {
+    "width": 4032,
+    "height": 3024
+  },
+  "paths": {
+    "original": "media/processed/originals/997fff217a.heic",
+    "optimized": "media/optimized/permanent-lighting-residential--997fff217a.webp",
+    "optimizedAvif": "media/optimized/permanent-lighting-residential--997fff217a.avif",
+    "responsive": {
+      "400": "media/optimized/permanent-lighting-residential--997fff217a-400.webp",
+      "800": "media/optimized/permanent-lighting-residential--997fff217a-800.webp",
+      "1200": "media/optimized/permanent-lighting-residential--997fff217a-1200.webp",
+      "1600": "media/optimized/permanent-lighting-residential--997fff217a-1600.webp"
+    },
+    "thumbnail": "media/thumbnails/permanent-lighting-residential--997fff217a.webp"
+  },
+  "blurPlaceholder": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAABQBQCdASoYABIAPu1orlCppaQiqAqpMB2JbAC06BEc0pWHl8+0JhhOzLZqpQ2pvCi9r6AA/vQcgv7KnP6521/zx/kxHWzHBNryWzxPsBdI8d93Nm2Ya3RJ0tC/WCJAO5KD3DYFpvFmNluiOdk4FZ4OgQOy+gPM8KxvyDJ/miD6+2AdFm8JS1LvOcGHhErBob/VcwmlVzmT5w1+6/WwmNFz4FQyaBpuhYvoAA==",
+  "status": "classified",
+  "classification": {
+    "service": "permanent-lighting",
+    "surfaceType": null,
+    "buildingType": null,
+    "propertyType": "residential",
+    "beforeAfter": "after",
+    "cleaningMethod": null,
+    "equipmentVisible": [],
+    "qualityScore": 0.85,
+    "sharpness": null,
+    "suitableForMarketing": true,
+    "confidence": 100
+  },
+  "seo": {
+    "filename": "permanent-lighting-residential--997fff217a.webp",
+    "title": "Permanent color-changing lighting installed on a two-story home",
+    "alt": "Permanent color-changing lighting installed on a two-story home",
+    "caption": "Permanent color-changing lighting installed on a two-story home",
+    "description": "Individually addressable permanent lighting system installed along the roofline, shown in a multi-color display mode at night."
+  },
+  "location": {
+    "city": null,
+    "neighborhood": null
+  },
+  "pairing": {
+    "pairId": null,
+    "role": null
+  },
+  "tags": [],
+  "needsReview": false,
+  "finalizedAt": "2026-07-30T03:58:13.732Z",
+  "perceptualHash": "0240473f6a332113",
+  "sortOrder": 1
+}

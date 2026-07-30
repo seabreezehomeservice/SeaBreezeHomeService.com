@@ -1,0 +1,56 @@
+{
+  "id": "2d4b0a8559",
+  "originalFilename": "IMG_5854.PNG",
+  "sha256": "2d4b0a85598927124230ba5eb1b154b6331582a89ad9273164af35f31ab06708",
+  "ingestedAt": "2026-07-30T03:09:42.505Z",
+  "captureDate": null,
+  "dimensions": {
+    "width": 1170,
+    "height": 1629
+  },
+  "paths": {
+    "original": "media/processed/originals/2d4b0a8559.png",
+    "optimized": "media/optimized/pressure-washing-residential--2d4b0a8559.webp",
+    "optimizedAvif": "media/optimized/pressure-washing-residential--2d4b0a8559.avif",
+    "responsive": {
+      "400": "media/optimized/pressure-washing-residential--2d4b0a8559-400.webp",
+      "800": "media/optimized/pressure-washing-residential--2d4b0a8559-800.webp"
+    },
+    "thumbnail": "media/thumbnails/pressure-washing-residential--2d4b0a8559.webp"
+  },
+  "blurPlaceholder": "data:image/webp;base64,UklGRvYAAABXRUJQVlA4IOoAAAAQBgCdASoYACEAPu1orlEppaQiqrgKATAdiWMAuKgfhBrKg4g4ncr/Wogsh1rju8gMtR66T927RsAA/dOOg/D1/r6deXucReejJ+YcgAg8qW4QssNTGyz9wOyDWpRCGNXkBtzqfhySy+Q1rC8WB0DTAFoNSMFbWcgdTNL8g1OexGZUqXOAagRJko9FdjUnAaVhTpcxjYIbgZZVSNY5swcqo7Ljc8V5tJbyRWAxUjW9KsfATMtN/uHjUohSjjF4Hg/nhynjigmn191g3M33iviffwbkmRUnuDSn4/1guQ1ThAhX+AEH4jdFwAA=",
+  "status": "classified",
+  "classification": {
+    "service": "pressure-washing",
+    "surfaceType": null,
+    "buildingType": null,
+    "propertyType": "residential",
+    "beforeAfter": null,
+    "cleaningMethod": null,
+    "equipmentVisible": [],
+    "qualityScore": 0.85,
+    "sharpness": null,
+    "suitableForMarketing": true,
+    "confidence": 100
+  },
+  "seo": {
+    "filename": "pressure-washing-residential--2d4b0a8559.webp",
+    "title": "Roofline and stucco wall detail",
+    "alt": "Roofline and stucco wall detail",
+    "caption": "Roofline and stucco wall detail",
+    "description": "Roof tile and stucco wall detail photographed near a window, as part of a roof soft-washing job."
+  },
+  "location": {
+    "city": null,
+    "neighborhood": null
+  },
+  "pairing": {
+    "pairId": null,
+    "role": null
+  },
+  "tags": [],
+  "needsReview": false,
+  "finalizedAt": "2026-07-30T03:58:13.602Z",
+  "perceptualHash": "b7a7250c804b4117",
+  "sortOrder": 9
+}

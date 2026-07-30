@@ -1,0 +1,58 @@
+{
+  "id": "57568a1163",
+  "originalFilename": "IMG_4491~photo.JPG",
+  "sha256": "57568a116371df9ffa960e8597d5623e514abe839d7a2f0ee2c9eec260ffe107",
+  "ingestedAt": "2026-07-30T03:08:59.495Z",
+  "captureDate": "2025-11-26T00:45:59.000Z",
+  "dimensions": {
+    "width": 4032,
+    "height": 3024
+  },
+  "paths": {
+    "original": "media/processed/originals/57568a1163.jpg",
+    "optimized": "media/optimized/holiday-light-installation-residential--57568a1163.webp",
+    "optimizedAvif": "media/optimized/holiday-light-installation-residential--57568a1163.avif",
+    "responsive": {
+      "400": "media/optimized/holiday-light-installation-residential--57568a1163-400.webp",
+      "800": "media/optimized/holiday-light-installation-residential--57568a1163-800.webp",
+      "1200": "media/optimized/holiday-light-installation-residential--57568a1163-1200.webp",
+      "1600": "media/optimized/holiday-light-installation-residential--57568a1163-1600.webp"
+    },
+    "thumbnail": "media/thumbnails/holiday-light-installation-residential--57568a1163.webp"
+  },
+  "blurPlaceholder": "data:image/webp;base64,UklGRiABAABXRUJQVlA4IBQBAAAwBgCdASoYACAAPu1kqU2ppaOiMAgBMB2JQBYj5DXuJnoWI+s7hBMrHg39+EVfuerIi7m0sh98uWQAAP6A4bTN6/0rXomcIw9VdWunHFZWTGA4LsPlfmvg4XXOGg+kyauW9JXM6uN2GocShHMbEO1tl72JEDna5NrpUjzj7AgZdVuKn7PZYvXp/+B5XPEkT5/pQA+yU9KX/OroCnHqaxdkE5bD/tfKVh2407YN2e7hHohpByxoNREbMiDWyS5wc9zef2av2PUaoET/HNYsRGDveDmnaKdIHpcJhhw79Xt14eVqdzw4Q+Yy6V+s9G8EyppwsSEClg50NeEzRB97ctc+3p+QolrYg/db4BBaES0FiEoAAAA=",
+  "status": "classified",
+  "classification": {
+    "service": "holiday-light-installation",
+    "surfaceType": null,
+    "buildingType": null,
+    "propertyType": "residential",
+    "beforeAfter": "after",
+    "cleaningMethod": null,
+    "equipmentVisible": [],
+    "qualityScore": 0.85,
+    "sharpness": null,
+    "suitableForMarketing": true,
+    "confidence": 100
+  },
+  "seo": {
+    "filename": "holiday-light-installation-residential--57568a1163.webp",
+    "title": "Holiday garland and wreath entryway display",
+    "alt": "Holiday garland and wreath entryway display",
+    "caption": "Holiday garland and wreath entryway display",
+    "description": "Installed holiday garland and wreath decorating a home entryway, with warm white accent lights."
+  },
+  "location": {
+    "city": null,
+    "neighborhood": null
+  },
+  "pairing": {
+    "pairId": null,
+    "role": null
+  },
+  "tags": [],
+  "needsReview": false,
+  "finalizedAt": "2026-07-30T03:58:13.668Z",
+  "perceptualHash": "4b8b97b7b7b7b33d",
+  "sortOrder": 3
+}

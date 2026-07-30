@@ -1,0 +1,58 @@
+{
+  "id": "a23c7ff029",
+  "originalFilename": "IMG_6062.JPG",
+  "sha256": "a23c7ff029e6f0ff054325496d6b21721dca83dc2ff3d0493bd62a3c31039c55",
+  "ingestedAt": "2026-07-30T03:10:02.939Z",
+  "captureDate": "2026-07-16T21:39:22.000Z",
+  "dimensions": {
+    "width": 4032,
+    "height": 3024
+  },
+  "paths": {
+    "original": "media/processed/originals/a23c7ff029.jpg",
+    "optimized": "media/optimized/pressure-washing-residential--a23c7ff029.webp",
+    "optimizedAvif": "media/optimized/pressure-washing-residential--a23c7ff029.avif",
+    "responsive": {
+      "400": "media/optimized/pressure-washing-residential--a23c7ff029-400.webp",
+      "800": "media/optimized/pressure-washing-residential--a23c7ff029-800.webp",
+      "1200": "media/optimized/pressure-washing-residential--a23c7ff029-1200.webp",
+      "1600": "media/optimized/pressure-washing-residential--a23c7ff029-1600.webp"
+    },
+    "thumbnail": "media/thumbnails/pressure-washing-residential--a23c7ff029.webp"
+  },
+  "blurPlaceholder": "data:image/webp;base64,UklGRgoBAABXRUJQVlA4IP4AAABQBQCdASoYACAAPu1mqk2ppaQiMAgBMB2JagC1CMggvQ+PYMpg0TYnqBd87rDaZqdVrWAA3VecgaS2Y9PtCT/+NwDrqy/kBzSvsqxkytcVdoP/wN7s2IEOlT3qgW5rbfqo+WF++knS5ghxy//igJorQqW62e+HWP0hvT3/vGj558qiSN/LuoGv6iuxB9RCexp+CFTYwVtAocyg1RFMXrnJIqf7IqzQg6IDDpCcdvCwhea0iKjtXs03WsNOu3hNtuORbySPDUtFmWgVJKrMygetG6ALeUCA1MZpIVrRlf24P/70/RdcZXtEG9FDHfIoJeC0CWM1pvoKuekuYvYAAA==",
+  "status": "classified",
+  "classification": {
+    "service": "pressure-washing",
+    "surfaceType": null,
+    "buildingType": null,
+    "propertyType": "residential",
+    "beforeAfter": "before",
+    "cleaningMethod": null,
+    "equipmentVisible": [],
+    "qualityScore": 0.85,
+    "sharpness": null,
+    "suitableForMarketing": true,
+    "confidence": 100
+  },
+  "seo": {
+    "filename": "pressure-washing-residential--a23c7ff029.webp",
+    "title": "Pressure washer cleaning an algae-stained driveway",
+    "alt": "Pressure washer cleaning an algae-stained driveway",
+    "caption": "Pressure washer cleaning an algae-stained driveway",
+    "description": "Pressure washer equipment shown actively cleaning a driveway heavily stained with algae and grime."
+  },
+  "location": {
+    "city": null,
+    "neighborhood": null
+  },
+  "pairing": {
+    "pairId": null,
+    "role": null
+  },
+  "tags": [],
+  "needsReview": false,
+  "finalizedAt": "2026-07-30T03:58:13.766Z",
+  "perceptualHash": "bdec3061e0b2a232",
+  "sortOrder": 2
+}

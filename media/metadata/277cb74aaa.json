@@ -1,0 +1,57 @@
+{
+  "id": "277cb74aaa",
+  "originalFilename": "IMG_5079.JPG",
+  "sha256": "277cb74aaab2421c000eba6a95c210d4a541de1045c8d0bda46d6ef70a49a918",
+  "ingestedAt": "2026-07-30T03:09:19.145Z",
+  "captureDate": null,
+  "dimensions": {
+    "width": 1280,
+    "height": 960
+  },
+  "paths": {
+    "original": "media/processed/originals/277cb74aaa.jpg",
+    "optimized": "media/optimized/holiday-light-installation-residential--277cb74aaa.webp",
+    "optimizedAvif": "media/optimized/holiday-light-installation-residential--277cb74aaa.avif",
+    "responsive": {
+      "400": "media/optimized/holiday-light-installation-residential--277cb74aaa-400.webp",
+      "800": "media/optimized/holiday-light-installation-residential--277cb74aaa-800.webp",
+      "1200": "media/optimized/holiday-light-installation-residential--277cb74aaa-1200.webp"
+    },
+    "thumbnail": "media/thumbnails/holiday-light-installation-residential--277cb74aaa.webp"
+  },
+  "blurPlaceholder": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAABwBACdASoYABIAPu1kqU2ppaOiMAgBMB2JZwDMHCHevddbLnCJjPOQRtqjAAD+8qHXiaWaRUAepRTNs0kSGmcqQzSXgJftrlct3wJ7ef6QoXzNkuaTOI3Q5WbDhSpRqG/1AJkd/TXZRXir8EQS2z+1w5WxAAAA",
+  "status": "classified",
+  "classification": {
+    "service": "holiday-light-installation",
+    "surfaceType": null,
+    "buildingType": null,
+    "propertyType": "residential",
+    "beforeAfter": "after",
+    "cleaningMethod": null,
+    "equipmentVisible": [],
+    "qualityScore": 0.85,
+    "sharpness": null,
+    "suitableForMarketing": true,
+    "confidence": 100
+  },
+  "seo": {
+    "filename": "holiday-light-installation-residential--277cb74aaa.webp",
+    "title": "Warm white holiday lighting on a farmhouse-style home",
+    "alt": "Warm white holiday lighting on a farmhouse-style home",
+    "caption": "Warm white holiday lighting on a farmhouse-style home",
+    "description": "Warm white holiday string lights installed along the roofline of a farmhouse-style home."
+  },
+  "location": {
+    "city": null,
+    "neighborhood": null
+  },
+  "pairing": {
+    "pairId": null,
+    "role": null
+  },
+  "tags": [],
+  "needsReview": false,
+  "finalizedAt": "2026-07-30T03:58:13.590Z",
+  "perceptualHash": "0707076961632101",
+  "sortOrder": 9
+}

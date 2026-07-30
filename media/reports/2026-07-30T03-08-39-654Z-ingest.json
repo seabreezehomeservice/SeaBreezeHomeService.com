@@ -1,0 +1,240 @@
+{
+  "startedAt": "2026-07-30T03:08:39.654Z",
+  "processed": [
+    {
+      "id": "997fff217a",
+      "file": "IMG_2691.HEIC"
+    },
+    {
+      "id": "46d66ee5ba",
+      "file": "IMG_2709.heic"
+    },
+    {
+      "id": "29568b4b9c",
+      "file": "IMG_4267.HEIC"
+    },
+    {
+      "id": "c7be72e228",
+      "file": "IMG_4269.HEIC"
+    },
+    {
+      "id": "c1fa391d8d",
+      "file": "IMG_4358.HEIC"
+    },
+    {
+      "id": "aaf549d4dd",
+      "file": "IMG_4362.HEIC"
+    },
+    {
+      "id": "9f74dfd24d",
+      "file": "IMG_4455~photo.JPG"
+    },
+    {
+      "id": "57568a1163",
+      "file": "IMG_4491~photo.JPG"
+    },
+    {
+      "id": "e366b4af4b",
+      "file": "IMG_4571.jpeg"
+    },
+    {
+      "id": "555f8ceaec",
+      "file": "IMG_4704.JPG"
+    },
+    {
+      "id": "cfe1751065",
+      "file": "IMG_4712.HEIC"
+    },
+    {
+      "id": "6e9b2b8968",
+      "file": "IMG_4715.HEIC"
+    },
+    {
+      "id": "311af1288a",
+      "file": "IMG_4716.HEIC"
+    },
+    {
+      "id": "3c56d15c9b",
+      "file": "IMG_4768.JPG"
+    },
+    {
+      "id": "380c1ab61e",
+      "file": "IMG_4815.JPG"
+    },
+    {
+      "id": "c7e141611e",
+      "file": "IMG_4898.JPG"
+    },
+    {
+      "id": "9c4b05a6d6",
+      "file": "IMG_4899.JPG"
+    },
+    {
+      "id": "277cb74aaa",
+      "file": "IMG_5079.JPG"
+    },
+    {
+      "id": "fe70d9c5b9",
+      "file": "IMG_5081.JPG"
+    },
+    {
+      "id": "780d39e048",
+      "file": "IMG_5083.JPG"
+    },
+    {
+      "id": "db0296e892",
+      "file": "IMG_5093.JPG"
+    },
+    {
+      "id": "1644864caa",
+      "file": "IMG_5109.JPG"
+    },
+    {
+      "id": "95942f1987",
+      "file": "IMG_5132.JPG"
+    },
+    {
+      "id": "26a7b941a6",
+      "file": "IMG_5730.JPG"
+    },
+    {
+      "id": "37ac58e638",
+      "file": "IMG_5808.PNG"
+    },
+    {
+      "id": "a20ae14689",
+      "file": "IMG_5809.PNG"
+    },
+    {
+      "id": "b47ee9af61",
+      "file": "IMG_5810.PNG"
+    },
+    {
+      "id": "902f03f025",
+      "file": "IMG_5812.PNG"
+    },
+    {
+      "id": "1e3c01b28b",
+      "file": "IMG_5813.PNG"
+    },
+    {
+      "id": "fda69b1945",
+      "file": "IMG_5814.PNG"
+    },
+    {
+      "id": "35f3baa829",
+      "file": "IMG_5846.PNG"
+    },
+    {
+      "id": "2d4b0a8559",
+      "file": "IMG_5854.PNG"
+    },
+    {
+      "id": "f7f1d7eb94",
+      "file": "IMG_5855.PNG"
+    },
+    {
+      "id": "7f9510a7ce",
+      "file": "IMG_5856.PNG"
+    },
+    {
+      "id": "9ac120f055",
+      "file": "IMG_5857.PNG"
+    },
+    {
+      "id": "c36ed8af22",
+      "file": "IMG_6012.JPG"
+    },
+    {
+      "id": "d6aac40dfc",
+      "file": "IMG_6016.JPG"
+    },
+    {
+      "id": "ed23d8d99d",
+      "file": "IMG_6022.JPG"
+    },
+    {
+      "id": "fe2e3e1f38",
+      "file": "IMG_6037.JPG"
+    },
+    {
+      "id": "69a69917e3",
+      "file": "IMG_6039.JPG"
+    },
+    {
+      "id": "a23c7ff029",
+      "file": "IMG_6062.JPG"
+    },
+    {
+      "id": "d7c82eb63c",
+      "file": "IMG_6064.JPG"
+    },
+    {
+      "id": "817220cb04",
+      "file": "IMG_6096.JPG"
+    },
+    {
+      "id": "4ad3166eb2",
+      "file": "IMG_6100.JPG"
+    },
+    {
+      "id": "c1590ca959",
+      "file": "IMG_6115.JPG"
+    },
+    {
+      "id": "61344fa6d8",
+      "file": "IMG_6123.JPG"
+    }
+  ],
+  "duplicates": [],
+  "failed": [],
+  "finishedAt": "2026-07-30T03:10:18.052Z",
+  "pendingClassification": [
+    "1644864caa",
+    "1e3c01b28b",
+    "26a7b941a6",
+    "277cb74aaa",
+    "29568b4b9c",
+    "2d4b0a8559",
+    "311af1288a",
+    "35f3baa829",
+    "37ac58e638",
+    "380c1ab61e",
+    "3c56d15c9b",
+    "46d66ee5ba",
+    "4ad3166eb2",
+    "555f8ceaec",
+    "57568a1163",
+    "61344fa6d8",
+    "69a69917e3",
+    "6e9b2b8968",
+    "780d39e048",
+    "7f9510a7ce",
+    "817220cb04",
+    "902f03f025",
+    "95942f1987",
+    "997fff217a",
+    "9ac120f055",
+    "9c4b05a6d6",
+    "9f74dfd24d",
+    "a20ae14689",
+    "a23c7ff029",
+    "aaf549d4dd",
+    "b47ee9af61",
+    "c1590ca959",
+    "c1fa391d8d",
+    "c36ed8af22",
+    "c7be72e228",
+    "c7e141611e",
+    "cfe1751065",
+    "d6aac40dfc",
+    "d7c82eb63c",
+    "db0296e892",
+    "e366b4af4b",
+    "ed23d8d99d",
+    "f7f1d7eb94",
+    "fda69b1945",
+    "fe2e3e1f38",
+    "fe70d9c5b9"
+  ]
+}

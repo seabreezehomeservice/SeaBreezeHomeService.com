@@ -1,0 +1,58 @@
+{
+  "id": "c36ed8af22",
+  "originalFilename": "IMG_6012.JPG",
+  "sha256": "c36ed8af224cbc1886deb605e48e769d466e8402e4f65b766ff8647a09252e4a",
+  "ingestedAt": "2026-07-30T03:09:48.140Z",
+  "captureDate": "2026-07-14T20:56:19.000Z",
+  "dimensions": {
+    "width": 4032,
+    "height": 3024
+  },
+  "paths": {
+    "original": "media/processed/originals/c36ed8af22.jpg",
+    "optimized": "media/optimized/solar-panel-cleaning-residential--c36ed8af22.webp",
+    "optimizedAvif": "media/optimized/solar-panel-cleaning-residential--c36ed8af22.avif",
+    "responsive": {
+      "400": "media/optimized/solar-panel-cleaning-residential--c36ed8af22-400.webp",
+      "800": "media/optimized/solar-panel-cleaning-residential--c36ed8af22-800.webp",
+      "1200": "media/optimized/solar-panel-cleaning-residential--c36ed8af22-1200.webp",
+      "1600": "media/optimized/solar-panel-cleaning-residential--c36ed8af22-1600.webp"
+    },
+    "thumbnail": "media/thumbnails/solar-panel-cleaning-residential--c36ed8af22.webp"
+  },
+  "blurPlaceholder": "data:image/webp;base64,UklGRiABAABXRUJQVlA4IBQBAADQBQCdASoYACAAPu1kqU2ppaQiMAgBMB2JQBOgtYuMCqi3aUgxqXVsp5zE0c39nnlhYotKmx6IAOHALkxmAr2C1eYEHovTYzNW1E8SILVMWNt34yxL6M0+jnLDN5s4UI4yWs/weOI4vW2AwvqMrKU7K5sa57aQJmRbBZB5NtIOMTlerfZGIqtGGxEtZ0drgCtE8T3VvkWPdj2skTebGp5nFES2PxwbW8ghxqoWrDNtkzcWMMc/cxAqu2ElBnU/IIuvxN6Wg4RCwG9hA7o2jk17l61r2QyHy0PQxqVeAhd6lw9AKp0FE7VXStrKg3CS/Hs+i+qvOPP7dFtccXxMGR2gajc3a8BaG0+KtdyI5iH0mFAAAAA=",
+  "status": "classified",
+  "classification": {
+    "service": "solar-panel-cleaning",
+    "surfaceType": null,
+    "buildingType": null,
+    "propertyType": "residential",
+    "beforeAfter": "after",
+    "cleaningMethod": null,
+    "equipmentVisible": [],
+    "qualityScore": 0.85,
+    "sharpness": null,
+    "suitableForMarketing": true,
+    "confidence": 100
+  },
+  "seo": {
+    "filename": "solar-panel-cleaning-residential--c36ed8af22.webp",
+    "title": "Clean solar panels overlooking the street",
+    "alt": "Clean solar panels overlooking the street",
+    "caption": "Clean solar panels overlooking the street",
+    "description": "Rooftop solar panels shown clean and reflective, overlooking the street below."
+  },
+  "location": {
+    "city": null,
+    "neighborhood": null
+  },
+  "pairing": {
+    "pairId": null,
+    "role": null
+  },
+  "tags": [],
+  "needsReview": false,
+  "finalizedAt": "2026-07-30T03:58:13.801Z",
+  "perceptualHash": "92396072a9c8611f",
+  "sortOrder": 5
+}

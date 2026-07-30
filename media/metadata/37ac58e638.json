@@ -1,0 +1,56 @@
+{
+  "id": "37ac58e638",
+  "originalFilename": "IMG_5808.PNG",
+  "sha256": "37ac58e638145e429fb2b0eb8d62237f1341242f7c879a643d4119541737caf3",
+  "ingestedAt": "2026-07-30T03:09:33.457Z",
+  "captureDate": "2026-05-28T05:04:28.000Z",
+  "dimensions": {
+    "width": 1170,
+    "height": 2532
+  },
+  "paths": {
+    "original": "media/processed/originals/37ac58e638.png",
+    "optimized": "media/optimized/window-cleaning-residential--37ac58e638.webp",
+    "optimizedAvif": "media/optimized/window-cleaning-residential--37ac58e638.avif",
+    "responsive": {
+      "400": "media/optimized/window-cleaning-residential--37ac58e638-400.webp",
+      "800": "media/optimized/window-cleaning-residential--37ac58e638-800.webp"
+    },
+    "thumbnail": "media/thumbnails/window-cleaning-residential--37ac58e638.webp"
+  },
+  "blurPlaceholder": "data:image/webp;base64,UklGRjwBAABXRUJQVlA4IDABAABwBwCdASoYADQAPu1uqlCppqOiqAwBMB2JZQDI2bixopq6Cy4Cu8j0zbvNHZkD/Do8AswuTNSNq7cr7oqPvhRDzZLoAAD++lv+9ewfWPKO0+tKX0RP3Bv7pEfouPx62gw5Z055wJPIyBr3NwRIWcelgu5/iRx91+sMpuTLsUSavRbW5f3AGe2lvzXGdVdlB9snlxuedM0Hn3WLP5BJjt5lPnGsPadcl7xNq18qFw/hELeSFrsgAJH1otIEfAM45/lBDKgQjcrJwbTvcyJr99n5AAEuy6phXyjbDhBEgpTglzHTZC6kgRe/iruPQax1+R8H3zpLuM+GpycBQQZ8T0PCnw0I++nXXZkvHMr7vp15EoTLIv7YFJwdhVf+1jNY/yO8VWCIfKZ9Z9Sw6gk8AAAA",
+  "status": "classified",
+  "classification": {
+    "service": "window-cleaning",
+    "surfaceType": null,
+    "buildingType": null,
+    "propertyType": "residential",
+    "beforeAfter": "after",
+    "cleaningMethod": null,
+    "equipmentVisible": [],
+    "qualityScore": 0.85,
+    "sharpness": null,
+    "suitableForMarketing": true,
+    "confidence": 100
+  },
+  "seo": {
+    "filename": "window-cleaning-residential--37ac58e638.webp",
+    "title": "Clean exterior window with outdoor view",
+    "alt": "Clean exterior window with outdoor view",
+    "caption": "Clean exterior window with outdoor view",
+    "description": "Exterior window shown clear and streak-free with trees visible outside."
+  },
+  "location": {
+    "city": null,
+    "neighborhood": null
+  },
+  "pairing": {
+    "pairId": null,
+    "role": null
+  },
+  "tags": [],
+  "needsReview": false,
+  "finalizedAt": "2026-07-30T03:58:13.623Z",
+  "perceptualHash": "746829236b1b3b63",
+  "sortOrder": 3
+}

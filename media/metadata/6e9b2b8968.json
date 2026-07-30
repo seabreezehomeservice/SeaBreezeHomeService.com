@@ -1,0 +1,58 @@
+{
+  "id": "6e9b2b8968",
+  "originalFilename": "IMG_4715.HEIC",
+  "sha256": "6e9b2b89680ac68e7ddb50987a093bcdcdef8dab14827a9dfdedae2df11247b4",
+  "ingestedAt": "2026-07-30T03:09:08.295Z",
+  "captureDate": "2025-11-01T01:25:28.000Z",
+  "dimensions": {
+    "width": 3024,
+    "height": 4032
+  },
+  "paths": {
+    "original": "media/processed/originals/6e9b2b8968.heic",
+    "optimized": "media/optimized/holiday-light-installation-residential--6e9b2b8968.webp",
+    "optimizedAvif": "media/optimized/holiday-light-installation-residential--6e9b2b8968.avif",
+    "responsive": {
+      "400": "media/optimized/holiday-light-installation-residential--6e9b2b8968-400.webp",
+      "800": "media/optimized/holiday-light-installation-residential--6e9b2b8968-800.webp",
+      "1200": "media/optimized/holiday-light-installation-residential--6e9b2b8968-1200.webp",
+      "1600": "media/optimized/holiday-light-installation-residential--6e9b2b8968-1600.webp"
+    },
+    "thumbnail": "media/thumbnails/holiday-light-installation-residential--6e9b2b8968.webp"
+  },
+  "blurPlaceholder": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAADQBACdASoYACAAPu1mrU+ppSQiMBgIATAdiUAAI91i57W7LJnLuZmO4CCJQrBMAAD+/dlHRFbWa30ZLdFbgWU1ex7SDr1QqyX2yge3g+6+2eI0lMBlSjtZ6DOzA7enaI+p4G6230lA+vyZ6fqyDVtItVOAwQFQm6+l6dZDGeOwAA==",
+  "status": "classified",
+  "classification": {
+    "service": "holiday-light-installation",
+    "surfaceType": null,
+    "buildingType": null,
+    "propertyType": "residential",
+    "beforeAfter": "after",
+    "cleaningMethod": null,
+    "equipmentVisible": [],
+    "qualityScore": 0.85,
+    "sharpness": null,
+    "suitableForMarketing": true,
+    "confidence": 100
+  },
+  "seo": {
+    "filename": "holiday-light-installation-residential--6e9b2b8968.webp",
+    "title": "Warm white holiday roofline lighting at dusk",
+    "alt": "Warm white holiday roofline lighting at dusk",
+    "caption": "Warm white holiday roofline lighting at dusk",
+    "description": "Warm white holiday string lights installed along the roofline of a home at dusk."
+  },
+  "location": {
+    "city": null,
+    "neighborhood": null
+  },
+  "pairing": {
+    "pairId": null,
+    "role": null
+  },
+  "tags": [],
+  "needsReview": false,
+  "finalizedAt": "2026-07-30T03:58:13.689Z",
+  "perceptualHash": "0250c3a30f4e8211",
+  "sortOrder": 6
+}

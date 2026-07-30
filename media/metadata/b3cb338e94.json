@@ -1,0 +1,57 @@
+{
+  "id": "b3cb338e94",
+  "originalFilename": "IMG_6138.PNG",
+  "sourceFolder": "Pressure Washing",
+  "sha256": "b3cb338e94dec2ce454ffdffae894652c61f0cb9723401ef701ba670397d972d",
+  "ingestedAt": "2026-07-30T04:44:19.744Z",
+  "captureDate": "2026-07-30T04:38:00.000Z",
+  "dimensions": {
+    "width": 1170,
+    "height": 2532
+  },
+  "perceptualHash": "8383c1df331a6e46",
+  "paths": {
+    "original": "media/processed/originals/b3cb338e94.png",
+    "optimized": "media/optimized/pressure-washing--b3cb338e94.webp",
+    "optimizedAvif": "media/optimized/pressure-washing--b3cb338e94.avif",
+    "responsive": {
+      "400": "media/optimized/pressure-washing--b3cb338e94-400.webp",
+      "800": "media/optimized/pressure-washing--b3cb338e94-800.webp"
+    },
+    "thumbnail": "media/thumbnails/pressure-washing--b3cb338e94.webp"
+  },
+  "blurPlaceholder": "data:image/webp;base64,UklGRioBAABXRUJQVlA4IB4BAADwBgCdASoYADQAPu1kqE6ppaOiLBqsyTAdiWMAyW1XKli4CqtVWCF3KtzXA+I7+Sk5ovUmeIgwdWfYjNBCuGagAP73dfo2Ava8lsxwrDf/cGrIQuBTJKAnOndqtHcy9i7jJ/NzQq6vtKVAixTZMVnQfkpbo21kI3L6TqYj0vmD2TfqUBFxqaSXz0FnSx8YqD7cBtjy5gQFSDw8X5VBHupgijUx1IUXTso3aDgH0R1dIRSGghWrKzbDC/+SmqBwvqf0fUkpDhKGfihba4lexm/sjgRwWQq9YyWNaGQMX07PRaZ1+MQMyR8sQkh840psr9wO0YLSZHy47fpvgeJAtX/rOi8wStFmSM2CuBeMQf/A1+JvD+ZDlQX6w+BicAAA",
+  "status": "classified",
+  "classification": {
+    "service": "pressure-washing",
+    "surfaceType": null,
+    "buildingType": null,
+    "propertyType": null,
+    "beforeAfter": "before",
+    "cleaningMethod": null,
+    "equipmentVisible": [],
+    "qualityScore": 0.85,
+    "sharpness": null,
+    "suitableForMarketing": true,
+    "confidence": 90
+  },
+  "seo": {
+    "filename": "pressure-washing--b3cb338e94.webp",
+    "title": "Moss-covered roof section next to a clean area",
+    "alt": "Moss-covered roof section next to a clean area",
+    "caption": "Moss-covered roof section next to a clean area",
+    "description": "Tile roof showing a moss and algae-stained section beside an already-cleaned area, with a pool visible in the background."
+  },
+  "location": {
+    "city": null,
+    "neighborhood": null
+  },
+  "pairing": {
+    "pairId": null,
+    "role": null
+  },
+  "tags": [],
+  "needsReview": false,
+  "finalizedAt": "2026-07-30T04:45:23.635Z",
+  "sortOrder": 6
+}

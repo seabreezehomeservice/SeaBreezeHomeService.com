@@ -1,0 +1,58 @@
+{
+  "id": "780d39e048",
+  "originalFilename": "IMG_5083.JPG",
+  "sha256": "780d39e04870f41d1fd910ae4e8db9b73df8e9156805e701da00f81b071d1e4f",
+  "ingestedAt": "2026-07-30T03:09:21.715Z",
+  "captureDate": "2025-12-03T19:18:24.000Z",
+  "dimensions": {
+    "width": 4032,
+    "height": 3024
+  },
+  "paths": {
+    "original": "media/processed/originals/780d39e048.jpg",
+    "optimized": "media/optimized/holiday-light-installation-residential--780d39e048.webp",
+    "optimizedAvif": "media/optimized/holiday-light-installation-residential--780d39e048.avif",
+    "responsive": {
+      "400": "media/optimized/holiday-light-installation-residential--780d39e048-400.webp",
+      "800": "media/optimized/holiday-light-installation-residential--780d39e048-800.webp",
+      "1200": "media/optimized/holiday-light-installation-residential--780d39e048-1200.webp",
+      "1600": "media/optimized/holiday-light-installation-residential--780d39e048-1600.webp"
+    },
+    "thumbnail": "media/thumbnails/holiday-light-installation-residential--780d39e048.webp"
+  },
+  "blurPlaceholder": "data:image/webp;base64,UklGRvwAAABXRUJQVlA4IPAAAADwBACdASoYACAAPu1oq0+ppaOiMBgIATAdiWUAuwGNIRIqLGxWs+9Zy19V3LwWYcAA+m7DuWJea0kSZdmf1k8tFHSpF1gEIMsiGoNjeX8uyjHeFCszreqeOwPhrIOa8F24DRPhtJ7pi1OrYOgmE/GmjVryr8OYx9Uxsx5Zdl7Y2/FuIgWJD1aHE1jNnJ7YJEjJeOb7oCWZIAGExt9NefZhtaC/qmLGJu9Vb4bTsc0NTwN0IA9w/7RRN0kOcuomLT49+WNd+94arItCKVoJRS90lZru7kEJjBXw9kbdE3r0ECL2Z6JatFILDDNBnLjAAAA=",
+  "status": "classified",
+  "classification": {
+    "service": "holiday-light-installation",
+    "surfaceType": null,
+    "buildingType": null,
+    "propertyType": "residential",
+    "beforeAfter": "before",
+    "cleaningMethod": null,
+    "equipmentVisible": [],
+    "qualityScore": 0.85,
+    "sharpness": null,
+    "suitableForMarketing": true,
+    "confidence": 100
+  },
+  "seo": {
+    "filename": "holiday-light-installation-residential--780d39e048.webp",
+    "title": "Home exterior daytime reference photo",
+    "alt": "Home exterior daytime reference photo",
+    "caption": "Home exterior daytime reference photo",
+    "description": "Daytime photo of a home exterior, likely taken as a reference prior to a lighting installation."
+  },
+  "location": {
+    "city": null,
+    "neighborhood": null
+  },
+  "pairing": {
+    "pairId": null,
+    "role": null
+  },
+  "tags": [],
+  "needsReview": false,
+  "finalizedAt": "2026-07-30T03:58:13.696Z",
+  "perceptualHash": "01050174d4d4dc0d",
+  "sortOrder": 7
+}

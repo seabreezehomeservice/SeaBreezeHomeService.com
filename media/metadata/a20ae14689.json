@@ -1,0 +1,56 @@
+{
+  "id": "a20ae14689",
+  "originalFilename": "IMG_5809.PNG",
+  "sha256": "a20ae146891a34e66da549170158e75fdfa4dad62fa698d985c6529af2fda456",
+  "ingestedAt": "2026-07-30T03:09:35.000Z",
+  "captureDate": "2026-05-28T05:04:36.000Z",
+  "dimensions": {
+    "width": 1170,
+    "height": 2532
+  },
+  "paths": {
+    "original": "media/processed/originals/a20ae14689.png",
+    "optimized": "media/optimized/window-cleaning-residential--a20ae14689.webp",
+    "optimizedAvif": "media/optimized/window-cleaning-residential--a20ae14689.avif",
+    "responsive": {
+      "400": "media/optimized/window-cleaning-residential--a20ae14689-400.webp",
+      "800": "media/optimized/window-cleaning-residential--a20ae14689-800.webp"
+    },
+    "thumbnail": "media/thumbnails/window-cleaning-residential--a20ae14689.webp"
+  },
+  "blurPlaceholder": "data:image/webp;base64,UklGRkoBAABXRUJQVlA4ID4BAABwBwCdASoYADQAPu1yrFGppyQiqAlZMB2JZwDOeAmtpfaFn6IPVI4HB3dj8598JZpRXgIaq0gNiRk0PCCxgbWquCOLgAD++b+d02KqRUfvWHpcuiZlF4hkNAXibptRUE6k9C1wKHBO4/ZSaGg78wFkmweEm4a3Wf825Bu6FkztT0EEyYR7SRqgbTRWtls8I+UsoyUripaezW4P2YhFIwBfABK6YJ9y8KW4ZAK3ruy5OwqxIc6tFYtx7s+kJvE1whQbU3gTfMuaOz54a00v+j+VFgfwiaiXSqZbZaIHZGCyOddtPK5c2EJEdH04Q24Rs+/VUZ5qAsZOr5NYa8MYjiR5JNh2AEPvYj93PaYmOrzL95u/zr+zsPBjv27F4wUIZYovjQNy7xot3XE5id0ZdHWyG2dJ9WbSCg/cLSWvAAA=",
+  "status": "classified",
+  "classification": {
+    "service": "window-cleaning",
+    "surfaceType": null,
+    "buildingType": null,
+    "propertyType": "residential",
+    "beforeAfter": "after",
+    "cleaningMethod": null,
+    "equipmentVisible": [],
+    "qualityScore": 0.85,
+    "sharpness": null,
+    "suitableForMarketing": true,
+    "confidence": 100
+  },
+  "seo": {
+    "filename": "window-cleaning-residential--a20ae14689.webp",
+    "title": "Clean exterior window with neighborhood view",
+    "alt": "Clean exterior window with neighborhood view",
+    "caption": "Clean exterior window with neighborhood view",
+    "description": "Exterior window shown clear and streak-free with the surrounding neighborhood visible."
+  },
+  "location": {
+    "city": null,
+    "neighborhood": null
+  },
+  "pairing": {
+    "pairId": null,
+    "role": null
+  },
+  "tags": [],
+  "needsReview": false,
+  "finalizedAt": "2026-07-30T03:58:13.757Z",
+  "perceptualHash": "e56568e921ed9523",
+  "sortOrder": 4
+}

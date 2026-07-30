@@ -1,0 +1,58 @@
+{
+  "id": "d7c82eb63c",
+  "originalFilename": "IMG_6064.JPG",
+  "sha256": "d7c82eb63cfe6466dbcc5d70f7a20a75fff64df851de3ee4d622bc19ee5b824d",
+  "ingestedAt": "2026-07-30T03:10:05.687Z",
+  "captureDate": "2026-07-16T23:39:52.000Z",
+  "dimensions": {
+    "width": 4032,
+    "height": 3024
+  },
+  "paths": {
+    "original": "media/processed/originals/d7c82eb63c.jpg",
+    "optimized": "media/optimized/pressure-washing-residential--d7c82eb63c.webp",
+    "optimizedAvif": "media/optimized/pressure-washing-residential--d7c82eb63c.avif",
+    "responsive": {
+      "400": "media/optimized/pressure-washing-residential--d7c82eb63c-400.webp",
+      "800": "media/optimized/pressure-washing-residential--d7c82eb63c-800.webp",
+      "1200": "media/optimized/pressure-washing-residential--d7c82eb63c-1200.webp",
+      "1600": "media/optimized/pressure-washing-residential--d7c82eb63c-1600.webp"
+    },
+    "thumbnail": "media/thumbnails/pressure-washing-residential--d7c82eb63c.webp"
+  },
+  "blurPlaceholder": "data:image/webp;base64,UklGRvQAAABXRUJQVlA4IOgAAADQBQCdASoYACAAPu1orlCppaQiqAqpMB2JZADCgdwAboJC5ha1a3dVYXMOJOPhF7VYzoMRdHsAAMqj4pNyvnswv7ruA+Zi8XVWP1FWoRVHu8czQel7q9RU8/XmLCr5Tnu6YUgu/bbA0VXn0evR0kmvYBtlVO/Gu4MfX9/sgjmr14MqpsfcYrvTlBj7UEBPvo1L+FtGNTKiFpklcAUkJFDNPvSVvTJmFMdyS/pOp+DSvNlHVF57KJrfws+IKD7B3r5On55v/3lDR4MP1hB5Ue0INvI7e/j6hfxb7OIg0a9+xyaJp26jFAAA",
+  "status": "classified",
+  "classification": {
+    "service": "pressure-washing",
+    "surfaceType": null,
+    "buildingType": null,
+    "propertyType": "residential",
+    "beforeAfter": "after",
+    "cleaningMethod": null,
+    "equipmentVisible": [],
+    "qualityScore": 0.85,
+    "sharpness": null,
+    "suitableForMarketing": true,
+    "confidence": 100
+  },
+  "seo": {
+    "filename": "pressure-washing-residential--d7c82eb63c.webp",
+    "title": "Clean driveway after pressure washing",
+    "alt": "Clean driveway after pressure washing",
+    "caption": "Clean driveway after pressure washing",
+    "description": "Residential driveway shown clean after pressure washing."
+  },
+  "location": {
+    "city": null,
+    "neighborhood": null
+  },
+  "pairing": {
+    "pairId": null,
+    "role": null
+  },
+  "tags": [],
+  "needsReview": false,
+  "finalizedAt": "2026-07-30T03:58:13.840Z",
+  "perceptualHash": "f9e9b0116d20c84e",
+  "sortOrder": 3
+}

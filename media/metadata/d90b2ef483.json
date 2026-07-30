@@ -1,0 +1,57 @@
+{
+  "id": "d90b2ef483",
+  "originalFilename": "IMG_6136.PNG",
+  "sourceFolder": "Windows",
+  "sha256": "d90b2ef4836afbec4070bae173636448176731758ee543decaf6ccc6aacf3066",
+  "ingestedAt": "2026-07-30T04:44:23.161Z",
+  "captureDate": "2026-07-30T04:36:27.000Z",
+  "dimensions": {
+    "width": 1170,
+    "height": 2532
+  },
+  "perceptualHash": "9cbbdf7cfcff7f63",
+  "paths": {
+    "original": "media/processed/originals/d90b2ef483.png",
+    "optimized": "media/optimized/window-cleaning--d90b2ef483.webp",
+    "optimizedAvif": "media/optimized/window-cleaning--d90b2ef483.avif",
+    "responsive": {
+      "400": "media/optimized/window-cleaning--d90b2ef483-400.webp",
+      "800": "media/optimized/window-cleaning--d90b2ef483-800.webp"
+    },
+    "thumbnail": "media/thumbnails/window-cleaning--d90b2ef483.webp"
+  },
+  "blurPlaceholder": "data:image/webp;base64,UklGRhQBAABXRUJQVlA4IAgBAAAwBwCdASoYADQAPu1urVIppiQipAyRMB2JZQDEJDPgzxA2JYcCtBc21hYZe9QR+O8AfvPV5Z1iC8RAQzZLqeMsPAAA/vm/kFug/AsTDzzM3uiTtlb+tycd9Ge0dYOPIivx5pLGco4x45rmDK/2IAIn6jM/RgzuFPeTs+BJWiHXRlxqlQs7TKqAjGNQ0OWIkqCgaqD0qOsMrpWOKMvwylITVfvGmtzoOkB+m3pL5vClLfMqV1GCwOoHnh/8yDNHCByHZe4adhzM8xKOrpAFiLAgh/je7rSJlLj4v0GwrtiRdBT66fYHztG7mZ1wUXz1fXgDzcoa3SLUvei89aWAB8SGfYr3hAsgAAA=",
+  "status": "classified",
+  "classification": {
+    "service": "window-cleaning",
+    "surfaceType": null,
+    "buildingType": null,
+    "propertyType": null,
+    "beforeAfter": "after",
+    "cleaningMethod": null,
+    "equipmentVisible": [],
+    "qualityScore": 0.85,
+    "sharpness": null,
+    "suitableForMarketing": true,
+    "confidence": 95
+  },
+  "seo": {
+    "filename": "window-cleaning--d90b2ef483.webp",
+    "title": "Clean exterior window with fence and trees visible",
+    "alt": "Clean exterior window with fence and trees visible",
+    "caption": "Clean exterior window with fence and trees visible",
+    "description": "Exterior window shown clear and streak-free with a wood fence and trees visible outside."
+  },
+  "location": {
+    "city": null,
+    "neighborhood": null
+  },
+  "pairing": {
+    "pairId": null,
+    "role": null
+  },
+  "tags": [],
+  "needsReview": false,
+  "finalizedAt": "2026-07-30T05:00:55.039Z",
+  "sortOrder": 6
+}

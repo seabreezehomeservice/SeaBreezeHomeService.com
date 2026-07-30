@@ -1,0 +1,57 @@
+{
+  "id": "9476aa363f",
+  "originalFilename": "IMG_6137.PNG",
+  "sourceFolder": "Windows",
+  "sha256": "9476aa363fc55898df1b7823d1951276fb2c7365175d971c456bde28da9912db",
+  "ingestedAt": "2026-07-30T04:44:25.397Z",
+  "captureDate": "2026-07-30T04:36:40.000Z",
+  "dimensions": {
+    "width": 1170,
+    "height": 2532
+  },
+  "perceptualHash": "ccbcfc1c7cfefcce",
+  "paths": {
+    "original": "media/processed/originals/9476aa363f.png",
+    "optimized": "media/optimized/window-cleaning--9476aa363f.webp",
+    "optimizedAvif": "media/optimized/window-cleaning--9476aa363f.avif",
+    "responsive": {
+      "400": "media/optimized/window-cleaning--9476aa363f-400.webp",
+      "800": "media/optimized/window-cleaning--9476aa363f-800.webp"
+    },
+    "thumbnail": "media/thumbnails/window-cleaning--9476aa363f.webp"
+  },
+  "blurPlaceholder": "data:image/webp;base64,UklGRgQBAABXRUJQVlA4IPgAAADQBgCdASoYADQAPu1kqlAppSOirBVcyTAdiWUAvhG1gaaxZoPl/zYLTYTrnV0JyJPHkANYfTKf/cfEPLCGYAAA/vd2Id0SKQkHeb7fGA1r48xI7pxIxTsNSEMwSJYP/sFVjvzBhSRLKMtF+98g7HpOsvAh5FDCd6Oqoh+ghBca0F0fAXg0IOSErIAZgyfoYtvFk3KL4pLfilSUf9teXE6je5gTVGrmh528Rt+EIu41BDKYyOlG+D8jMXvYoJY8z2N7NzSQM9f0Ak5eNnVzNkrGZqdISKs7YngeI76VVyzMGjzYJqt8CJPsqMQuW4FcoHvy+YCjD+8AAA==",
+  "status": "classified",
+  "classification": {
+    "service": "window-cleaning",
+    "surfaceType": null,
+    "buildingType": null,
+    "propertyType": null,
+    "beforeAfter": "after",
+    "cleaningMethod": null,
+    "equipmentVisible": [],
+    "qualityScore": 0.85,
+    "sharpness": null,
+    "suitableForMarketing": true,
+    "confidence": 95
+  },
+  "seo": {
+    "filename": "window-cleaning--9476aa363f.webp",
+    "title": "Clean exterior window with tree view",
+    "alt": "Clean exterior window with tree view",
+    "caption": "Clean exterior window with tree view",
+    "description": "Exterior window shown clear and streak-free with trees visible outside."
+  },
+  "location": {
+    "city": null,
+    "neighborhood": null
+  },
+  "pairing": {
+    "pairId": null,
+    "role": null
+  },
+  "tags": [],
+  "needsReview": false,
+  "finalizedAt": "2026-07-30T05:00:55.035Z",
+  "sortOrder": 5
+}

@@ -1,0 +1,280 @@
+{
+  "startedAt": "2026-07-30T03:57:48.075Z",
+  "finalized": [
+    {
+      "id": "1644864caa",
+      "slug": "holiday-light-installation-residential-after--1644864caa",
+      "status": "classified",
+      "confidence": 100
+    },
+    {
+      "id": "1e3c01b28b",
+      "slug": "gutter-cleaning-residential-before--1e3c01b28b",
+      "status": "classified",
+      "confidence": 100
+    },
+    {
+      "id": "277cb74aaa",
+      "slug": "holiday-light-installation-residential-after--277cb74aaa",
+      "status": "classified",
+      "confidence": 100
+    },
+    {
+      "id": "29568b4b9c",
+      "slug": "window-cleaning-residential-after--29568b4b9c",
+      "status": "classified",
+      "confidence": 100
+    },
+    {
+      "id": "2d4b0a8559",
+      "slug": "soft-washing-residential--2d4b0a8559",
+      "status": "classified",
+      "confidence": 100
+    },
+    {
+      "id": "311af1288a",
+      "slug": "holiday-light-installation-residential-after--311af1288a",
+      "status": "classified",
+      "confidence": 100
+    },
+    {
+      "id": "35f3baa829",
+      "slug": "soft-washing-residential--35f3baa829",
+      "status": "classified",
+      "confidence": 100
+    },
+    {
+      "id": "37ac58e638",
+      "slug": "window-cleaning-residential-after--37ac58e638",
+      "status": "classified",
+      "confidence": 100
+    },
+    {
+      "id": "380c1ab61e",
+      "slug": "holiday-light-installation-residential-after--380c1ab61e",
+      "status": "classified",
+      "confidence": 100
+    },
+    {
+      "id": "3c56d15c9b",
+      "slug": "holiday-light-installation-residential-after--3c56d15c9b",
+      "status": "classified",
+      "confidence": 100
+    },
+    {
+      "id": "46d66ee5ba",
+      "slug": "holiday-light-installation-residential-after--46d66ee5ba",
+      "status": "classified",
+      "confidence": 100
+    },
+    {
+      "id": "4ad3166eb2",
+      "slug": "solar-panel-cleaning-residential-after--4ad3166eb2",
+      "status": "classified",
+      "confidence": 100
+    },
+    {
+      "id": "555f8ceaec",
+      "slug": "permanent-lighting-residential-after--555f8ceaec",
+      "status": "classified",
+      "confidence": 100
+    },
+    {
+      "id": "57568a1163",
+      "slug": "holiday-light-installation-residential-after--57568a1163",
+      "status": "classified",
+      "confidence": 100
+    },
+    {
+      "id": "61344fa6d8",
+      "slug": "solar-panel-cleaning-residential-after--61344fa6d8",
+      "status": "classified",
+      "confidence": 100
+    },
+    {
+      "id": "69a69917e3",
+      "slug": "solar-panel-cleaning-residential--69a69917e3",
+      "status": "classified",
+      "confidence": 100
+    },
+    {
+      "id": "6e9b2b8968",
+      "slug": "holiday-light-installation-residential-after--6e9b2b8968",
+      "status": "classified",
+      "confidence": 100
+    },
+    {
+      "id": "780d39e048",
+      "slug": "holiday-light-installation-residential-before--780d39e048",
+      "status": "classified",
+      "confidence": 100
+    },
+    {
+      "id": "7f9510a7ce",
+      "slug": "soft-washing-residential-after--7f9510a7ce",
+      "status": "classified",
+      "confidence": 100
+    },
+    {
+      "id": "817220cb04",
+      "slug": "solar-panel-cleaning-residential-after--817220cb04",
+      "status": "classified",
+      "confidence": 100
+    },
+    {
+      "id": "902f03f025",
+      "slug": "pressure-washing-residential-after--902f03f025",
+      "status": "classified",
+      "confidence": 100
+    },
+    {
+      "id": "95942f1987",
+      "slug": "solar-panel-cleaning-residential-after--95942f1987",
+      "status": "classified",
+      "confidence": 100
+    },
+    {
+      "id": "997fff217a",
+      "slug": "permanent-lighting-residential-after--997fff217a",
+      "status": "classified",
+      "confidence": 100
+    },
+    {
+      "id": "9ac120f055",
+      "slug": "soft-washing-residential-after--9ac120f055",
+      "status": "classified",
+      "confidence": 100
+    },
+    {
+      "id": "9c4b05a6d6",
+      "slug": "holiday-light-installation-residential-after--9c4b05a6d6",
+      "status": "classified",
+      "confidence": 100
+    },
+    {
+      "id": "9f74dfd24d",
+      "slug": "permanent-lighting-residential-after--9f74dfd24d",
+      "status": "classified",
+      "confidence": 100
+    },
+    {
+      "id": "a20ae14689",
+      "slug": "window-cleaning-residential-after--a20ae14689",
+      "status": "classified",
+      "confidence": 100
+    },
+    {
+      "id": "a23c7ff029",
+      "slug": "pressure-washing-residential-before--a23c7ff029",
+      "status": "classified",
+      "confidence": 100
+    },
+    {
+      "id": "aaf549d4dd",
+      "slug": "solar-panel-cleaning-residential-after--aaf549d4dd",
+      "status": "classified",
+      "confidence": 100
+    },
+    {
+      "id": "b47ee9af61",
+      "slug": "pressure-washing-residential--b47ee9af61",
+      "status": "classified",
+      "confidence": 100
+    },
+    {
+      "id": "c1590ca959",
+      "slug": "solar-panel-cleaning-residential-after--c1590ca959",
+      "status": "classified",
+      "confidence": 100
+    },
+    {
+      "id": "c1fa391d8d",
+      "slug": "soft-washing-residential--c1fa391d8d",
+      "status": "classified",
+      "confidence": 100
+    },
+    {
+      "id": "c36ed8af22",
+      "slug": "solar-panel-cleaning-residential-after--c36ed8af22",
+      "status": "classified",
+      "confidence": 100
+    },
+    {
+      "id": "c7be72e228",
+      "slug": "window-cleaning-residential-after--c7be72e228",
+      "status": "classified",
+      "confidence": 100
+    },
+    {
+      "id": "c7e141611e",
+      "slug": "holiday-light-installation-residential-after--c7e141611e",
+      "status": "classified",
+      "confidence": 100
+    },
+    {
+      "id": "cfe1751065",
+      "slug": "holiday-light-installation-residential-after--cfe1751065",
+      "status": "classified",
+      "confidence": 100
+    },
+    {
+      "id": "d6aac40dfc",
+      "slug": "solar-panel-cleaning-residential-after--d6aac40dfc",
+      "status": "classified",
+      "confidence": 100
+    },
+    {
+      "id": "d7c82eb63c",
+      "slug": "pressure-washing-residential-after--d7c82eb63c",
+      "status": "classified",
+      "confidence": 100
+    },
+    {
+      "id": "db0296e892",
+      "slug": "holiday-light-installation-residential-after--db0296e892",
+      "status": "classified",
+      "confidence": 100
+    },
+    {
+      "id": "e366b4af4b",
+      "slug": "permanent-lighting-residential-after--e366b4af4b",
+      "status": "classified",
+      "confidence": 100
+    },
+    {
+      "id": "ed23d8d99d",
+      "slug": "pressure-washing-residential-before--ed23d8d99d",
+      "status": "classified",
+      "confidence": 100
+    },
+    {
+      "id": "f7f1d7eb94",
+      "slug": "soft-washing-residential-before--f7f1d7eb94",
+      "status": "classified",
+      "confidence": 100
+    },
+    {
+      "id": "fda69b1945",
+      "slug": "gutter-cleaning-residential-after--fda69b1945",
+      "status": "classified",
+      "confidence": 100
+    },
+    {
+      "id": "fe2e3e1f38",
+      "slug": "solar-panel-cleaning-residential-before--fe2e3e1f38",
+      "status": "classified",
+      "confidence": 100
+    },
+    {
+      "id": "fe70d9c5b9",
+      "slug": "holiday-light-installation-residential-after--fe70d9c5b9",
+      "status": "classified",
+      "confidence": 100
+    }
+  ],
+  "stillPending": [
+    "26a7b941a6"
+  ],
+  "needsReview": [],
+  "finishedAt": "2026-07-30T03:57:48.354Z"
+}

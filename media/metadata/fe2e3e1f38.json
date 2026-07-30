@@ -1,0 +1,58 @@
+{
+  "id": "fe2e3e1f38",
+  "originalFilename": "IMG_6037.JPG",
+  "sha256": "fe2e3e1f382696bd878c333c17a1e599f6187735c0c2d389e3d85785df055065",
+  "ingestedAt": "2026-07-30T03:09:56.920Z",
+  "captureDate": "2026-07-15T19:28:28.000Z",
+  "dimensions": {
+    "width": 4032,
+    "height": 3024
+  },
+  "paths": {
+    "original": "media/processed/originals/fe2e3e1f38.jpg",
+    "optimized": "media/optimized/solar-panel-cleaning-residential--fe2e3e1f38.webp",
+    "optimizedAvif": "media/optimized/solar-panel-cleaning-residential--fe2e3e1f38.avif",
+    "responsive": {
+      "400": "media/optimized/solar-panel-cleaning-residential--fe2e3e1f38-400.webp",
+      "800": "media/optimized/solar-panel-cleaning-residential--fe2e3e1f38-800.webp",
+      "1200": "media/optimized/solar-panel-cleaning-residential--fe2e3e1f38-1200.webp",
+      "1600": "media/optimized/solar-panel-cleaning-residential--fe2e3e1f38-1600.webp"
+    },
+    "thumbnail": "media/thumbnails/solar-panel-cleaning-residential--fe2e3e1f38.webp"
+  },
+  "blurPlaceholder": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAADwBACdASoYACAAPu1urlKppiQiqAgBMB2JZQC/7BBfwH6gEHis2QQsFfHpaxU4iAAA/s73qNhgj0TZgVNIABXIpKkwUfKx/hrhDPh5kaHlae/evx5ijG2Qe9vdv9U62oEwes522vt9sFz6HCYObiR2vmKVpv2nBZWuCXRVfpYYnIB0TBbFevnAuMBmSQqwx+OvO++NBXcJzqHUODy6tLsfz+KgDYfFCT7WuofApznxOCsL4YBkcguQDqFiMZmKAAA=",
+  "status": "classified",
+  "classification": {
+    "service": "solar-panel-cleaning",
+    "surfaceType": null,
+    "buildingType": null,
+    "propertyType": "residential",
+    "beforeAfter": "before",
+    "cleaningMethod": null,
+    "equipmentVisible": [],
+    "qualityScore": 0.85,
+    "sharpness": null,
+    "suitableForMarketing": true,
+    "confidence": 100
+  },
+  "seo": {
+    "filename": "solar-panel-cleaning-residential--fe2e3e1f38.webp",
+    "title": "Dusty solar panel before cleaning",
+    "alt": "Dusty solar panel before cleaning",
+    "caption": "Dusty solar panel before cleaning",
+    "description": "Solar panel shown covered in dust and residue prior to professional cleaning."
+  },
+  "location": {
+    "city": null,
+    "neighborhood": null
+  },
+  "pairing": {
+    "pairId": null,
+    "role": null
+  },
+  "tags": [],
+  "needsReview": false,
+  "finalizedAt": "2026-07-30T03:58:13.882Z",
+  "perceptualHash": "b1010ef68723b3df",
+  "sortOrder": 3
+}

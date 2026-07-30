@@ -1,0 +1,58 @@
+{
+  "id": "c7be72e228",
+  "originalFilename": "IMG_4269.HEIC",
+  "sha256": "c7be72e22895f3646c308edfe899f2beaf40e54cddfc5da8a23a476b54ad258b",
+  "ingestedAt": "2026-07-30T03:08:49.480Z",
+  "captureDate": "2025-07-31T23:11:52.000Z",
+  "dimensions": {
+    "width": 3024,
+    "height": 4032
+  },
+  "paths": {
+    "original": "media/processed/originals/c7be72e228.heic",
+    "optimized": "media/optimized/window-cleaning-residential--c7be72e228.webp",
+    "optimizedAvif": "media/optimized/window-cleaning-residential--c7be72e228.avif",
+    "responsive": {
+      "400": "media/optimized/window-cleaning-residential--c7be72e228-400.webp",
+      "800": "media/optimized/window-cleaning-residential--c7be72e228-800.webp",
+      "1200": "media/optimized/window-cleaning-residential--c7be72e228-1200.webp",
+      "1600": "media/optimized/window-cleaning-residential--c7be72e228-1600.webp"
+    },
+    "thumbnail": "media/thumbnails/window-cleaning-residential--c7be72e228.webp"
+  },
+  "blurPlaceholder": "data:image/webp;base64,UklGRiABAABXRUJQVlA4IBQBAAAwBgCdASoYACAAPu1qrVCppaQiqAqpMB2JQBjQAUPoCVA98gx59thYYFHjTyIl6VQLabHGk2+7EBVgAPzoGLVeTidohscs/uNO6f2yNVtNZPOFHsXcygld+ky7vPl/VxhWNJ+LDQtfuIR83NuDhg7jJcMiffuvMVOtKvoivdEqeBYaevE5vC4Id3gYtU02fUjkKcuu4AgsoT/yN6R7mQpMWrqbtGsTBdnsPv6XxPUSYQgZVwtlIhgcnt63dheQDw5p8PiZLIC+oJQFddnnV74F90pxh0v27h3w8uJ6DMqBQBR2v/IxVg0DepnQUgzAHZvc75ah/uNUATHXdcS8PJ7sZifkGPoSg8w1kgdOqb4ky+6AAAA=",
+  "status": "classified",
+  "classification": {
+    "service": "window-cleaning",
+    "surfaceType": null,
+    "buildingType": null,
+    "propertyType": "residential",
+    "beforeAfter": "after",
+    "cleaningMethod": null,
+    "equipmentVisible": [],
+    "qualityScore": 0.85,
+    "sharpness": null,
+    "suitableForMarketing": true,
+    "confidence": 100
+  },
+  "seo": {
+    "filename": "window-cleaning-residential--c7be72e228.webp",
+    "title": "Clean exterior window with sky reflection",
+    "alt": "Clean exterior window with sky reflection",
+    "caption": "Clean exterior window with sky reflection",
+    "description": "Exterior window shown clear and streak-free after professional cleaning."
+  },
+  "location": {
+    "city": null,
+    "neighborhood": null
+  },
+  "pairing": {
+    "pairId": null,
+    "role": null
+  },
+  "tags": [],
+  "needsReview": false,
+  "finalizedAt": "2026-07-30T03:58:13.808Z",
+  "perceptualHash": "c8d4fabb190c0dbc",
+  "sortOrder": 8
+}

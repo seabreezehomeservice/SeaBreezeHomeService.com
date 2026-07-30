@@ -1,0 +1,58 @@
+{
+  "id": "ed23d8d99d",
+  "originalFilename": "IMG_6022.JPG",
+  "sha256": "ed23d8d99d03bd52d1a89dd6b7f5a898bd3583b55da1243124eb3652006595d3",
+  "ingestedAt": "2026-07-30T03:09:54.054Z",
+  "captureDate": "2026-07-14T23:35:28.000Z",
+  "dimensions": {
+    "width": 4032,
+    "height": 3024
+  },
+  "paths": {
+    "original": "media/processed/originals/ed23d8d99d.jpg",
+    "optimized": "media/optimized/pressure-washing-residential--ed23d8d99d.webp",
+    "optimizedAvif": "media/optimized/pressure-washing-residential--ed23d8d99d.avif",
+    "responsive": {
+      "400": "media/optimized/pressure-washing-residential--ed23d8d99d-400.webp",
+      "800": "media/optimized/pressure-washing-residential--ed23d8d99d-800.webp",
+      "1200": "media/optimized/pressure-washing-residential--ed23d8d99d-1200.webp",
+      "1600": "media/optimized/pressure-washing-residential--ed23d8d99d-1600.webp"
+    },
+    "thumbnail": "media/thumbnails/pressure-washing-residential--ed23d8d99d.webp"
+  },
+  "blurPlaceholder": "data:image/webp;base64,UklGRvIAAABXRUJQVlA4IOYAAADQBQCdASoYACAAPu1sqVGppaOiqAqpMB2JZgCw7GlgCHNslsR8yFqA3DapJ+/j9a2zBadtYf4gAP7nFuH3ADOOYmn/LwsfM/xEPJRI4ZPTAd6GntMY8yCxRfA7QcrS9xjVAL3LXVIpBg2CDsvHkJwcrbFyZv5mG57B42ZdevxFdb8srXZfF6P1QUxaRjqcKDmlpkTZysMMvjtMW4YqC4gpygkY6YvdN2TL2dtHwTnrWpj3u1h+wQWpMR/uZtz53yamk82zu3Yen6/+vIMrP99T/I4LOTB/B5lTeByjgGYftatSxGeQAA==",
+  "status": "classified",
+  "classification": {
+    "service": "pressure-washing",
+    "surfaceType": null,
+    "buildingType": null,
+    "propertyType": "residential",
+    "beforeAfter": "before",
+    "cleaningMethod": null,
+    "equipmentVisible": [],
+    "qualityScore": 0.85,
+    "sharpness": null,
+    "suitableForMarketing": true,
+    "confidence": 100
+  },
+  "seo": {
+    "filename": "pressure-washing-residential--ed23d8d99d.webp",
+    "title": "Dirty concrete surface with SeaBreeze written in the grime",
+    "alt": "Dirty concrete surface with SeaBreeze written in the grime",
+    "caption": "Dirty concrete surface with SeaBreeze written in the grime",
+    "description": "\"Seabreeze\" written into the dirt on an unwashed concrete surface, demonstrating the surface grime before pressure washing."
+  },
+  "location": {
+    "city": null,
+    "neighborhood": null
+  },
+  "pairing": {
+    "pairId": null,
+    "role": null
+  },
+  "tags": [],
+  "needsReview": false,
+  "finalizedAt": "2026-07-30T03:58:13.861Z",
+  "perceptualHash": "5f7f9c1ebaf76ae8",
+  "sortOrder": 12
+}

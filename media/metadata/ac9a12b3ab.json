@@ -1,0 +1,56 @@
+{
+  "id": "ac9a12b3ab",
+  "originalFilename": "Screenshot 2026-07-29 213504.jpg",
+  "sourceFolder": "Pressure Washing",
+  "sha256": "ac9a12b3ab6c64fb42832997881aa28f2bfff95904f99b1f70562b73e07d1126",
+  "ingestedAt": "2026-07-30T04:44:21.066Z",
+  "captureDate": null,
+  "dimensions": {
+    "width": 449,
+    "height": 629
+  },
+  "perceptualHash": "3c1f3d5bcfcd4e59",
+  "paths": {
+    "original": "media/processed/originals/ac9a12b3ab.jpg",
+    "optimized": "media/optimized/pressure-washing--ac9a12b3ab.webp",
+    "optimizedAvif": "media/optimized/pressure-washing--ac9a12b3ab.avif",
+    "responsive": {
+      "400": "media/optimized/pressure-washing--ac9a12b3ab-400.webp"
+    },
+    "thumbnail": "media/thumbnails/pressure-washing--ac9a12b3ab.webp"
+  },
+  "blurPlaceholder": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAAAQBgCdASoYACEAPu1grk+ppSQiKrgMATAdiWUAyFwIkYnl/MvAr4jTOL5ubf1Wjr/mKPdm2aDBFwAA/nxzKIIvXk4P1hdAcDcj8oNZiw9F+b4WeuPz/ynfLQsp+JacCwcnQi1p/p0yagpr0/4pz/6TAAtRupMqJ07jkJE+VePZ/uhmUQEJH2mEbNH3t2MdodHwfmjzgMChkRomU7epcDnXDAfE/IVw1UHPmCT3ee+LPJxlgAA=",
+  "status": "needs_review",
+  "classification": {
+    "service": "pressure-washing",
+    "surfaceType": null,
+    "buildingType": null,
+    "propertyType": null,
+    "beforeAfter": "after",
+    "cleaningMethod": null,
+    "equipmentVisible": [],
+    "qualityScore": 0.85,
+    "sharpness": null,
+    "suitableForMarketing": true,
+    "confidence": 75
+  },
+  "seo": {
+    "filename": "pressure-washing--ac9a12b3ab.webp",
+    "title": "Wet sidewalk after pressure washing",
+    "alt": "Wet sidewalk after pressure washing",
+    "caption": "Wet sidewalk after pressure washing",
+    "description": "Concrete sidewalk shown wet and mostly clean after pressure washing."
+  },
+  "location": {
+    "city": null,
+    "neighborhood": null
+  },
+  "pairing": {
+    "pairId": null,
+    "role": null
+  },
+  "tags": [],
+  "needsReview": true,
+  "finalizedAt": "2026-07-30T04:45:23.629Z",
+  "sortOrder": 10
+}

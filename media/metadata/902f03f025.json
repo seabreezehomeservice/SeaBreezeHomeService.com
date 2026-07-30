@@ -1,0 +1,56 @@
+{
+  "id": "902f03f025",
+  "originalFilename": "IMG_5812.PNG",
+  "sha256": "902f03f0257ffad3090cff78c1f82a80d65b5a0abe430b69450b0391038d012f",
+  "ingestedAt": "2026-07-30T03:09:37.423Z",
+  "captureDate": "2026-05-28T05:07:17.000Z",
+  "dimensions": {
+    "width": 1170,
+    "height": 2532
+  },
+  "paths": {
+    "original": "media/processed/originals/902f03f025.png",
+    "optimized": "media/optimized/pressure-washing-residential--902f03f025.webp",
+    "optimizedAvif": "media/optimized/pressure-washing-residential--902f03f025.avif",
+    "responsive": {
+      "400": "media/optimized/pressure-washing-residential--902f03f025-400.webp",
+      "800": "media/optimized/pressure-washing-residential--902f03f025-800.webp"
+    },
+    "thumbnail": "media/thumbnails/pressure-washing-residential--902f03f025.webp"
+  },
+  "blurPlaceholder": "data:image/webp;base64,UklGRtYAAABXRUJQVlA4IMoAAAAQBwCdASoYADQAPt1epE2opaOiN/gIARAbiWcA0BhOZ3K1a6/OPg2cl8n/W/BZOQQBwV7+chA1Ip+4yr5Rp1ztzAD++Q5aY75Cm8fp+cvULxnvqOwc0iiiXgmTmqeM5QwYdj7Xj/WBoc2F/fiX6ccW6NGskPNHTSdZWQ2FGX8xVy1Vvrn8rDc4pFS3y1wD2Cb1Tf6SJSH17fOfR7jgJ5kir1Rh0jKqxfqoGHpBuQSiU6h+d/i8emWdfxvSHugWAcWH/mDzm8Bb4QAA",
+  "status": "classified",
+  "classification": {
+    "service": "pressure-washing",
+    "surfaceType": null,
+    "buildingType": null,
+    "propertyType": "residential",
+    "beforeAfter": "after",
+    "cleaningMethod": null,
+    "equipmentVisible": [],
+    "qualityScore": 0.85,
+    "sharpness": null,
+    "suitableForMarketing": true,
+    "confidence": 100
+  },
+  "seo": {
+    "filename": "pressure-washing-residential--902f03f025.webp",
+    "title": "Clean concrete sidewalk after pressure washing",
+    "alt": "Clean concrete sidewalk after pressure washing",
+    "caption": "Clean concrete sidewalk after pressure washing",
+    "description": "Concrete sidewalk shown clean and uniform after pressure washing."
+  },
+  "location": {
+    "city": null,
+    "neighborhood": null
+  },
+  "pairing": {
+    "pairId": null,
+    "role": null
+  },
+  "tags": [],
+  "needsReview": false,
+  "finalizedAt": "2026-07-30T03:58:13.718Z",
+  "perceptualHash": "181f3f1f47676065",
+  "sortOrder": 11
+}

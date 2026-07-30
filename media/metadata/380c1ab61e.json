@@ -1,0 +1,58 @@
+{
+  "id": "380c1ab61e",
+  "originalFilename": "IMG_4815.JPG",
+  "sha256": "380c1ab61e24af878066d83a30fe9b2217c245f3fc02b6515f7f7f5ade9013bc",
+  "ingestedAt": "2026-07-30T03:09:14.230Z",
+  "captureDate": "2025-11-13T03:55:29.000Z",
+  "dimensions": {
+    "width": 4032,
+    "height": 3024
+  },
+  "paths": {
+    "original": "media/processed/originals/380c1ab61e.jpg",
+    "optimized": "media/optimized/holiday-light-installation-residential--380c1ab61e.webp",
+    "optimizedAvif": "media/optimized/holiday-light-installation-residential--380c1ab61e.avif",
+    "responsive": {
+      "400": "media/optimized/holiday-light-installation-residential--380c1ab61e-400.webp",
+      "800": "media/optimized/holiday-light-installation-residential--380c1ab61e-800.webp",
+      "1200": "media/optimized/holiday-light-installation-residential--380c1ab61e-1200.webp",
+      "1600": "media/optimized/holiday-light-installation-residential--380c1ab61e-1600.webp"
+    },
+    "thumbnail": "media/thumbnails/holiday-light-installation-residential--380c1ab61e.webp"
+  },
+  "blurPlaceholder": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAACQBACdASoYACAAPulcqE2pJKOiN/VYASAdCUAAF31nAnI4UPpFQTQH6SRJ6AAA/vkKaJTZIp4BSqt8w4bBGSjD/3MfbyMvGSXQyPG5KP2UTT1ffWI2ePXy6dlOpJfQ2l7JjD1K/JbAmFVsRIVxrOk44Maf/vAA",
+  "status": "classified",
+  "classification": {
+    "service": "holiday-light-installation",
+    "surfaceType": null,
+    "buildingType": null,
+    "propertyType": "residential",
+    "beforeAfter": "after",
+    "cleaningMethod": null,
+    "equipmentVisible": [],
+    "qualityScore": 0.85,
+    "sharpness": null,
+    "suitableForMarketing": true,
+    "confidence": 100
+  },
+  "seo": {
+    "filename": "holiday-light-installation-residential--380c1ab61e.webp",
+    "title": "Warm white holiday roofline lighting",
+    "alt": "Warm white holiday roofline lighting",
+    "caption": "Warm white holiday roofline lighting",
+    "description": "Warm white holiday string lights installed along the roofline of a two-story home."
+  },
+  "location": {
+    "city": null,
+    "neighborhood": null
+  },
+  "pairing": {
+    "pairId": null,
+    "role": null
+  },
+  "tags": [],
+  "needsReview": false,
+  "finalizedAt": "2026-07-30T03:58:13.631Z",
+  "perceptualHash": "0044b43f630b8a0d",
+  "sortOrder": 12
+}

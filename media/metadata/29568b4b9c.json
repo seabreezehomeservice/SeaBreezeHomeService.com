@@ -1,0 +1,58 @@
+{
+  "id": "29568b4b9c",
+  "originalFilename": "IMG_4267.HEIC",
+  "sha256": "29568b4b9cabb2b1e13548a5f2cbdc341f2c03c1a63841195aeb752b33e5681a",
+  "ingestedAt": "2026-07-30T03:08:46.937Z",
+  "captureDate": "2025-07-31T22:06:47.000Z",
+  "dimensions": {
+    "width": 3024,
+    "height": 4032
+  },
+  "paths": {
+    "original": "media/processed/originals/29568b4b9c.heic",
+    "optimized": "media/optimized/window-cleaning-residential--29568b4b9c.webp",
+    "optimizedAvif": "media/optimized/window-cleaning-residential--29568b4b9c.avif",
+    "responsive": {
+      "400": "media/optimized/window-cleaning-residential--29568b4b9c-400.webp",
+      "800": "media/optimized/window-cleaning-residential--29568b4b9c-800.webp",
+      "1200": "media/optimized/window-cleaning-residential--29568b4b9c-1200.webp",
+      "1600": "media/optimized/window-cleaning-residential--29568b4b9c-1600.webp"
+    },
+    "thumbnail": "media/thumbnails/window-cleaning-residential--29568b4b9c.webp"
+  },
+  "blurPlaceholder": "data:image/webp;base64,UklGRuYAAABXRUJQVlA4INoAAAAQBgCdASoYACAAPu1qq1EppaOiqAqpMB2JZwDA4Angq79ENxvXXgG3YRUlQ3L7m+0Js9R8NcvC6wAA/mvRlITP31m2ws1mlVBGpKAuofDzFyI7yzB/wOkce7s16rDuIcR/QkNct0jJE1ayhcX0YTmKQnaN0D2PTgZKUn44Z6CTTNsqhfuNaI/UWUL6hAa50SKOSnNd4yFrUHCYeiXw3QExU+DxxlQv1hbMB84R3cRrD5yTPXsaHs0CzUAjNRNszwpSkG8qjR7jgaHcFZZDVvyvnlXMwOcxsX6AAA==",
+  "status": "classified",
+  "classification": {
+    "service": "window-cleaning",
+    "surfaceType": null,
+    "buildingType": null,
+    "propertyType": "residential",
+    "beforeAfter": "after",
+    "cleaningMethod": null,
+    "equipmentVisible": [],
+    "qualityScore": 0.85,
+    "sharpness": null,
+    "suitableForMarketing": true,
+    "confidence": 100
+  },
+  "seo": {
+    "filename": "window-cleaning-residential--29568b4b9c.webp",
+    "title": "Clean exterior window close-up",
+    "alt": "Clean exterior window close-up",
+    "caption": "Clean exterior window close-up",
+    "description": "Close-up of a streak-free residential window after exterior window cleaning."
+  },
+  "location": {
+    "city": null,
+    "neighborhood": null
+  },
+  "pairing": {
+    "pairId": null,
+    "role": null
+  },
+  "tags": [],
+  "needsReview": false,
+  "finalizedAt": "2026-07-30T03:58:13.597Z",
+  "perceptualHash": "789f860a010505ff",
+  "sortOrder": 7
+}

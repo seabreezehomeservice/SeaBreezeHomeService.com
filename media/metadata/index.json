@@ -1,0 +1,532 @@
+[
+  {
+    "id": "1644864caa",
+    "status": "classified",
+    "service": "permanent-lighting",
+    "beforeAfter": "after",
+    "city": null,
+    "thumbnail": "media/thumbnails/permanent-lighting-residential--1644864caa.webp",
+    "seoFilename": "permanent-lighting-residential--1644864caa.webp",
+    "ingestedAt": "2026-07-30T03:09:25.803Z"
+  },
+  {
+    "id": "198917e488",
+    "status": "classified",
+    "service": "window-cleaning",
+    "beforeAfter": "after",
+    "city": null,
+    "thumbnail": "media/thumbnails/window-cleaning--198917e488.webp",
+    "seoFilename": "window-cleaning--198917e488.webp",
+    "ingestedAt": "2026-07-30T04:44:31.248Z"
+  },
+  {
+    "id": "1e3c01b28b",
+    "status": "classified",
+    "service": "gutter-cleaning",
+    "beforeAfter": "before",
+    "city": null,
+    "thumbnail": "media/thumbnails/gutter-cleaning-residential--1e3c01b28b.webp",
+    "seoFilename": "gutter-cleaning-residential--1e3c01b28b.webp",
+    "ingestedAt": "2026-07-30T03:09:38.887Z"
+  },
+  {
+    "id": "26a7b941a6",
+    "status": "removed",
+    "service": null,
+    "beforeAfter": null,
+    "city": null,
+    "thumbnail": "media/thumbnails/26a7b941a6.webp",
+    "seoFilename": null,
+    "ingestedAt": "2026-07-30T03:09:31.857Z"
+  },
+  {
+    "id": "277cb74aaa",
+    "status": "classified",
+    "service": "holiday-light-installation",
+    "beforeAfter": "after",
+    "city": null,
+    "thumbnail": "media/thumbnails/holiday-light-installation-residential--277cb74aaa.webp",
+    "seoFilename": "holiday-light-installation-residential--277cb74aaa.webp",
+    "ingestedAt": "2026-07-30T03:09:19.145Z"
+  },
+  {
+    "id": "29568b4b9c",
+    "status": "classified",
+    "service": "window-cleaning",
+    "beforeAfter": "after",
+    "city": null,
+    "thumbnail": "media/thumbnails/window-cleaning-residential--29568b4b9c.webp",
+    "seoFilename": "window-cleaning-residential--29568b4b9c.webp",
+    "ingestedAt": "2026-07-30T03:08:46.937Z"
+  },
+  {
+    "id": "2d4b0a8559",
+    "status": "classified",
+    "service": "pressure-washing",
+    "beforeAfter": null,
+    "city": null,
+    "thumbnail": "media/thumbnails/pressure-washing-residential--2d4b0a8559.webp",
+    "seoFilename": "pressure-washing-residential--2d4b0a8559.webp",
+    "ingestedAt": "2026-07-30T03:09:42.505Z"
+  },
+  {
+    "id": "311af1288a",
+    "status": "classified",
+    "service": "holiday-light-installation",
+    "beforeAfter": "after",
+    "city": null,
+    "thumbnail": "media/thumbnails/holiday-light-installation-residential--311af1288a.webp",
+    "seoFilename": "holiday-light-installation-residential--311af1288a.webp",
+    "ingestedAt": "2026-07-30T03:09:10.256Z"
+  },
+  {
+    "id": "35f3baa829",
+    "status": "classified",
+    "service": "pressure-washing",
+    "beforeAfter": null,
+    "city": null,
+    "thumbnail": "media/thumbnails/pressure-washing-residential--35f3baa829.webp",
+    "seoFilename": "pressure-washing-residential--35f3baa829.webp",
+    "ingestedAt": "2026-07-30T03:09:41.917Z"
+  },
+  {
+    "id": "37ac58e638",
+    "status": "classified",
+    "service": "window-cleaning",
+    "beforeAfter": "after",
+    "city": null,
+    "thumbnail": "media/thumbnails/window-cleaning-residential--37ac58e638.webp",
+    "seoFilename": "window-cleaning-residential--37ac58e638.webp",
+    "ingestedAt": "2026-07-30T03:09:33.457Z"
+  },
+  {
+    "id": "380c1ab61e",
+    "status": "classified",
+    "service": "holiday-light-installation",
+    "beforeAfter": "after",
+    "city": null,
+    "thumbnail": "media/thumbnails/holiday-light-installation-residential--380c1ab61e.webp",
+    "seoFilename": "holiday-light-installation-residential--380c1ab61e.webp",
+    "ingestedAt": "2026-07-30T03:09:14.230Z"
+  },
+  {
+    "id": "3c56d15c9b",
+    "status": "classified",
+    "service": "holiday-light-installation",
+    "beforeAfter": "after",
+    "city": null,
+    "thumbnail": "media/thumbnails/holiday-light-installation-residential--3c56d15c9b.webp",
+    "seoFilename": "holiday-light-installation-residential--3c56d15c9b.webp",
+    "ingestedAt": "2026-07-30T03:09:12.325Z"
+  },
+  {
+    "id": "46d66ee5ba",
+    "status": "classified",
+    "service": "permanent-lighting",
+    "beforeAfter": "after",
+    "city": null,
+    "thumbnail": "media/thumbnails/permanent-lighting-residential--46d66ee5ba.webp",
+    "seoFilename": "permanent-lighting-residential--46d66ee5ba.webp",
+    "ingestedAt": "2026-07-30T03:08:44.345Z"
+  },
+  {
+    "id": "4ad3166eb2",
+    "status": "classified",
+    "service": "solar-panel-cleaning",
+    "beforeAfter": "after",
+    "city": null,
+    "thumbnail": "media/thumbnails/solar-panel-cleaning-residential--4ad3166eb2.webp",
+    "seoFilename": "solar-panel-cleaning-residential--4ad3166eb2.webp",
+    "ingestedAt": "2026-07-30T03:10:11.841Z"
+  },
+  {
+    "id": "555f8ceaec",
+    "status": "classified",
+    "service": "permanent-lighting",
+    "beforeAfter": "after",
+    "city": null,
+    "thumbnail": "media/thumbnails/permanent-lighting-residential--555f8ceaec.webp",
+    "seoFilename": "permanent-lighting-residential--555f8ceaec.webp",
+    "ingestedAt": "2026-07-30T03:09:03.965Z"
+  },
+  {
+    "id": "57568a1163",
+    "status": "classified",
+    "service": "holiday-light-installation",
+    "beforeAfter": "after",
+    "city": null,
+    "thumbnail": "media/thumbnails/holiday-light-installation-residential--57568a1163.webp",
+    "seoFilename": "holiday-light-installation-residential--57568a1163.webp",
+    "ingestedAt": "2026-07-30T03:08:59.495Z"
+  },
+  {
+    "id": "61344fa6d8",
+    "status": "classified",
+    "service": "solar-panel-cleaning",
+    "beforeAfter": "after",
+    "city": null,
+    "thumbnail": "media/thumbnails/solar-panel-cleaning-residential--61344fa6d8.webp",
+    "seoFilename": "solar-panel-cleaning-residential--61344fa6d8.webp",
+    "ingestedAt": "2026-07-30T03:10:18.032Z"
+  },
+  {
+    "id": "69a69917e3",
+    "status": "classified",
+    "service": "solar-panel-cleaning",
+    "beforeAfter": null,
+    "city": null,
+    "thumbnail": "media/thumbnails/solar-panel-cleaning-residential--69a69917e3.webp",
+    "seoFilename": "solar-panel-cleaning-residential--69a69917e3.webp",
+    "ingestedAt": "2026-07-30T03:09:59.775Z"
+  },
+  {
+    "id": "6e9b2b8968",
+    "status": "classified",
+    "service": "holiday-light-installation",
+    "beforeAfter": "after",
+    "city": null,
+    "thumbnail": "media/thumbnails/holiday-light-installation-residential--6e9b2b8968.webp",
+    "seoFilename": "holiday-light-installation-residential--6e9b2b8968.webp",
+    "ingestedAt": "2026-07-30T03:09:08.295Z"
+  },
+  {
+    "id": "780d39e048",
+    "status": "classified",
+    "service": "holiday-light-installation",
+    "beforeAfter": "before",
+    "city": null,
+    "thumbnail": "media/thumbnails/holiday-light-installation-residential--780d39e048.webp",
+    "seoFilename": "holiday-light-installation-residential--780d39e048.webp",
+    "ingestedAt": "2026-07-30T03:09:21.715Z"
+  },
+  {
+    "id": "7f9510a7ce",
+    "status": "classified",
+    "service": "pressure-washing",
+    "beforeAfter": "after",
+    "city": null,
+    "thumbnail": "media/thumbnails/pressure-washing-residential--7f9510a7ce.webp",
+    "seoFilename": "pressure-washing-residential--7f9510a7ce.webp",
+    "ingestedAt": "2026-07-30T03:09:44.299Z"
+  },
+  {
+    "id": "817220cb04",
+    "status": "classified",
+    "service": "solar-panel-cleaning",
+    "beforeAfter": "after",
+    "city": null,
+    "thumbnail": "media/thumbnails/solar-panel-cleaning-residential--817220cb04.webp",
+    "seoFilename": "solar-panel-cleaning-residential--817220cb04.webp",
+    "ingestedAt": "2026-07-30T03:10:08.683Z"
+  },
+  {
+    "id": "8404bf0279",
+    "status": "classified",
+    "service": "window-cleaning",
+    "beforeAfter": null,
+    "city": null,
+    "thumbnail": "media/thumbnails/window-cleaning--8404bf0279.webp",
+    "seoFilename": "window-cleaning--8404bf0279.webp",
+    "ingestedAt": "2026-07-30T04:44:28.488Z"
+  },
+  {
+    "id": "902f03f025",
+    "status": "classified",
+    "service": "pressure-washing",
+    "beforeAfter": "after",
+    "city": null,
+    "thumbnail": "media/thumbnails/pressure-washing-residential--902f03f025.webp",
+    "seoFilename": "pressure-washing-residential--902f03f025.webp",
+    "ingestedAt": "2026-07-30T03:09:37.423Z"
+  },
+  {
+    "id": "9476aa363f",
+    "status": "classified",
+    "service": "window-cleaning",
+    "beforeAfter": "after",
+    "city": null,
+    "thumbnail": "media/thumbnails/window-cleaning--9476aa363f.webp",
+    "seoFilename": "window-cleaning--9476aa363f.webp",
+    "ingestedAt": "2026-07-30T04:44:25.397Z"
+  },
+  {
+    "id": "95942f1987",
+    "status": "classified",
+    "service": "solar-panel-cleaning",
+    "beforeAfter": "after",
+    "city": null,
+    "thumbnail": "media/thumbnails/solar-panel-cleaning-residential--95942f1987.webp",
+    "seoFilename": "solar-panel-cleaning-residential--95942f1987.webp",
+    "ingestedAt": "2026-07-30T03:09:27.937Z"
+  },
+  {
+    "id": "997fff217a",
+    "status": "classified",
+    "service": "permanent-lighting",
+    "beforeAfter": "after",
+    "city": null,
+    "thumbnail": "media/thumbnails/permanent-lighting-residential--997fff217a.webp",
+    "seoFilename": "permanent-lighting-residential--997fff217a.webp",
+    "ingestedAt": "2026-07-30T03:08:42.000Z"
+  },
+  {
+    "id": "9ac120f055",
+    "status": "classified",
+    "service": "pressure-washing",
+    "beforeAfter": "after",
+    "city": null,
+    "thumbnail": "media/thumbnails/pressure-washing-residential--9ac120f055.webp",
+    "seoFilename": "pressure-washing-residential--9ac120f055.webp",
+    "ingestedAt": "2026-07-30T03:09:45.287Z"
+  },
+  {
+    "id": "9c4b05a6d6",
+    "status": "classified",
+    "service": "holiday-light-installation",
+    "beforeAfter": "after",
+    "city": null,
+    "thumbnail": "media/thumbnails/holiday-light-installation-residential--9c4b05a6d6.webp",
+    "seoFilename": "holiday-light-installation-residential--9c4b05a6d6.webp",
+    "ingestedAt": "2026-07-30T03:09:18.695Z"
+  },
+  {
+    "id": "9f74dfd24d",
+    "status": "classified",
+    "service": "permanent-lighting",
+    "beforeAfter": "after",
+    "city": null,
+    "thumbnail": "media/thumbnails/permanent-lighting-residential--9f74dfd24d.webp",
+    "seoFilename": "permanent-lighting-residential--9f74dfd24d.webp",
+    "ingestedAt": "2026-07-30T03:08:56.696Z"
+  },
+  {
+    "id": "a20ae14689",
+    "status": "classified",
+    "service": "window-cleaning",
+    "beforeAfter": "after",
+    "city": null,
+    "thumbnail": "media/thumbnails/window-cleaning-residential--a20ae14689.webp",
+    "seoFilename": "window-cleaning-residential--a20ae14689.webp",
+    "ingestedAt": "2026-07-30T03:09:35.000Z"
+  },
+  {
+    "id": "a23c7ff029",
+    "status": "classified",
+    "service": "pressure-washing",
+    "beforeAfter": "before",
+    "city": null,
+    "thumbnail": "media/thumbnails/pressure-washing-residential--a23c7ff029.webp",
+    "seoFilename": "pressure-washing-residential--a23c7ff029.webp",
+    "ingestedAt": "2026-07-30T03:10:02.939Z"
+  },
+  {
+    "id": "aaf549d4dd",
+    "status": "classified",
+    "service": "solar-panel-cleaning",
+    "beforeAfter": "after",
+    "city": null,
+    "thumbnail": "media/thumbnails/solar-panel-cleaning-residential--aaf549d4dd.webp",
+    "seoFilename": "solar-panel-cleaning-residential--aaf549d4dd.webp",
+    "ingestedAt": "2026-07-30T03:08:54.305Z"
+  },
+  {
+    "id": "ac9a12b3ab",
+    "status": "needs_review",
+    "service": "pressure-washing",
+    "beforeAfter": "after",
+    "city": null,
+    "thumbnail": "media/thumbnails/pressure-washing--ac9a12b3ab.webp",
+    "seoFilename": "pressure-washing--ac9a12b3ab.webp",
+    "ingestedAt": "2026-07-30T04:44:21.066Z"
+  },
+  {
+    "id": "b3cb338e94",
+    "status": "classified",
+    "service": "pressure-washing",
+    "beforeAfter": "before",
+    "city": null,
+    "thumbnail": "media/thumbnails/pressure-washing--b3cb338e94.webp",
+    "seoFilename": "pressure-washing--b3cb338e94.webp",
+    "ingestedAt": "2026-07-30T04:44:19.744Z"
+  },
+  {
+    "id": "b47ee9af61",
+    "status": "removed",
+    "service": "pressure-washing",
+    "beforeAfter": null,
+    "city": null,
+    "thumbnail": "media/thumbnails/pressure-washing-residential--b47ee9af61.webp",
+    "seoFilename": "pressure-washing-residential--b47ee9af61.webp",
+    "ingestedAt": "2026-07-30T03:09:36.551Z"
+  },
+  {
+    "id": "c1590ca959",
+    "status": "classified",
+    "service": "solar-panel-cleaning",
+    "beforeAfter": "after",
+    "city": null,
+    "thumbnail": "media/thumbnails/solar-panel-cleaning-residential--c1590ca959.webp",
+    "seoFilename": "solar-panel-cleaning-residential--c1590ca959.webp",
+    "ingestedAt": "2026-07-30T03:10:14.940Z"
+  },
+  {
+    "id": "c1fa391d8d",
+    "status": "classified",
+    "service": "solar-panel-cleaning",
+    "beforeAfter": null,
+    "city": null,
+    "thumbnail": "media/thumbnails/solar-panel-cleaning-residential--c1fa391d8d.webp",
+    "seoFilename": "solar-panel-cleaning-residential--c1fa391d8d.webp",
+    "ingestedAt": "2026-07-30T03:08:51.872Z"
+  },
+  {
+    "id": "c271448f00",
+    "status": "classified",
+    "service": "pressure-washing",
+    "beforeAfter": "after",
+    "city": null,
+    "thumbnail": "media/thumbnails/pressure-washing--c271448f00.webp",
+    "seoFilename": "pressure-washing--c271448f00.webp",
+    "ingestedAt": "2026-07-30T04:44:20.887Z"
+  },
+  {
+    "id": "c36ed8af22",
+    "status": "classified",
+    "service": "solar-panel-cleaning",
+    "beforeAfter": "after",
+    "city": null,
+    "thumbnail": "media/thumbnails/solar-panel-cleaning-residential--c36ed8af22.webp",
+    "seoFilename": "solar-panel-cleaning-residential--c36ed8af22.webp",
+    "ingestedAt": "2026-07-30T03:09:48.140Z"
+  },
+  {
+    "id": "c7be72e228",
+    "status": "classified",
+    "service": "window-cleaning",
+    "beforeAfter": "after",
+    "city": null,
+    "thumbnail": "media/thumbnails/window-cleaning-residential--c7be72e228.webp",
+    "seoFilename": "window-cleaning-residential--c7be72e228.webp",
+    "ingestedAt": "2026-07-30T03:08:49.480Z"
+  },
+  {
+    "id": "c7e141611e",
+    "status": "classified",
+    "service": "holiday-light-installation",
+    "beforeAfter": "after",
+    "city": null,
+    "thumbnail": "media/thumbnails/holiday-light-installation-residential--c7e141611e.webp",
+    "seoFilename": "holiday-light-installation-residential--c7e141611e.webp",
+    "ingestedAt": "2026-07-30T03:09:16.425Z"
+  },
+  {
+    "id": "cfe1751065",
+    "status": "classified",
+    "service": "holiday-light-installation",
+    "beforeAfter": "after",
+    "city": null,
+    "thumbnail": "media/thumbnails/holiday-light-installation-residential--cfe1751065.webp",
+    "seoFilename": "holiday-light-installation-residential--cfe1751065.webp",
+    "ingestedAt": "2026-07-30T03:09:06.303Z"
+  },
+  {
+    "id": "d6aac40dfc",
+    "status": "classified",
+    "service": "solar-panel-cleaning",
+    "beforeAfter": "after",
+    "city": null,
+    "thumbnail": "media/thumbnails/solar-panel-cleaning-residential--d6aac40dfc.webp",
+    "seoFilename": "solar-panel-cleaning-residential--d6aac40dfc.webp",
+    "ingestedAt": "2026-07-30T03:09:51.123Z"
+  },
+  {
+    "id": "d7c82eb63c",
+    "status": "classified",
+    "service": "pressure-washing",
+    "beforeAfter": "after",
+    "city": null,
+    "thumbnail": "media/thumbnails/pressure-washing-residential--d7c82eb63c.webp",
+    "seoFilename": "pressure-washing-residential--d7c82eb63c.webp",
+    "ingestedAt": "2026-07-30T03:10:05.687Z"
+  },
+  {
+    "id": "d90b2ef483",
+    "status": "classified",
+    "service": "window-cleaning",
+    "beforeAfter": "after",
+    "city": null,
+    "thumbnail": "media/thumbnails/window-cleaning--d90b2ef483.webp",
+    "seoFilename": "window-cleaning--d90b2ef483.webp",
+    "ingestedAt": "2026-07-30T04:44:23.161Z"
+  },
+  {
+    "id": "db0296e892",
+    "status": "classified",
+    "service": "holiday-light-installation",
+    "beforeAfter": "after",
+    "city": null,
+    "thumbnail": "media/thumbnails/holiday-light-installation-residential--db0296e892.webp",
+    "seoFilename": "holiday-light-installation-residential--db0296e892.webp",
+    "ingestedAt": "2026-07-30T03:09:23.972Z"
+  },
+  {
+    "id": "e366b4af4b",
+    "status": "classified",
+    "service": "permanent-lighting",
+    "beforeAfter": "after",
+    "city": null,
+    "thumbnail": "media/thumbnails/permanent-lighting-residential--e366b4af4b.webp",
+    "seoFilename": "permanent-lighting-residential--e366b4af4b.webp",
+    "ingestedAt": "2026-07-30T03:09:01.709Z"
+  },
+  {
+    "id": "ed23d8d99d",
+    "status": "classified",
+    "service": "pressure-washing",
+    "beforeAfter": "before",
+    "city": null,
+    "thumbnail": "media/thumbnails/pressure-washing-residential--ed23d8d99d.webp",
+    "seoFilename": "pressure-washing-residential--ed23d8d99d.webp",
+    "ingestedAt": "2026-07-30T03:09:54.054Z"
+  },
+  {
+    "id": "f7f1d7eb94",
+    "status": "classified",
+    "service": "pressure-washing",
+    "beforeAfter": "before",
+    "city": null,
+    "thumbnail": "media/thumbnails/pressure-washing-residential--f7f1d7eb94.webp",
+    "seoFilename": "pressure-washing-residential--f7f1d7eb94.webp",
+    "ingestedAt": "2026-07-30T03:09:43.317Z"
+  },
+  {
+    "id": "fda69b1945",
+    "status": "classified",
+    "service": "gutter-cleaning",
+    "beforeAfter": "after",
+    "city": null,
+    "thumbnail": "media/thumbnails/gutter-cleaning-residential--fda69b1945.webp",
+    "seoFilename": "gutter-cleaning-residential--fda69b1945.webp",
+    "ingestedAt": "2026-07-30T03:09:40.299Z"
+  },
+  {
+    "id": "fe2e3e1f38",
+    "status": "classified",
+    "service": "solar-panel-cleaning",
+    "beforeAfter": "before",
+    "city": null,
+    "thumbnail": "media/thumbnails/solar-panel-cleaning-residential--fe2e3e1f38.webp",
+    "seoFilename": "solar-panel-cleaning-residential--fe2e3e1f38.webp",
+    "ingestedAt": "2026-07-30T03:09:56.920Z"
+  },
+  {
+    "id": "fe70d9c5b9",
+    "status": "classified",
+    "service": "holiday-light-installation",
+    "beforeAfter": "after",
+    "city": null,
+    "thumbnail": "media/thumbnails/holiday-light-installation-residential--fe70d9c5b9.webp",
+    "seoFilename": "holiday-light-installation-residential--fe70d9c5b9.webp",
+    "ingestedAt": "2026-07-30T03:09:19.450Z"
+  }
+]

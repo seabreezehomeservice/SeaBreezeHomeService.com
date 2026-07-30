@@ -1,0 +1,58 @@
+{
+  "id": "1644864caa",
+  "originalFilename": "IMG_5109.JPG",
+  "sha256": "1644864caa7165f747399e28a4b306fcd6d33d892fcc34a927cc043288d96524",
+  "ingestedAt": "2026-07-30T03:09:25.803Z",
+  "captureDate": "2025-12-09T02:55:58.000Z",
+  "dimensions": {
+    "width": 4032,
+    "height": 3024
+  },
+  "paths": {
+    "original": "media/processed/originals/1644864caa.jpg",
+    "optimized": "media/optimized/permanent-lighting-residential--1644864caa.webp",
+    "optimizedAvif": "media/optimized/permanent-lighting-residential--1644864caa.avif",
+    "responsive": {
+      "400": "media/optimized/permanent-lighting-residential--1644864caa-400.webp",
+      "800": "media/optimized/permanent-lighting-residential--1644864caa-800.webp",
+      "1200": "media/optimized/permanent-lighting-residential--1644864caa-1200.webp",
+      "1600": "media/optimized/permanent-lighting-residential--1644864caa-1600.webp"
+    },
+    "thumbnail": "media/thumbnails/permanent-lighting-residential--1644864caa.webp"
+  },
+  "blurPlaceholder": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAADwBACdASoYACAAPu1ip04ppaMiMBgMATAdiUAZv4r9/AbxEYcKbgIsZ67OONh9vKAA/vtlNgoZXR/DSHpDGVRPSJdeWwNpOH4m/c9sOy7yVtFpm8y8S1HjY3LEQcFOc1s2XkdlmeDKDyIPP/2b1uO0BZiPx88Wg4XSxvdPZItA9MgAAAA=",
+  "status": "classified",
+  "classification": {
+    "service": "permanent-lighting",
+    "surfaceType": null,
+    "buildingType": null,
+    "propertyType": "residential",
+    "beforeAfter": "after",
+    "cleaningMethod": null,
+    "equipmentVisible": [],
+    "qualityScore": 0.85,
+    "sharpness": null,
+    "suitableForMarketing": true,
+    "confidence": 100
+  },
+  "seo": {
+    "filename": "permanent-lighting-residential--1644864caa.webp",
+    "title": "Colored uplighting on a home facade at night",
+    "alt": "Colored uplighting on a home facade at night",
+    "caption": "Colored uplighting on a home facade at night",
+    "description": "Colored spotlight uplighting installed along a home’s facade and garage as a holiday lighting display."
+  },
+  "location": {
+    "city": null,
+    "neighborhood": null
+  },
+  "pairing": {
+    "pairId": null,
+    "role": null
+  },
+  "tags": [],
+  "needsReview": false,
+  "finalizedAt": "2026-07-30T03:58:13.577Z",
+  "perceptualHash": "00108c1d56234b4c",
+  "sortOrder": 6
+}

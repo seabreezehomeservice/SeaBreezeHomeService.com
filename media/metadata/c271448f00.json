@@ -1,0 +1,57 @@
+{
+  "id": "c271448f00",
+  "originalFilename": "IMG_6139.PNG",
+  "sourceFolder": "Pressure Washing",
+  "sha256": "c271448f00b2cbfabeef341ca674d70f77c0cc51a4649ffdd74377293df5e6da",
+  "ingestedAt": "2026-07-30T04:44:20.887Z",
+  "captureDate": "2026-07-30T04:38:19.000Z",
+  "dimensions": {
+    "width": 1170,
+    "height": 2532
+  },
+  "perceptualHash": "3df34b6ce66b6586",
+  "paths": {
+    "original": "media/processed/originals/c271448f00.png",
+    "optimized": "media/optimized/pressure-washing--c271448f00.webp",
+    "optimizedAvif": "media/optimized/pressure-washing--c271448f00.avif",
+    "responsive": {
+      "400": "media/optimized/pressure-washing--c271448f00-400.webp",
+      "800": "media/optimized/pressure-washing--c271448f00-800.webp"
+    },
+    "thumbnail": "media/thumbnails/pressure-washing--c271448f00.webp"
+  },
+  "blurPlaceholder": "data:image/webp;base64,UklGRg4BAABXRUJQVlA4IAIBAADwBwCdASoYADQAPulaqE2pJKQiMBv8ASAdCWMAx28wjGm4C3nKQ5WCglR2lcoCEUcw3KhmKJL/LhthPU9/OEVNnbXEvX/pJDAA/vrpBoKuOIKhcgrY108GmnVb1Q4VEthO9kiBEulRez8PL/rZXYe2ZChMBIR21JqkpSgADgz80GuMFQutjcudgTo/MtmdFb9tLl/P3HO1AFvqDF7s0+v46afbpfoPUA5xPc2WzNk7jNAUtdOA721h9aqtXSfG+HMSwSbIcTQye/S9BGoLT+S8pYZvnwDZj0r0Xses0AbFkPbKBzjCtxozC1R829cIsDB/C5xrgGYDxjWsC4+vM6iYAAA=",
+  "status": "classified",
+  "classification": {
+    "service": "pressure-washing",
+    "surfaceType": null,
+    "buildingType": null,
+    "propertyType": null,
+    "beforeAfter": "after",
+    "cleaningMethod": null,
+    "equipmentVisible": [],
+    "qualityScore": 0.85,
+    "sharpness": null,
+    "suitableForMarketing": true,
+    "confidence": 88
+  },
+  "seo": {
+    "filename": "pressure-washing--c271448f00.webp",
+    "title": "Clean tile roof close-up",
+    "alt": "Clean tile roof close-up",
+    "caption": "Clean tile roof close-up",
+    "description": "Tile roof shown clean and uniform in color with no visible staining."
+  },
+  "location": {
+    "city": null,
+    "neighborhood": null
+  },
+  "pairing": {
+    "pairId": null,
+    "role": null
+  },
+  "tags": [],
+  "needsReview": false,
+  "finalizedAt": "2026-07-30T04:45:23.640Z",
+  "sortOrder": 7
+}

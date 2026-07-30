@@ -1,0 +1,56 @@
+{
+  "id": "fda69b1945",
+  "originalFilename": "IMG_5814.PNG",
+  "sha256": "fda69b19456024b48270d27d4146d0b5a4e291a5c37694d75740296085249c59",
+  "ingestedAt": "2026-07-30T03:09:40.299Z",
+  "captureDate": "2026-05-28T05:09:30.000Z",
+  "dimensions": {
+    "width": 1170,
+    "height": 2532
+  },
+  "paths": {
+    "original": "media/processed/originals/fda69b1945.png",
+    "optimized": "media/optimized/gutter-cleaning-residential--fda69b1945.webp",
+    "optimizedAvif": "media/optimized/gutter-cleaning-residential--fda69b1945.avif",
+    "responsive": {
+      "400": "media/optimized/gutter-cleaning-residential--fda69b1945-400.webp",
+      "800": "media/optimized/gutter-cleaning-residential--fda69b1945-800.webp"
+    },
+    "thumbnail": "media/thumbnails/gutter-cleaning-residential--fda69b1945.webp"
+  },
+  "blurPlaceholder": "data:image/webp;base64,UklGRiwBAABXRUJQVlA4ICABAADQBwCdASoYADQAPu1ys1OppqSipAkhMB2JZwDR/AgOU/UkE9+ehI88Q/UqikUHeKQsb+F8q2gk268eCqp3AT2FWuWNRyr8AAD++2WzFkWJfQlwd0YbEkBTkLprL7HFKUKHcDJ1htxvszW6dud21uZuHEg1Rzsq95yQ30mFBQK0V6uM10rl+A/6t/NwGFb2zFfe/gP6LjEWGwlysWo/VcjoucUgNLnn75oh2/MBRrZ5T7PM7s+Xv3gxvA5akuqm3BEsYJ9FfzjgqgDqgxpk14JLkuQ1dlDSeB+YsmFd1aCcY3EEAjQ1X+gAUhJznprK1AMmSElg4MmG8n1CcBNVG0cTXlWi6SEFlrrlsffdAqNqDMNdzFKtv7RxvbZ0FpwAAAA=",
+  "status": "classified",
+  "classification": {
+    "service": "gutter-cleaning",
+    "surfaceType": null,
+    "buildingType": null,
+    "propertyType": "residential",
+    "beforeAfter": "after",
+    "cleaningMethod": null,
+    "equipmentVisible": [],
+    "qualityScore": 0.85,
+    "sharpness": null,
+    "suitableForMarketing": true,
+    "confidence": 100
+  },
+  "seo": {
+    "filename": "gutter-cleaning-residential--fda69b1945.webp",
+    "title": "Clean gutter after cleaning",
+    "alt": "Clean gutter after cleaning",
+    "caption": "Clean gutter after cleaning",
+    "description": "Roof gutter shown clear of debris after professional gutter cleaning."
+  },
+  "location": {
+    "city": null,
+    "neighborhood": null
+  },
+  "pairing": {
+    "pairId": null,
+    "role": null
+  },
+  "tags": [],
+  "needsReview": false,
+  "finalizedAt": "2026-07-30T03:58:13.872Z",
+  "perceptualHash": "00273927510c2610",
+  "sortOrder": 2
+}

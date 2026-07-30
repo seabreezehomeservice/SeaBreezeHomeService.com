@@ -1,0 +1,58 @@
+{
+  "id": "db0296e892",
+  "originalFilename": "IMG_5093.JPG",
+  "sha256": "db0296e892046e0c923e7c07ed6aadffbc57535136203f2c39e37304da714034",
+  "ingestedAt": "2026-07-30T03:09:23.972Z",
+  "captureDate": "2025-12-05T02:16:22.000Z",
+  "dimensions": {
+    "width": 4032,
+    "height": 3024
+  },
+  "paths": {
+    "original": "media/processed/originals/db0296e892.jpg",
+    "optimized": "media/optimized/holiday-light-installation-residential--db0296e892.webp",
+    "optimizedAvif": "media/optimized/holiday-light-installation-residential--db0296e892.avif",
+    "responsive": {
+      "400": "media/optimized/holiday-light-installation-residential--db0296e892-400.webp",
+      "800": "media/optimized/holiday-light-installation-residential--db0296e892-800.webp",
+      "1200": "media/optimized/holiday-light-installation-residential--db0296e892-1200.webp",
+      "1600": "media/optimized/holiday-light-installation-residential--db0296e892-1600.webp"
+    },
+    "thumbnail": "media/thumbnails/holiday-light-installation-residential--db0296e892.webp"
+  },
+  "blurPlaceholder": "data:image/webp;base64,UklGRrgAAABXRUJQVlA4IKwAAAAwBQCdASoYACAAPu1sqlEppaOiqAqpMB2JZwDO7dwLhBWbXL8hIYZ8q910ULoWwwVGAAD+/P9RMe+LXt9wdxo2vyQR19e3eD2Z/YKHyCeFJ2tonTZmdGEiv9D3Ef97wCHUGWbA/wyeMGIfPHIKmtGk/pf7immfqFmc5YqZAeoc0Twp+Zz6smY0hJ3aSSEZxDpvpVSlIddHgLu1BDlwYCUMLCL/B6UE6IAKAAAA",
+  "status": "classified",
+  "classification": {
+    "service": "holiday-light-installation",
+    "surfaceType": null,
+    "buildingType": null,
+    "propertyType": "residential",
+    "beforeAfter": "after",
+    "cleaningMethod": null,
+    "equipmentVisible": [],
+    "qualityScore": 0.85,
+    "sharpness": null,
+    "suitableForMarketing": true,
+    "confidence": 100
+  },
+  "seo": {
+    "filename": "holiday-light-installation-residential--db0296e892.webp",
+    "title": "Warm white holiday lighting on a covered porch",
+    "alt": "Warm white holiday lighting on a covered porch",
+    "caption": "Warm white holiday lighting on a covered porch",
+    "description": "Warm white holiday string lights along a covered front porch, with Christmas trees visible through the windows."
+  },
+  "location": {
+    "city": null,
+    "neighborhood": null
+  },
+  "pairing": {
+    "pairId": null,
+    "role": null
+  },
+  "tags": [],
+  "needsReview": false,
+  "finalizedAt": "2026-07-30T03:58:13.847Z",
+  "perceptualHash": "001680171b2b2623",
+  "sortOrder": 8
+}

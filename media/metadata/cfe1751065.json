@@ -1,0 +1,58 @@
+{
+  "id": "cfe1751065",
+  "originalFilename": "IMG_4712.HEIC",
+  "sha256": "cfe1751065dbb975d5978a54bd89fea365d2544c0937864faf43de1e8be5b6cd",
+  "ingestedAt": "2026-07-30T03:09:06.303Z",
+  "captureDate": "2025-11-01T01:20:55.000Z",
+  "dimensions": {
+    "width": 3024,
+    "height": 4032
+  },
+  "paths": {
+    "original": "media/processed/originals/cfe1751065.heic",
+    "optimized": "media/optimized/holiday-light-installation-residential--cfe1751065.webp",
+    "optimizedAvif": "media/optimized/holiday-light-installation-residential--cfe1751065.avif",
+    "responsive": {
+      "400": "media/optimized/holiday-light-installation-residential--cfe1751065-400.webp",
+      "800": "media/optimized/holiday-light-installation-residential--cfe1751065-800.webp",
+      "1200": "media/optimized/holiday-light-installation-residential--cfe1751065-1200.webp",
+      "1600": "media/optimized/holiday-light-installation-residential--cfe1751065-1600.webp"
+    },
+    "thumbnail": "media/thumbnails/holiday-light-installation-residential--cfe1751065.webp"
+  },
+  "blurPlaceholder": "data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAAAQBQCdASoYACAAPulep02pJSOiN/VYASAdCWYAU/APf7yrMXQyVVPVC1+4+t39rJIAAP7pN/sorZtZoKQHa/wyfykG9MyXLKbjrdMR8Uv6tGok0PjM0szGSXHsSJ0B5hmlp/69oDXIm6Pz2PUNtaMunBFa/0TKc++1b8z1QU8S2OSQfYNAWu+7pQTtYIKlyukBdgAA",
+  "status": "classified",
+  "classification": {
+    "service": "holiday-light-installation",
+    "surfaceType": null,
+    "buildingType": null,
+    "propertyType": "residential",
+    "beforeAfter": "after",
+    "cleaningMethod": null,
+    "equipmentVisible": [],
+    "qualityScore": 0.85,
+    "sharpness": null,
+    "suitableForMarketing": true,
+    "confidence": 100
+  },
+  "seo": {
+    "filename": "holiday-light-installation-residential--cfe1751065.webp",
+    "title": "Warm white holiday lighting with icicle light display",
+    "alt": "Warm white holiday lighting with icicle light display",
+    "caption": "Warm white holiday lighting with icicle light display",
+    "description": "Warm white roofline holiday lights paired with a blue icicle light display in a window recess, at dusk."
+  },
+  "location": {
+    "city": null,
+    "neighborhood": null
+  },
+  "pairing": {
+    "pairId": null,
+    "role": null
+  },
+  "tags": [],
+  "needsReview": false,
+  "finalizedAt": "2026-07-30T03:58:13.826Z",
+  "perceptualHash": "ffff3e1e1f183241",
+  "sortOrder": 5
+}

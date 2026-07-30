@@ -9,3 +9,13 @@ CLAUDE.md
 *.HEIC
 clekt.co.uk_.png
 images/clekt.co.uk_.png
+
+# Media pipeline: raw drop zone and archived originals are private source
+# material, not deploy assets — never commit them. Optimized/thumbnail
+# renditions and metadata ARE tracked (they're the published DAM output).
+media/incoming/*
+!media/incoming/.gitkeep
+media/processed/originals/*
+!media/processed/originals/.gitkeep
+media/processed/duplicates/*
+!media/processed/duplicates/.gitkeep

@@ -1,0 +1,58 @@
+{
+  "id": "c1fa391d8d",
+  "originalFilename": "IMG_4358.HEIC",
+  "sha256": "c1fa391d8d923a6e7a9b3b6adf4ac2d7a2dbe1479943be5fdb21e6f239991c7f",
+  "ingestedAt": "2026-07-30T03:08:51.872Z",
+  "captureDate": "2025-08-21T18:37:40.000Z",
+  "dimensions": {
+    "width": 3024,
+    "height": 4032
+  },
+  "paths": {
+    "original": "media/processed/originals/c1fa391d8d.heic",
+    "optimized": "media/optimized/solar-panel-cleaning-residential--c1fa391d8d.webp",
+    "optimizedAvif": "media/optimized/solar-panel-cleaning-residential--c1fa391d8d.avif",
+    "responsive": {
+      "400": "media/optimized/solar-panel-cleaning-residential--c1fa391d8d-400.webp",
+      "800": "media/optimized/solar-panel-cleaning-residential--c1fa391d8d-800.webp",
+      "1200": "media/optimized/solar-panel-cleaning-residential--c1fa391d8d-1200.webp",
+      "1600": "media/optimized/solar-panel-cleaning-residential--c1fa391d8d-1600.webp"
+    },
+    "thumbnail": "media/thumbnails/solar-panel-cleaning-residential--c1fa391d8d.webp"
+  },
+  "blurPlaceholder": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAAAQBACdASoYACAAPuFeqE2opTUiMAwCoBwJaACsL68FEJTLgWPn3H1mYAD+5h/7oAkf7U7H7vvu9eftJ6nkS9fYwunQYIUT4vPIzAsd1Dj0d4KadpHo8COXE9vzKD3k1H4PEAfm1n7kOdZmfOu4MQ1AvAmrhOMBplYqLKUFH7gMYhufmvlyH8ZBdYgc8b7lTlDKnMEZgcAAAA==",
+  "status": "classified",
+  "classification": {
+    "service": "solar-panel-cleaning",
+    "surfaceType": null,
+    "buildingType": null,
+    "propertyType": "residential",
+    "beforeAfter": null,
+    "cleaningMethod": null,
+    "equipmentVisible": [],
+    "qualityScore": 0.85,
+    "sharpness": null,
+    "suitableForMarketing": true,
+    "confidence": 100
+  },
+  "seo": {
+    "filename": "solar-panel-cleaning-residential--c1fa391d8d.webp",
+    "title": "Roofline detail",
+    "alt": "Roofline detail",
+    "caption": "Roofline detail",
+    "description": "Roof tile and eave detail photographed as part of a roof soft-washing job."
+  },
+  "location": {
+    "city": null,
+    "neighborhood": null
+  },
+  "pairing": {
+    "pairId": null,
+    "role": null
+  },
+  "tags": [],
+  "needsReview": false,
+  "finalizedAt": "2026-07-30T03:58:13.792Z",
+  "perceptualHash": "e080400043635a54",
+  "sortOrder": 9
+}

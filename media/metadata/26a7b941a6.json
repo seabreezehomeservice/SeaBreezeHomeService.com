@@ -1,0 +1,56 @@
+{
+  "id": "26a7b941a6",
+  "originalFilename": "IMG_5730.JPG",
+  "sha256": "26a7b941a63e43a39f355ae7ba13e0e47b68400a86bf024d3fdc03eaece40180",
+  "ingestedAt": "2026-07-30T03:09:31.857Z",
+  "captureDate": "2026-05-07T00:22:55.000Z",
+  "dimensions": {
+    "width": 4032,
+    "height": 3024
+  },
+  "paths": {
+    "original": "media/processed/originals/26a7b941a6.jpg",
+    "optimized": "media/optimized/26a7b941a6.webp",
+    "optimizedAvif": "media/optimized/26a7b941a6.avif",
+    "responsive": {
+      "400": "media/optimized/26a7b941a6-400.webp",
+      "800": "media/optimized/26a7b941a6-800.webp",
+      "1200": "media/optimized/26a7b941a6-1200.webp",
+      "1600": "media/optimized/26a7b941a6-1600.webp"
+    },
+    "thumbnail": "media/thumbnails/26a7b941a6.webp"
+  },
+  "blurPlaceholder": "data:image/webp;base64,UklGRiwBAABXRUJQVlA4ICABAAAQBgCdASoYACAAPu1iqE2ppaOiMAgBMB2JaAC1F3+4QZQPACqmiC2d+4pqBfZiDR19Lyqnki/45QAAy5YycVBz96sv1qPdWiIxfpYPe2nUo9z2ZJwZov7PtyabnIhggij9Jf65ThAk/gAHmr828VsiJlpD4iOJA2NmhlzlI3CmzdDWPjtWr5Amr9RTUA8pLk9y0zaIAm+HTzMWSI1+VHdOghHJRWPLHeEuAcY3KJkr5JMgyIVLGwyYNauHHf4rol2UxKpSptz5Y51O2X9He5zmNA0SnC839ha3YZqSIxONueuhK9MoGLIiBGK/1EGD3UECt/s2LnTc4W+Gvo826AiHIEAdwqD7B2eCMzuqraDyqbmayzg1w4CV4swCAagAAAA=",
+  "status": "removed",
+  "classification": {
+    "service": null,
+    "surfaceType": null,
+    "buildingType": null,
+    "propertyType": null,
+    "beforeAfter": null,
+    "cleaningMethod": null,
+    "equipmentVisible": [],
+    "qualityScore": 0.85,
+    "sharpness": null,
+    "suitableForMarketing": false,
+    "confidence": 15
+  },
+  "seo": {
+    "filename": null,
+    "title": null,
+    "alt": null,
+    "caption": null,
+    "description": null
+  },
+  "location": {
+    "city": null,
+    "neighborhood": null
+  },
+  "pairing": {
+    "pairId": null,
+    "role": null
+  },
+  "tags": [],
+  "needsReview": false,
+  "removedAt": "2026-07-30T05:08:54.554Z"
+}

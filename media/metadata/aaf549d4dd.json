@@ -1,0 +1,58 @@
+{
+  "id": "aaf549d4dd",
+  "originalFilename": "IMG_4362.HEIC",
+  "sha256": "aaf549d4ddaa0c7078f529eb4f0f3b435683a881bd453d0446d57d92c033b3df",
+  "ingestedAt": "2026-07-30T03:08:54.305Z",
+  "captureDate": "2025-08-21T19:26:09.000Z",
+  "dimensions": {
+    "width": 3024,
+    "height": 4032
+  },
+  "paths": {
+    "original": "media/processed/originals/aaf549d4dd.heic",
+    "optimized": "media/optimized/solar-panel-cleaning-residential--aaf549d4dd.webp",
+    "optimizedAvif": "media/optimized/solar-panel-cleaning-residential--aaf549d4dd.avif",
+    "responsive": {
+      "400": "media/optimized/solar-panel-cleaning-residential--aaf549d4dd-400.webp",
+      "800": "media/optimized/solar-panel-cleaning-residential--aaf549d4dd-800.webp",
+      "1200": "media/optimized/solar-panel-cleaning-residential--aaf549d4dd-1200.webp",
+      "1600": "media/optimized/solar-panel-cleaning-residential--aaf549d4dd-1600.webp"
+    },
+    "thumbnail": "media/thumbnails/solar-panel-cleaning-residential--aaf549d4dd.webp"
+  },
+  "blurPlaceholder": "data:image/webp;base64,UklGRtYAAABXRUJQVlA4IMoAAAAQBQCdASoYACAAPu1mp02ppiOiMBgMATAdiWhf9ky2ZAQrykTPM5ZnDjHLfG6khGQAAP7nDUX57HYGEgxB20UNzdo9+uF34lmwf8/+23RDu++715/r6OQUokFc0q+/Y99FON7VAgAkD4xGR36/xZnd6Wa9h1TBf1Wl5JasWiptMvvVYAjPzKfbFSsjngqw315ZdZ6n+EVZewv4OkdycIlZe1xZLrwlkGJGJpfRQgEXlT4xZLYOJf3KB64LEfAa6Mfd8/x5sh6yKAAA",
+  "status": "classified",
+  "classification": {
+    "service": "solar-panel-cleaning",
+    "surfaceType": null,
+    "buildingType": null,
+    "propertyType": "residential",
+    "beforeAfter": "after",
+    "cleaningMethod": null,
+    "equipmentVisible": [],
+    "qualityScore": 0.85,
+    "sharpness": null,
+    "suitableForMarketing": true,
+    "confidence": 100
+  },
+  "seo": {
+    "filename": "solar-panel-cleaning-residential--aaf549d4dd.webp",
+    "title": "Clean solar panels under clear sky",
+    "alt": "Clean solar panels under clear sky",
+    "caption": "Clean solar panels under clear sky",
+    "description": "Rooftop solar panels shown clean and free of dust after professional solar panel cleaning."
+  },
+  "location": {
+    "city": null,
+    "neighborhood": null
+  },
+  "pairing": {
+    "pairId": null,
+    "role": null
+  },
+  "tags": [],
+  "needsReview": false,
+  "finalizedAt": "2026-07-30T03:58:13.773Z",
+  "perceptualHash": "0be2c6787063daac",
+  "sortOrder": 10
+}

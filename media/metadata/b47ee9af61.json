@@ -1,0 +1,56 @@
+{
+  "id": "b47ee9af61",
+  "originalFilename": "IMG_5810.PNG",
+  "sha256": "b47ee9af61da9ea625cc4c09384d0f02f04dfc93b7f7bdf75833045e6441facf",
+  "ingestedAt": "2026-07-30T03:09:36.551Z",
+  "captureDate": "2026-05-28T05:06:30.000Z",
+  "dimensions": {
+    "width": 1170,
+    "height": 2532
+  },
+  "paths": {
+    "original": "media/processed/originals/b47ee9af61.png",
+    "optimized": "media/optimized/pressure-washing-residential--b47ee9af61.webp",
+    "optimizedAvif": "media/optimized/pressure-washing-residential--b47ee9af61.avif",
+    "responsive": {
+      "400": "media/optimized/pressure-washing-residential--b47ee9af61-400.webp",
+      "800": "media/optimized/pressure-washing-residential--b47ee9af61-800.webp"
+    },
+    "thumbnail": "media/thumbnails/pressure-washing-residential--b47ee9af61.webp"
+  },
+  "blurPlaceholder": "data:image/webp;base64,UklGRjIBAABXRUJQVlA4ICYBAADwBwCdASoYADQAPu1oq1CppaOirBVbMTAdiWMAxcwKGgMDDlyvKJ6n9L/YPjOf0jRR08bYra7DOFS2w73tz2Rnh6UpUYWh9iAA/vMU1Mbk+9uXKSxWf4GV9zyN0iXDeNFfFOthkN1fn+U4g3N00OnV2zPAo0w5/dXxs250h7jeuL47QqS46l5IeLkqWhu5xcZB6C6zZfs22FkbotMx2qCtIwtJzGl6zDbqk4Tr8gC7Havcto/3hN8rghHv/QkMUceqthCsD9t+68xThGs6JzPQQ9KwhwrbSkrhgr1lH5t6hy7X3kg+enlON/oi3y8sGHUN8mBFF8LuKTXsIPsskLBStsohXcZRNwqM+DYQGIvqSnrCGvJGMyqAUW9gYv5BG1kPsDtgAAA=",
+  "status": "removed",
+  "classification": {
+    "service": "pressure-washing",
+    "surfaceType": null,
+    "buildingType": null,
+    "propertyType": "residential",
+    "beforeAfter": null,
+    "cleaningMethod": null,
+    "equipmentVisible": [],
+    "qualityScore": 0.85,
+    "sharpness": null,
+    "suitableForMarketing": true,
+    "confidence": 100
+  },
+  "seo": {
+    "filename": "pressure-washing-residential--b47ee9af61.webp",
+    "title": "Concrete surface being pressure washed",
+    "alt": "Concrete surface being pressure washed",
+    "caption": "Concrete surface being pressure washed",
+    "description": "Concrete surface shown wet mid-cleaning during a pressure washing service, with dirty runoff visible."
+  },
+  "location": {
+    "city": null,
+    "neighborhood": null
+  },
+  "pairing": {
+    "pairId": null,
+    "role": null
+  },
+  "tags": [],
+  "needsReview": false,
+  "finalizedAt": "2026-07-30T03:58:13.778Z",
+  "perceptualHash": "121f3dcbce59e84d",
+  "removedAt": "2026-07-30T05:08:54.565Z"
+}

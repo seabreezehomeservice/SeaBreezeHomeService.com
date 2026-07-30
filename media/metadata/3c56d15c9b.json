@@ -1,0 +1,58 @@
+{
+  "id": "3c56d15c9b",
+  "originalFilename": "IMG_4768.JPG",
+  "sha256": "3c56d15c9b1470faad698a41611ad515e97386d77473fe8c91d2406e194e0b5c",
+  "ingestedAt": "2026-07-30T03:09:12.325Z",
+  "captureDate": "2025-11-09T07:04:43.000Z",
+  "dimensions": {
+    "width": 4032,
+    "height": 3024
+  },
+  "paths": {
+    "original": "media/processed/originals/3c56d15c9b.jpg",
+    "optimized": "media/optimized/holiday-light-installation-residential--3c56d15c9b.webp",
+    "optimizedAvif": "media/optimized/holiday-light-installation-residential--3c56d15c9b.avif",
+    "responsive": {
+      "400": "media/optimized/holiday-light-installation-residential--3c56d15c9b-400.webp",
+      "800": "media/optimized/holiday-light-installation-residential--3c56d15c9b-800.webp",
+      "1200": "media/optimized/holiday-light-installation-residential--3c56d15c9b-1200.webp",
+      "1600": "media/optimized/holiday-light-installation-residential--3c56d15c9b-1600.webp"
+    },
+    "thumbnail": "media/thumbnails/holiday-light-installation-residential--3c56d15c9b.webp"
+  },
+  "blurPlaceholder": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAADQBACdASoYACAAPu1irVAppSQisBgIATAdiUAZIg0r98Nf3v+AJloiyU/BnzEF4AD+/VE68CtIPv3eNWohqe1fTCSOLKJ9+wYPCwVXqW6IEg1qk4oER9uUYoAno5GJJNLyW5RjbJJQCho/OGPvi6IDqSN41DgwAAA=",
+  "status": "classified",
+  "classification": {
+    "service": "holiday-light-installation",
+    "surfaceType": null,
+    "buildingType": null,
+    "propertyType": "residential",
+    "beforeAfter": "after",
+    "cleaningMethod": null,
+    "equipmentVisible": [],
+    "qualityScore": 0.85,
+    "sharpness": null,
+    "suitableForMarketing": true,
+    "confidence": 100
+  },
+  "seo": {
+    "filename": "holiday-light-installation-residential--3c56d15c9b.webp",
+    "title": "Multicolor holiday lights with yard character displays",
+    "alt": "Multicolor holiday lights with yard character displays",
+    "caption": "Multicolor holiday lights with yard character displays",
+    "description": "Classic multicolor holiday string lights along the roofline paired with lit yard character displays."
+  },
+  "location": {
+    "city": null,
+    "neighborhood": null
+  },
+  "pairing": {
+    "pairId": null,
+    "role": null
+  },
+  "tags": [],
+  "needsReview": false,
+  "finalizedAt": "2026-07-30T03:58:13.639Z",
+  "perceptualHash": "0418870f15188306",
+  "sortOrder": 11
+}
