@@ -45,16 +45,44 @@ window.SeaBreezeSlideshow = (function () {
     let timer = null;
     let inView = false;
 
+    // The full-size master can be 150KB+ — massive overkill on a phone
+    // screen. Pick the smallest responsive rendition that still covers the
+    // stage at its actual on-screen size (accounting for retina displays),
+    // falling back to the full master only if nothing big enough exists.
+    function bestSrc(item) {
+      const sizes = item.responsive ? Object.keys(item.responsive).map(Number).sort((a, b) => a - b) : [];
+      if (sizes.length === 0) return item.full;
+      const targetWidth = Math.ceil((stage.clientWidth || window.innerWidth || 800) * (window.devicePixelRatio || 1));
+      for (const w of sizes) {
+        if (w >= targetWidth) return item.responsive[String(w)];
+      }
+      return item.full;
+    }
+
+    // Warm the browser cache for the slides a swipe or click would reach
+    // next, so the actual navigation feels instant instead of waiting on a
+    // fresh network request every time.
+    const preloaded = new Set();
+    function preload(i) {
+      const item = items[(i + items.length) % items.length];
+      const src = bestSrc(item);
+      if (preloaded.has(src)) return;
+      preloaded.add(src);
+      new Image().src = src;
+    }
+
     function renderSlide() {
       const item = items[index];
       img.classList.remove('loaded');
       stage.style.backgroundImage = item.blur ? `url('${item.blur}')` : 'none';
-      img.src = item.full;
+      img.src = bestSrc(item);
       img.alt = item.alt || item.title || `${label} photo`;
       img.onload = () => img.classList.add('loaded');
       titleEl.textContent = item.title || label;
       subEl.textContent = [item.cityLabel, item.description || item.caption].filter(Boolean).join(' — ');
       counterEl.textContent = `${index + 1} / ${items.length}`;
+      preload(index + 1);
+      preload(index - 1);
     }
 
     function go(delta) {
