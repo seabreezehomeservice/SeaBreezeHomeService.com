@@ -13,7 +13,7 @@
 (function () {
   'use strict';
 
-  var PIXEL_ID = '2058485100977220';
+  var PIXEL_ID = '2366845420799670';
 
   // Never initialize twice, even if the script ends up on a page more than once.
   if (window.__seabreezePixel) return;
