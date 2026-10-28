@@ -33,7 +33,8 @@ const head = (title, desc, canonical, ogImg = 'images/holiday-light-installation
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="styles.css" />`;
+  <link rel="stylesheet" href="styles.css" />
+  <script src="/js/meta-pixel.js" async></script>`;
 
 const navbar = (activeHref = '/') => `
   <nav id="navbar" role="navigation" aria-label="Main navigation">
@@ -117,7 +118,7 @@ const footer = () => `
     </div>
     <div class="footer-bottom">
       <p>© ${YEAR} SeaBreeze Home Service LLC. All rights reserved. Serving San Diego County, CA.</p>
-      <p><a href="/">Home</a></p>
+      <p><a href="/">Home</a> &nbsp; <a href="/privacy.html">Privacy Policy</a></p>
     </div>
   </footer>`;
 
